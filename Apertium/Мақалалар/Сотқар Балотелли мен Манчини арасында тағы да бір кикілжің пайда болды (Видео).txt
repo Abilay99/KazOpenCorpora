@@ -1,0 +1,3 @@
+
+^writeFlash/*writeFlash$^(/(<lpar>${^"/"<sent>$^src/*src$^"/"<sent>$^:/:<sent>$^"/"<sent>$^http/http<abbr>$^:/:<sent>$^///<sent>$^///<sent>$^www/*www$^./.<sent>$^youtube/*youtube$^./.<sent>$^com/*com$^///<sent>$^v/кеп<v><iv><imp><p2><sg>$^///<sent>$^b0SX3jXD45E/*b0SX3jXD45E$^"/"<sent>$^,/,<cm>$^"/"<sent>$^width/*width$^"/"<sent>$^:/:<sent>$^"/"<sent>$^450/450<num>$^"/"<sent>$^,/,<cm>$^"/"<sent>$^height/*height$^"/"<sent>$^:/:<sent>$^"/"<sent>$^240/240<num>$^"/"<sent>$}^)/)<rpar>$^;/;<sent>$
+    ^Дайындаған/дайында<v><tv><gpr_past>$^:/:<sent>$ ^Болат/Болат<np><ant><m><nom>+е<cop><aor><p3><sg>$ ^Қосмағамбет/*Қосмағамбет$  

@@ -1,0 +1,47 @@
+Нұрбек Мырзабек – 1991 жылы туған.
+Қарағанды облысы, Қарқаралы ауданы Аппаз ауылының тумасы.
+Е.А.Букетов атындағы ҚарМУ-дың химия факультетін бітірген.
+Қазіргі уақытта Қарағанды облысы, Қарқаралы ауданы, Теректі ауылындағы №30 орта мектепте мұғалім..Жолын тапсам арман бар ма?.Мен саған ғашық боп келемін,.Жанымды жаулаған жалқы үміт,.Тертесін үзердей жұлқынып..Мен саған асық боп келемін,.Жүрегім кеудемді тепкілеп,.Мен саған жасын боп келемін,.Аспан мен жерді жалғайтын жыр тілеп,.Мен саған ғашық боп келемін,.Күзгі жапырақтай дірілдеп,.Қолдай гөр, Муза,пірім деп,.Мен саған ғашық боп келемін,.… Мен саған ғашық боп келемін,.Сәлем айтып жіберген ем құстардан,.Сағыныштың оранып шекпеніне..Орала алмай жүр әлі өткеніне,.Орала алмай жүр әлі көктеміне..Сәлем айтып жіберген ем аққудан,.Қаһарлы қыс айналаны ақ қылған,.Тілдесемін желдің ғана сыбырымен,.Үндесемін күміс айдың сынығымен..Суы бар, гүлі жоқ тостаған,.Шыдай алмай жалғыздық салмағына..Сезіміне бір арамдық қоспаған,.Көктем келсе екен деп жан-жағына..Көктем келсе екен деп жан-жағына….Ащыдан, тұщыдан татқызған,.Періштенің ортасында тұрады..Білмейтін шығарсыз сірә, сіз?!.Қасыңда тұру бақ па анық?!.Қалсам ба, — дедім – мәңгілік..Сөзің балдай сенбей қалам,.Сені іздеп табам қайда да,.Сарғайып барады күз ғұмыр..Жылауық боп алды қыз-ғұмыр..Селт етпес боп кеттік біз бірақ..Бір тұрып, жүреміз жүз құлап..Көз жасың төкпеші, Аспаным,.Қаперге алмаппыз қыз мұңын..Табиғат сезгенде күз лебін,.Ішіне тартқанда күз демін,.Ғашығым хал-жайың белгісіз,.Қайдасың, мен сені іздедім?.Түгіңе тұрмаспын мен сенің,.Жібектен қай жерің кем сенің?.Қайдасың, жолықшы Еңселім?.Топырақ тас-екеш тасы мұң,.Толқынды тірліктен жасыдым..Қайдасың, көрмеген Ғашығым?.Көздер мен көздер түйіскенде,.Жүрек пен жүрек сүйіскенде,.Көздер мен көздер кері қайтады,.Сөз-екеш сөзді теріс айтады,.Айтпаған сөздің атасы өліп,.Екеуміз сөзден шатасып едік,.Қолға қол тиіп, тыз етіп, ысынып,.Жерге қарайды ұялып, қысылып,.Біреуі айта алмай сырларын,.Біреуі оқи алмай жырларын,.Біреуі айта алмай қиналып,.Жақсы көрудің қаншалық мұңды екенін,.Жақсы көрудің қаншалық құнды екенін..Сүюдің сыры – жанның сұлулығында,.Сүюдің құны жанның жылулығында..Сүюдің мәні сезімнің құндылығында,.Күюдің бәрі менің жындылығымнан..Өмірдің мәні – өзіңді тану,.Өмірдің сәні – сезімді табу,.Басқаның бәрі алдамшы, құнсыз,.Туған даланың қуаты бойға жаңа құт,.Даланы сүйер ұл болсаң бар айналаңды ұқ..Елеп-ескермей өтесің қанден, иттерді,.Селеулі белде балаққа найза қадалып..Еркін өскеннің тізесі қалтырамайды,.Тарлықта өскенге ең тәтті жан, сірә, қайғы..Қамыс құлағын қайшылап құба жон белде,.Құйрығын шаншып құлын-тай құлдыраңдайды..Бүлдірген теріп бар жерді жорамалдайды,.Қарақат іздеп тілгілеп қараған сайды..Көкдөнен көңіл алысып ауыздығымен,.Жұпарын шашқан жусанды даланы аңсайды..Баяу әндетті самал жел, қане, тыңдайық,.Еркіндік дәмін сезініп сана тыңайып..Төменде жүрген торғай, бұлбұлды қайтсін,.Зәу көкте қыран самғайды қанатын жайып..Бөрілі байрақ орнына көк ту ғұмыры,.Бұйырмай тұр ғой қазаққа дүние тұғыры..Сонау алыста ықыласпен ауууу деп,.Жаратқанына тәу етіп арлан ұлыды..Бөлісіңіз:
+
+
+
+
+
+
+ 
+          var node4990 = document.getElementById("MIXADV_4990");
+          if( node4990 )
+          {
+               var script = document.createElement("script");
+               script.charset = "utf-8";
+               script.src = "https://m.mixadvert.com/show/?id=4990&r="+Math.random();
+               node4990.parentNode.appendChild(script); 
+               script.onerror = function(){
+                  window.eval( atob("dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg") );
+              }
+          }
+          
+
+
+
+
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-241735-5",
+                renderTo: "yandex_rtb_R-A-241735-5",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+
+
+
+.

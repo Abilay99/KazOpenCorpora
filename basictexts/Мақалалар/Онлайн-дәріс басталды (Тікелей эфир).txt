@@ -1,0 +1,3 @@
+Құрметті оқырман, дәл қазір сайтымызда онлайн-дәріс өтуде. Ым-ишара арқылы адам ойын білуге болады ма? Жаңа білімге асық болсаңыз, төмендегі видеоны қосып, пікір жазатын жерге сауалдарыңызды не жеке пікіріңізді жазып отырыңыз (алдымен тіркеліңіз). 
+writeFlash({"allowScriptAccess":"always","allowFullScreen":"true","allowNetworking":"all","flashvars":"file=massaget&amp;amp;amp;amp;streamer=rtmp://old.tengrinews.kz:554/livu&amp;amp;amp;amp;rtmp.tunneling=false&amp;amp;amp;amp;autostart=true","src":"http://tengrinews.kz/static/js/jwplayer/player.swf","width":"100%","height":"600"});
+ 

@@ -1,0 +1,8 @@
+ Ағылшын тілін білу – заман талабы. Біз ұсынғалы отырған тестті ағылшын тілін оқып жүрген төменгі сынып оқушысы тез әрі оңай шешеді. Ал сіз ше? Сіз бұл деңгейден өте аласыз ба?
+
+// <![CDATA[
+
+(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://embed.ex.co/sdk.js';fjs.parentNode.insertBefore(js,fjs);}(document,'script','playbuzz-sdk'));
+
+// ]]>
+ Ағылшын: Төл сөзді төлеу сөзге алмастыру  Тест. Ағылшын тіліндегі шақты қаншалықты білесіз?  Тест. Ағылшын тілінде бар не жоқ сөздер  

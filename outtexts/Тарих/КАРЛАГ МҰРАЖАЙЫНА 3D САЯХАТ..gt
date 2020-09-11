@@ -1,0 +1,58 @@
+Ресей<np> «халық<n> түрме<n>» ата<v>. 
+патшалық<adj> дәуір<n> о<np> билік<n> өкіл<n> аз<adj> ұлт<n> жер<n> алып<n>+е<cop>, ел<n> тал<v>. 
+бері<n> ез<v> халық<n> азаттық<n> әпер<v> де<v> б<np> билік<n> алып<n> империя<n> миллион<num> тозақ<n> айналдыр<v>. 
+сол<prn> л<np> бір<num> К<np>, яғни<cnjsub>, Қарағанды<np> еңбек<n> түзе<v> лагерь<n> ГУЛАГ<np> архипелаг<n> құрам<n> ең<adv> ірі<adj> азап<n> арал<n>+е<cop>. 
+Ақмола<np> және<cnjcoo> Балқаш<np> бөлімше<n> қос<v> есепте<v>, К<np> ауқым<n> Франция<np> жер<n> көлем<n> т<np>. 
+бұл<prn> 1930<num> жыл<n> 1953<num> жыл<n> дейін<post> 3<num> млн<abbr> 778<num> мың<num> 254<num> ада<n> түрлі<adj> айыпта<v> бойынша<post> жаза<n> өте<v>. 
+ол<prn> ара<n> саясаткер<n>, ғалым<n>, мәдениет<n> қайраткер<n> бол<v>. 
+бұл<prn> барлық<prn> қара<adj> жұмыс<n> жек<v>, азап<n> көз<n> жұм<v>. 
+кейбір<adj> дерек<n> 788<num> мың<num> ада<n> ат<v> жаза<n> кес<v> де<v>. К<np> қасірет<n> зерделе<v>, ол<prn> а<np> тұс<n> аш<v> Қарағанды<np> «болашақ<n>» академия<n> «Қ<np> болашақ<n> үшін<post> есте сақта<v>» ғылыми<adj> зертте<v> жоба<n> маңыз<n> зор<adj>+е<cop>. 
+заң<adj> ғылым<n> доктор<n> Нұрлан<np> Д<np> мырза<n> жетекшілік<n> жаса<v> жоба<n> ая<n> К<np> мен<cnjcoo> «Алаш<np> орда<n>» қозғалыс<n> тарих<n> жайлы<adj> 20<num> шақ<n> кітап<n> шығар<v>. 
+
+бүгін<n> К<np> қасірет<n> есте сақта<v> және<cnjcoo> зертте<v> жұмыс<n> жүргіз<v> мақсат<n> Долинка<np> кент<n> саяси<adj> қуғын-сүргін<n> құрбан<n> естелік<n> мұражай<n> аш<v> бол<v>. 
+мұражай<n> қор<n> түпнұсқа<n>+лы<post> экспонат<n> тым<adv> аз<adj> е<cop> ескере отыр<v>, экспозиция<n> дәуір<n> образ<n> айқын<adj> суретте<v> үшін<post> көркемөнер<n> тәсіл<n> қолдан<v> отыр<vaux> а<np> көмкер<v> жандандыр<v> әдіс<n> негіз<n> құр<v>. 
+мұражай<n> ақпараттық<adj> мағыналық<adj> толтыр<v> көп<adj> бөлік<n> бірік<v> бөлек<adj> парақ<n> құжат<n> көшірме<n> және<cnjcoo> жазала<v> сөз<n> жаз<v> естелік<n>+е<cop>, яғни<cnjsub>, материал<n> құжат<n>х<guio>түпнұсқа<n> рет<n> мұражайлық<adj> құндылық<n> жоқ<ij>, бірақ<cnjcoo> тарихи<adj> тұрғы<n> шүбәсіз<adv> ауызша<adj> айтылған<adj> айғақта<v> құра<v>. 
+сондықтан<cnjadv> экспозиция<n> негізгі<adj> суретте<v> құрал<n> бір<num> экспонат<n> тұр<v> қуыс<n> дәуір<n> тарихи<adj> құжат<n> көшірме<n>, сондай-ақ<cnjcoo> бұрын<adv> тұтқын<n> шынайы<adj> естелік<n> мәтін<n> құрастыр<v> *фотопаннолар, бір<num> қабырға<n> қуғын-сүргін<n> зардап<n> шек<v> адам<n> портрет<n> жаса<v> *фотоколлаж және<cnjcoo> фотосурет<n> болып табыл<v>. К<np> мұражай<n> *3D саяхат<n>+е<cop>. сілтеме<n> бас<n> К<np> *3D тур<n>+е<cop>. бөліс<n>
+
+
+
+
+
+
+ 
+ *var *node4990 *document. *getElementById(<lpar> *MIXADV4990<num> )<rpar>
+ *if(<lpar> *node4990 )<rpar>
+ 
+ *var *script *document. *createElement(<lpar> *script )<rpar>
+ *script. *charset *utfх<guio>8<num> 
+ *script. *src *https*m. *mixadvert. *com*show? *id4990<num>*r Math<np>. *random(<lpar>)<rpar>
+ *node4990. *parentNode. *appendChild(<lpar>*script)<rpar> 
+ *script. *onerror *function(<lpar>)<rpar>
+ *window. *eval(<lpar> *atob(<lpar> *dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg )<rpar> )<rpar>
+ 
+ 
+ 
+
+
+
+
+ (<lpar>*function(<lpar>*w, *d, *n, *s, *t)<rpar> 
+ *w*n *w*n 
+ *w*n. *push(<lpar>*function(<lpar>)<rpar> 
+ Ya<np>. Context<np>. Advmanager<np>. *render(<lpar>
+ *blockId R<np>х<guio>A<np>х<guio>241735<num>х<guio>5<num> , 
+ *renderTo *yandex*rtbR<np>х<guio>A<np>х<guio>241735<num>х<guio>5<num> , 
+ *async *true
+ )<rpar>
+ )<rpar>
+ *t *d. *getElementsByTagName(<lpar> *script )<rpar>0<num>
+ *s *d. *createElement(<lpar> *script )<rpar>
+ *s. *type *text*javascript 
+ *s. *src *an. *yandex. *ru*system*context. *js 
+ *s. *async *true
+ *t. *parentNode. *insertBefore(<lpar>*s, *t)<rpar>
+ )<rpar>(<lpar>*this, *this. *document, *yandexContextAsyncCallbacks )<rpar>
+
+
+
+. 

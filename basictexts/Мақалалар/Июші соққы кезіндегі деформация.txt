@@ -1,0 +1,2 @@
+Июші соққы кезіндегі деформация.σg=σcm∗kd{\displaystyle \sigma _{g}=\sigma _{cm}*k_{d}}мұндағы σcm{\displaystyle \sigma _{cm}} - соққы тиген жердің статиалықдеформация шамасы, kd{\displaystyle k_{d}} -динамикалықкоэффициент.   
+

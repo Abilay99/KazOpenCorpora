@@ -1,0 +1,71 @@
+түн<n> бас<adj> шал<v> мүж<v> қал<vaux>. 
+ертең<n> бай<adv> ерт<v> тұр<vaux>, мал<n> өргіз<v> кет<vaux>. 
+көр<adj>+шы<emph> ауыл<n> бір<num> жігіт<n> көңілдес<n> бол<v>. 
+бай<adj> кетіс<n> үй<n> сол<adj> кел<v>. 
+*Сәскеде мал<n> бай<adj> *ертелеу қайт<v>. 
+кет<v> *үлгірмеген жігіт<n> әйел<n> жүк<adj> ара<n> жасыр<v>+да<cnjcoo>, түн<n> қал<v> ет<n> мен<cnjcoo> басты<adj> бай<n> алд<n> қой<v>. 
+бай<adj> басты<adj> *мүжи баста<v> үш<num>х<guio>төрт<num> жасар<adj> бала<n> кел<v>, әке<n> тізе<n> бас<v> отыр<vaux>. 
+сол<adj> ара<n> ол<prn> көз<n> жүк<adj> арасында<adv> жат<v> жігіт<n> көз<n> түс<v> кет<vaux>. 
+ көз<n> қара<v>, көз<n> қара<v>! х<guio>де<v> бала<n>. 
+шош<v> кет<vaux> шеше<n> қолма-қол<adv> сөз<n> тап<v>, әңгіме<n> дереу<adv> бас<n> көз<n> аудар<v>
+ тек<adv> отыр<v>, көз<n> әке<n> өз<prn> же<v>! х<guio> де<v>. 
+бай<adv> мәз бол<v>. 
+«әйел<n> қулық<n> қырық<num> есек<n> жүк<adj> бол<v>» де<v> рас<n> сөз<n>+е<cop>. біз<prn> бала<n> кез<n> Қ<np> де<v> кісі<n> біл<v> е<cop>. 
+кейін<adv> *жеңгелері айт<v> отыр<vaux> е<cop>. 
+Қ<np> ұлы<adj> бар<adj>, қыз<n> бар<adj>, он үш<num> ағайын<n> е<cop>. 
+ол<prn> кез<n> өз<prn> гинеколог<n>, өз<prn> акушер<n> әже<n> арқан<n> кер<v> таста<v>, от<n> май<n> сал<v>, аруақ<n> сиын<v>, келін<n> келсап<n> ұл<n>х<guio>қыз<n> суыр<v> ал<vaux> бер<vaux>+ғой<mod_ass>. 
+ең<adv> соң<n> он үш<num> бол<v> осы<det> ту<v> әйел<n> күйеу<n>
+ мына<ij> бала<n> ат<n> кім<prn> қой<v>? де<v> сұра<v>. 
+сол<prn> әке<n> ат қой<v> шарша<v>+ма<qst>
+ ғой<mod_ass>, бол<v>, де<v> қол<n> бір<num> сілте<v> кетіп қал<v>. 
+сөйт<v>, осы<det> кенже<adj> бала<n> есім<n> Қ<np> де<v> жаз<v> кет<vaux> де<v>. қайран<adj>, аңқылда<v> қазақ<n> *риясыз көңіл<n> амандас<v>, хал<n>х<guio>жағдай<n> сұра<v> өз<prn> қызық<adj> бол<v> бар<adj>+е<cop>. 
+бір<num> бір<num> той<n> жас<n> жетпіс<num> ас<v> бір<num> қария<n> жақын<adj> келін<n> бір<num> ой<n> ештеңе<prn> жоқ<ij> қазақы<adj> ақкөңілділік<n> бұл<prn> де<v> хал<n>х<guio>жағдай<n> сұра<v>
+ е<ij>, *келінжан, қалай<adv> жағдай<n>+е<cop>, жақсы<adj>+ма<qst>, ақ<v>х<guio>туыс<adj>, о<ij> жақ<n> бұл<prn> жақ<n>, ас<v>х<guio>үст<n>, алд<n>х<guio>арт<n> тегіс<postadv> аман<adj>+е<cop>+ма<qst>? де<v> *шұбырта жөнелт<v>. 
+сол<prn> ауыз<n> б<np> келін<n> тұр<v>
+ Қ<np>х<guio>ау<ij>, ақ<v>х<guio>туыс<adj>, хал<n>х<guio>жағдай<n> сұра<v> дұрыс<adj>+е<cop>. 
+ал<cnjcoo>, мен<prn> алд<n>х<guio>арт<n> мен<cnjcoo> аст<n> не<prn> бар<adj>? х<guio> де<v>. 
+Асы<np>+лы<post>, «аңда<v> сөйле<v> ауыр<v> өл<v>» де<v> рас<n> сөз<n>+е<cop>. 
+Қ<np> ештеңе<prn> де<v> ал<vaux>. бөліс<n>
+
+
+
+
+
+
+ 
+ *var *node4990 *document. *getElementById(<lpar> *MIXADV4990<num> )<rpar>
+ *if(<lpar> *node4990 )<rpar>
+ 
+ *var *script *document. *createElement(<lpar> *script )<rpar>
+ *script. *charset *utfх<guio>8<num> 
+ *script. *src *https*m. *mixadvert. *com*show? *id4990<num>*r Math<np>. *random(<lpar>)<rpar>
+ *node4990. *parentNode. *appendChild(<lpar>*script)<rpar> 
+ *script. *onerror *function(<lpar>)<rpar>
+ *window. *eval(<lpar> *atob(<lpar> *dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg )<rpar> )<rpar>
+ 
+ 
+ 
+
+
+
+
+ (<lpar>*function(<lpar>*w, *d, *n, *s, *t)<rpar> 
+ *w*n *w*n 
+ *w*n. *push(<lpar>*function(<lpar>)<rpar> 
+ Ya<np>. Context<np>. Advmanager<np>. *render(<lpar>
+ *blockId R<np>х<guio>A<np>х<guio>241735<num>х<guio>5<num> , 
+ *renderTo *yandex*rtbR<np>х<guio>A<np>х<guio>241735<num>х<guio>5<num> , 
+ *async *true
+ )<rpar>
+ )<rpar>
+ *t *d. *getElementsByTagName(<lpar> *script )<rpar>0<num>
+ *s *d. *createElement(<lpar> *script )<rpar>
+ *s. *type *text*javascript 
+ *s. *src *an. *yandex. *ru*system*context. *js 
+ *s. *async *true
+ *t. *parentNode. *insertBefore(<lpar>*s, *t)<rpar>
+ )<rpar>(<lpar>*this, *this. *document, *yandexContextAsyncCallbacks )<rpar>
+
+
+
+. 

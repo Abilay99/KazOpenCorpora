@@ -1,0 +1,3 @@
+ 
+writeFlash({"src":"http://www.youtube.com/v/LF5cljBWGdM","width":"450","height":"360"});
+   

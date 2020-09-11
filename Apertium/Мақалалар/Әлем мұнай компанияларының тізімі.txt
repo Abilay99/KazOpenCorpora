@@ -1,0 +1,2 @@
+^Бұл/бұл<det><dem>$ ^таңдалған/таңда<v><tv><pass><gpr_past>$ ^мұнай/мұнай<n><nom>$  ^өндіруші/өндір<v><tv><gpr_pot>$ ^компаниялардың/компания<n><pl><gen>$ ^тізімі/тізім<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$  ^Аталған/ата<v><tv><pass><gpr_past>$ ^тізім/тізім<n><nom>$ ^мұнай/мұнай<n><nom>$ ^өңдеуші/өңде<v><tv><gpr_pot>$ ^компанияларды/компания<n><pl><acc>$ ^ескермейді/ескер<v><tv><neg><aor><p3><sg>$^./.<sent>$ ^Үлгі/үлгі<n><nom>$^:/:<sent>$^Petroleum/Petroleum<np><org><nom>+е<cop><aor><p3><sg>$ ^industry/*industry$ 
+

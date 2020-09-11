@@ -1,0 +1,5 @@
+ ^Қазақстандық/қазақстандық<adj>$ ^кәсіпқой/кәсіпқой<n><nom>$ ^боксшысы/боксшы<n><px3sp><nom>$ ^Жәнібек/Жәнібек<np><ant><m><nom>$ ^Әлімханұлының/*Әлімханұлының$ ^бесінші/бес<num><ord>$ ^жекпе/жек<v><tv><neg><imp><p2><sg>$^-/х<guio>$^жегі/жегі<n><nom>$ ^қашан/қашан<adv><itg>$ ^өтетіні/өт<v><tv><ger_impf><px3sp><nom>$ ^белгілі болды/белгілі бол<v><iv><ifi><p3><sg>$
+^Бұл/бұл<det><dem>$ ^туралы/туралы<post>$ ^боксшының/боксшы<n><gen>$ ^Facebook/Facebook<np><unk>$^-/х<guio>$^тағы/тағы<postadv>$ ^"/"<sent>$^Janibek/*Janibek$ ^Alimkhanuly/*Alimkhanuly$ ^team/*team$^"/"<sent>$ ^парақшасында/парақша<n><px3sp><loc>$ ^хабарланды/хабарла<v><tv><pass><ifi><p3><sg>$ ^деп/де<v><tv><gna_perf>$ ^жазады/жаз<v><tv><aor><p3><sg>$ ^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$^./.<sent>$
+^Фото/фото<n><nom>$^:/:<sent>$ ^ult/*ult$^./.<sent>$^kz/kz<abbr>$
+^Желідегі/желі<n><loc><attr>$ ^мәліметке/мәлімет<n><dat>$ ^сүйенсек/сүйен<v><iv><gna_cond><p1><pl>$ ^боксшының/боксшы<n><gen>$ ^бұл жолғы/бұл жолғы<adv>$ ^жекпе/жек<v><tv><neg><imp><p2><sg>$^-/х<guio>$^жегі де/жегі<n><nom>+да<cnjcoo>$ ^АҚШ-та/АҚШ<np><top><loc>+е<cop><aor><p3><sg>$ ^өтпек/өт<v><tv><prc_fplan>$
+

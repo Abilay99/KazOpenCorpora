@@ -1,0 +1,6 @@
+  
+^writeFlash/*writeFlash$^(/(<lpar>${^"/"<sent>$^src/*src$^"/"<sent>$^:/:<sent>$^"/"<sent>$^http/http<abbr>$^:/:<sent>$^///<sent>$^///<sent>$^www/*www$^./.<sent>$^youtube/*youtube$^./.<sent>$^com/*com$^///<sent>$^v/кеп<v><iv><imp><p2><sg>$^///<sent>$^fu0ZaRng7dc/*fu0ZaRng7dc$^"/"<sent>$^,/,<cm>$^"/"<sent>$^width/*width$^"/"<sent>$^:/:<sent>$^"/"<sent>$^450/450<num>$^"/"<sent>$^,/,<cm>$^"/"<sent>$^height/*height$^"/"<sent>$^:/:<sent>$^"/"<sent>$^338/338<num>$^"/"<sent>$}^)/)<rpar>$^;/;<sent>$
+ 
+^writeFlash/*writeFlash$^(/(<lpar>${^"/"<sent>$^src/*src$^"/"<sent>$^:/:<sent>$^"/"<sent>$^http/http<abbr>$^:/:<sent>$^///<sent>$^///<sent>$^www/*www$^./.<sent>$^youtube/*youtube$^./.<sent>$^com/*com$^///<sent>$^v/кеп<v><iv><imp><p2><sg>$^///<sent>$^rkj2vgEC6a4/*rkj2vgEC6a4$#^t/*t$^"/"<sent>$^,/,<cm>$^"/"<sent>$^width/*width$^"/"<sent>$^:/:<sent>$^"/"<sent>$^450/450<num>$^"/"<sent>$^,/,<cm>$^"/"<sent>$^height/*height$^"/"<sent>$^:/:<sent>$^"/"<sent>$^338/338<num>$^"/"<sent>$}^)/)<rpar>$^;/;<sent>$
+
+    

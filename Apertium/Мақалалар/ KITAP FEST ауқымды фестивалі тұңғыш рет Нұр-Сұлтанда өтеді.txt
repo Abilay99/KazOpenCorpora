@@ -1,0 +1,1 @@
+ ^Нұр/нұр<n><nom>$^-/х<guio>$^Сұлтанда/Сұлтан<np><ant><m><loc>$ ^KITAP/*KITAP$ ^FEST/Fest<np><unk>$ ^ауқымды/ауқымды<adj>$ ^кітап/кітап<n><nom>$ ^фестивалі/фестиваль<n><px3sp><nom><err_orth>$ ^өтеді/өт<v><tv><aor><p3><sg>$^,/,<cm>$ ^деп/де<v><tv><gna_perf>$ ^хабарлайды/хабарла<v><tv><aor><p3><sg>$ ^Tengrinews/*Tengrinews$^./.<sent>$^kz/kz<abbr>$^./.<sent>$ 

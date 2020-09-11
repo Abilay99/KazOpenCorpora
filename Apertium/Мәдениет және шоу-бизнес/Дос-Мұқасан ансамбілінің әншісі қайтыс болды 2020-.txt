@@ -1,0 +1,13 @@
+^Қазақстандық/қазақстандық<adj>$ ^танымал/танымал<adj>$ ^"/"<sent>$^Дос/Дос<np><ant><m><nom>$^-/х<guio>$^Мұқасан/*Мұқасан$^"/"<sent>$ ^ансамблінің/ансамбль<n><px3sp><gen><err_orth>$ ^мүшесі/мүше<n><px3sp><nom>$ ^Хамит/Хамит<np><ant><m><nom>$ ^Санбаев/Санбаев<np><cog><m><nom>$ ^қайтыс болды/қайтыс бол<v><tv><ifi><p3><sg>$
+^Топ/топ<n><nom>$ ^әншісінің/әнші<n><px3sp><gen>$ ^қазасы/қаза<n><px3sp><nom>$ ^туралы/туралы<post>$ ^ұжымның/ұжым<n><gen>$ ^ресми/ресми<adj>$ ^Instagram/*Instagram$ ^парақшасында/парақша<n><px3sp><loc>$ ^хабарланды/хабарла<v><tv><pass><ifi><p3><sg>$ ^деп/де<v><tv><gna_perf>$ ^жазады/жаз<v><tv><aor><p3><sg>$ ^KAZ/Kaz<np><unk>$^./.<sent>$^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$^./.<sent>$
+^Фото/фото<n><nom>$^:/:<sent>$ ^Instagram/*Instagram$^///<sent>$^dos/*dos$_^mukasan/*mukasan$_^official/*official$
+^Коллаж/коллаж<n><nom>$^:/:<sent>$ ^KAZ/Kaz<np><unk>$^./.<sent>$^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$
+^"/"<sent>$^Дос/Дос<np><ant><m><nom>$^-/х<guio>$^Мұқасан/*Мұқасан$^"/"<sent>$ ^тобы/топ<n><px3sp><nom>$ ^1967/1967<num>$ ^жылы/жыл<n><px3sp><nom>$ ^қазіргі/қазір<adv><attr>$ ^Қазақ/қазақ<adj>$ ^мемлекеттік/мемлекеттік<adj>$ ^ұлттық/ұлттық<adj>$ ^техникалық/техникалық<adj>$ ^университеті/университет<n><px3sp><nom>$ ^жанынан/жан<n><px3sp><abl>$ ^құрылды/құр<v><tv><pass><ifi><p3><sg>$
+
+^Тағы да/тағы<adv>+да<cnjcoo>$ ^оқыңыздар/оқ<n><px2pl><frm><nom>$
+^Қорқыт/қорқыт<v><tv><imp><p2><sg>$ ^ата/ата<n><nom>$ ^туралы/туралы<post>$ ^не/не<cnjcoo>$ ^білеміз/біл<v><tv><aor><p1><pl>$^?/?<sent>$
+^Хамит/Хамит<np><ant><m><nom>$ ^Санбаев/Санбаев<np><cog><m><nom>$  ^1967/1967<num>$^-/х<guio>$^1972/1972<num>$ ^жылдары/жыл<n><pl><px3sp><nom>$ ^топтың/топ<n><gen>$ ^құрамында/құрам<n><px3sp><loc>$ ^өнер/өн<v><iv><gpr_fut>$ ^көрсеткен/көрсет<v><tv><past><p3><sg>$^./.<sent>$
+^KAZ/Kaz<np><unk>$^./.<sent>$^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$ ^редакциясы/редакция<n><px3sp><nom>$ ^Хамит/Хамит<np><ant><m><nom>$ ^Санбаевтың/Санбаев<np><cog><m><gen>$ ^отбасы/отбасы<n><nom>$ ^мен/мен<cnjcoo>$ ^жақындарына/жақын<n><pl><px3sp><dat>$ ^қайғырып/қайғыр<v><iv><gna_perf>$ ^көңіл айтады/көңіл айт<v><iv><aor><p3><sg>$
+
+
+^Ең/ең<adv>$ ^маңызды/маңызды<adj>$ ^әрі/әрі<cnjcoo>$ ^қызықты/қызықты<adj>$ ^жаңалықтарды/жаңалық<n><pl><acc>$ ^біздің/біз<prn><pers><p1><pl><gen>$ ^Telegram/Telegram<np><unk>$ ^арнамыздан/арна<n><px1pl><abl>$ ^оқыңыздар/оқы<v><tv><imp><p2><frm><pl>$^!/!<sent>$ 

@@ -1,0 +1,2 @@
+^Иридодиктиум/*Иридодиктиум$ ^(/(<lpar>$^лат./лат.<abbr>$ ^Iris/I<np>ris$ ^subg/*subg$^./.<sent>$ ^Hermodactyloides/*Hermodactyloides$ ^немесе/немесе<cnjcoo>$ ^Iridodictyum/I<np>ridodictyum$^)/)<rpar>$ ^–/–<guio>$ ^құртқашаштар/*құртқашаштар$ ^тұқымдасына/тұқымдас<n><px3sp><dat>$ ^жататын/жат<v><iv><gpr_impf>$ ^құртқашаш/*құртқашаш$ ^туысының/туыс<n><px3sp><gen>$ ^кіші/кіші<adj>$ ^тегі/тек<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$  
+

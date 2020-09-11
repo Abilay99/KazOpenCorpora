@@ -1,0 +1,2 @@
+^Статикалық/статикалық<adj>$ ^объект/объект<n><nom>+е<cop><aor><p3><sg>$ ^(/(<lpar>$^Статический/С<np>татический$ ^объект/объект<n><nom>+е<cop><aor><p3><sg>$^;/;<sent>$ ^static/*static$ ^object/*object$^)/)<rpar>$  ^—/—<guio>$ ^программаның/программа<n><gen>$ ^орындалуы/орында<v><tv><pass><ger><px3sp><nom>$ ^басталғанға/баста<v><tv><pass><ger_past><dat>$ ^дейін/дейін<post>$ ^жарияланған/жарияла<v><tv><pass><gpr_past>$ ^объект/объект<n><nom>+е<cop><aor><p3><sg>$^./.<sent>$   
+

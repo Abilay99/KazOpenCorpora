@@ -1,0 +1,52 @@
+абай<adj> мен<prn> қазақ<n> егіз<n> ұғым<n> айнал<v>. 
+Абай<np> оқы<v>, Абай<np> дәріпте<v> әр<det> қазақ<n> бала<n> мойын<n> жүкте<v> міндет<n>+е<cop>. 
+сай<v> кел<vaux> Елбас<np> Н<np>. ә<ij>. Назарбаев<np> ұсын<v> «мәңгілік<adj> ел<n>» идея<n> іске асыр<v> үшін<post>, біз<prn> Абай<np> шығарма<n> сана<n> сіңір<v> керек<adj>+е<cop>, әсіресе<adv> сақаулан<v> бар<v> жат<vaux> осы<det> күн<n> алдын алу<n> мақсат<n>+е<cop>. 
+міне<ij> осы<det> ниет<n> қала<n> нақты<adj> айт<v> Қарағанды<np> «болашақ<n>» академия<n> «қазақ<adj> тіл<n> мен<cnjcoo> әдебиет<n>» мамандық<n> оқытушы<n> мен<cnjcoo> студент<n> ұйымдастыр<v> ашық<adj> сабақ<n> өткіз<v>. сабақ<n> тақырып<n> «Абай<np> сөз<n>х<guio>қазақ<n> бойтұмар<n>» атты<adj> дәйексөз<n> тиек<n> бол<v>. 
+шара<n> «болашақ<n>» академия<n> «қазақ<adj> тіл<n> мен<cnjcoo> әдебиет<n>» мамандық<n> оқытушы<n> Жандос<np> Ш<np> дәріс<n> баста<v>, өзге<adj> мамандық<n> студент<n> сұрақ<n> жауап бер<v> аяқта<v>. одан әрі<adv> сабақ<n> «болашақ<n>» академия<n> «қазақ<adj> тіл<n> мен<cnjcoo> әдебиет<n>» мамандық<n> студент<n> ұйымдастыр<v> шағын<adj> концерттік<adj> бағдарлама<n> жалғас<v>. 
+шара<n> студент<n> Абай<np> ата<n> арна<v> арна<v>, басқа<adj> тіл<n> аудар<v> Абай<np> өлең<n>, ән<n> мен<cnjcoo> күй<n> тарт<v> етті<adj>. 
+сабақ<n> соң<n> «болашақ<n>» академия<n> «қазақ<adj> тіл<n> мен<cnjcoo> әдебиет<n>» кафедра<n> жетекші<n> Құрманғазы<np> З<np> мен<prn> «болашақ<n>» академия<n> «қылмыстық<adj> құқық<n> және<cnjcoo> іс жүргізу<n>» кафедра<n> жетекші<n> Ақылбек<np> Т<np> *қорытындылап және<cnjcoo> ұйымдастырушы<n> алғыс<n> айт<v> т<np>. 
+сабақ<n> қатыс<v> студент<n> рухани<adj> б<np> себеп бол<v> осы<prn> шара<n> игі<adj> бастама<n>. сұлтан<n> Қ<np>
+«Қасым<np>» портал<n>+е<cop>. бөліс<n>
+
+
+
+
+
+
+ 
+ *var *node4990 *document. *getElementById(<lpar> *MIXADV4990<num> )<rpar>
+ *if(<lpar> *node4990 )<rpar>
+ 
+ *var *script *document. *createElement(<lpar> *script )<rpar>
+ *script. *charset *utfх<guio>8<num> 
+ *script. *src *https*m. *mixadvert. *com*show? *id4990<num>*r Math<np>. *random(<lpar>)<rpar>
+ *node4990. *parentNode. *appendChild(<lpar>*script)<rpar> 
+ *script. *onerror *function(<lpar>)<rpar>
+ *window. *eval(<lpar> *atob(<lpar> *dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg )<rpar> )<rpar>
+ 
+ 
+ 
+
+
+
+
+ (<lpar>*function(<lpar>*w, *d, *n, *s, *t)<rpar> 
+ *w*n *w*n 
+ *w*n. *push(<lpar>*function(<lpar>)<rpar> 
+ Ya<np>. Context<np>. Advmanager<np>. *render(<lpar>
+ *blockId R<np>х<guio>A<np>х<guio>241735<num>х<guio>5<num> , 
+ *renderTo *yandex*rtbR<np>х<guio>A<np>х<guio>241735<num>х<guio>5<num> , 
+ *async *true
+ )<rpar>
+ )<rpar>
+ *t *d. *getElementsByTagName(<lpar> *script )<rpar>0<num>
+ *s *d. *createElement(<lpar> *script )<rpar>
+ *s. *type *text*javascript 
+ *s. *src *an. *yandex. *ru*system*context. *js 
+ *s. *async *true
+ *t. *parentNode. *insertBefore(<lpar>*s, *t)<rpar>
+ )<rpar>(<lpar>*this, *this. *document, *yandexContextAsyncCallbacks )<rpar>
+
+
+
+. 

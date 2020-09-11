@@ -1,0 +1,30 @@
+^Қайрат/қайрат<n><nom>$ ^Нұртастың/Нұртас<np><ant><m><gen>$ ^анасы/ана<n><px3sp><nom>$ ^шоу/шоу<n><nom>$ ^бизнестегі/бизнес<n><loc><attr>$ ^продюсер ғана/продюсер<n><nom>+ғана<postadv>$ ^емес/е<cop><neg><aor><p3><sg>$^,/,<cm>$ ^ерекше/ерекше<adj>$ ^қасиет/қасиет<n><nom>$ ^иесі/ие<n><px3sp><nom>$ ^болып шықты/болып шық<v><iv><ifi><p3><sg>$
+^Гүлзира/Г<np>үлзира$ ^Айдарбекова/А<np>йдарбекова$ ^нағашы/нағашы<n><nom>$ ^ата/ата<n><nom>$^-/х<guio>$^әжесінен/әже<n><px3sp><abl>$ ^өзіне/өз<prn><ref><px3sp><dat>$ ^көріпкелдік/көріпкелдік<n><nom>$ ^қабілет/қабілет<n><nom>$ ^берілгенін/бер<v><tv><pass><ger_past><px3sp><acc>$ ^жайып/жай<v><tv><prc_perf>$ ^салды/сал<vaux><ifi><p3><sg>$
+^Ол/ол<prn><pers><p3><sg><nom>$ ^немерелерін/немере<n><pl><px3sp><acc>$ ^ауруханаға/аурухана<n><dat>$ ^апармай-ақ/апар<v><tv><neg><gna_perf>+-ақ<postadv>$^,/,<cm>$ ^өзі/өз<prn><ref><px3sp><nom>$ ^емдей/емде<v><tv><prc_impf>$ ^салатынын да/сал<vaux><ger_impf><px3sp><acc>+да<cnjcoo>$ ^мойындады/мойында<v><tv><ifi><p3><sg>$ ^деп/де<v><tv><gna_perf>$ ^жазады/жаз<v><tv><aor><p3><sg>$ ^KAZ/Kaz<np><unk>$^./.<sent>$^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$ ^"/"<sent>$^Paparazzi/P<np>aparazzi$^"/"<sent>$ ^бағдарламасына/бағдарлама<n><px3sp><dat>$ ^сілтеме/сілтеме<n><nom>$ ^жасап/жаса<v><tv><gna_perf>$^./.<sent>$
+^Фото/фото<n><nom>$^:/:<sent>$ ^Instagram/I<np>nstagram$^///<sent>$^gulziraaidarbekova/g<np>ulziraaidarbekova$
+^Коллаж/коллаж<n><nom>$^:/:<sent>$ ^KAZ/Kaz<np><unk>$^./.<sent>$^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$
+^Гүлзира/Г<np>үлзира$ ^Айдарбекова/А<np>йдарбекова$ ^алғаш рет/алғаш рет<adv>$ ^бойында/бой<n><px3sp><loc>$ ^тылсым/*тылсым$ ^күш/күш<n><nom>$ ^бар/бар<adj>$ ^екенін/е<cop><ger_past><px3sp><acc>$ ^ашып/аш<v><tv><gna_perf>$ ^айтты/айт<v><tv><ifi><p3><sg>$
+^Танымал/танымал<adj>$ ^продюсерге/продюсер<n><dat>$ ^бұл/бұл<det><dem>$ ^ерекше/ерекше<adj>$ ^қасиеті/қасиет<n><px3sp><nom>$ ^нағашыларынан/нағашы<n><pl><px3sp><abl>$ ^дарыған/д<np>арыған$
+
+^Ол/ол<prn><pers><p3><sg><nom>$ ^балалардың/бала<n><pl><gen>$ ^ауырып/ауыр<v><iv><prc_perf>$ ^тұрғанын/тұр<vaux><ger_past><px3sp><acc>$ ^сезіп/сез<v><tv><prc_perf>$ ^қойып/қой<vaux><gna_perf>$^,/,<cm>$ ^өзі/өз<prn><ref><px3sp><nom>$ ^емдейтінін/емде<v><tv><ger_impf><px3sp><acc>$ ^жеткізді/жеткіз<v><tv><ifi><p3><sg>$
+
+^Өзімнен/өз<prn><ref><px1sg><abl>$ ^өзім/өз<prn><ref><px1sg><nom>$ ^отырғанда/отыр<v><iv><ger_past><loc>$^,/,<cm>$ ^білмеймін/біл<v><tv><neg><aor><p1><sg>$^,/,<cm>$ ^арқамнан/арқа<n><px1sg><abl>$ ^бірдеңе/бірдеңе<prn><ind><nom>$ ^келіп/кел<v><iv><gna_perf>$ ^итереді/итер<v><tv><aor><p3><sg>$
+^Толқыныс/Т<np>олқыныс$
+^Өзім/өз<prn><ref><px1sg><nom>$ ^түсінбей/түсін<v><tv><neg><prc_perf>$ ^қаламын/қал<vaux><aor><p1><sg>$
+^Жан-жағыма/жан-жақ<n><px1sg><dat>$ ^қараймын/қара<v><tv><aor><p1><sg>$^,/,<cm>$ ^бірақ/бірақ<cnjcoo>$ ^отыра/отыр<v><iv><prc_impf>$ ^алмаймын/ал<vaux><neg><aor><p1><sg>$
+
+^Тағы да/тағы<adv>+да<cnjcoo>$ ^оқыңыздар/оқ<n><px2pl><frm><nom>$
+^Қорқыт/қорқыт<v><tv><imp><p2><sg>$ ^ата/ата<n><nom>$ ^туралы/туралы<post>$ ^не/не<cnjcoo>$ ^білеміз/біл<v><tv><aor><p1><pl>$^?/?<sent>$
+^Бір/бір<num>$ ^жағынан/жақ<n><px3sp><abl>$ ^бөпесін/бөпе<n><px3sp><acc>$ ^алуға/ал<v><tv><ger><dat>$ ^ұяламын/ұял<v><iv><aor><p1><sg>$
+^Сосын/Сос<np><ant><m><px3sp><acc>$ ^"/"<sent>$^берші/бер<v><tv><imp><p2><sg>+шы<emph>$ ^маған/мен<prn><pers><p1><sg><dat>$^"/"<sent>$ ^деп/де<v><tv><gna_perf>$ ^қолынан/қол<n><px3sp><abl>$ ^жұлып алғандай/жұлып ал<v><iv><ger_past><sim>$ ^боламын/бол<v><iv><aor><p1><sg>$
+^Себебі/себеп<n><px3sp><nom>+е<cop><aor><p3><sg>$^,/,<cm>$ ^жаңағы/жаңа<adv><attr>$ ^күш/күш<n><nom>$ ^қайтып/қайт<v><iv><prc_perf>$ ^кетеді/кет<vaux><aor><p3><sg>$
+^Ол/ол<prn><pers><p3><sg><nom>$ ^қайтып/қайт<v><iv><prc_perf>$ ^кетпей/кет<vaux><neg><prc_perf>$ ^тұрғанда/тұр<vaux><ger_past><loc>$ ^баланы/бала<n><acc>$ ^қолынан/қол<n><px3sp><abl>$ ^жұлып алам/жұлып ал<v><iv><aor><p1><sg>$
+
+^Бойымда/бой<n><px1sg><loc>$ ^бір/бір<num>$ ^күш/күш<n><nom>$ ^бар/бар<adj>$ ^екенін/е<cop><ger_past><px3sp><acc>$ ^сеземін/сез<v><tv><aor><p1><sg>$
+^Оны/ол<prn><dem><acc>$ ^күйеім/к<np>үйеім$ ^де/да<cnjcoo>$^,/,<cm>$ ^бала/бала<n><nom>$^-/х<guio>$^шағам да/шақ<v><tv><aor><p1><sg>+да<cnjcoo>$ ^бәрі/бәрі<prn><qnt><px3sp><nom>$ ^біледі/біл<v><tv><aor><p3><sg>$
+^Өйткені/өйткені<cnjsub>$^,/,<cm>$ ^мен/мен<prn><pers><p1><sg><nom>$ ^балаларымды/бала<n><pl><px1sg><acc>$^,/,<cm>$ ^немерелерімді/немере<n><pl><px1sg><acc>$ ^еш/еш<adv>$ ^уақытта/уақыт<n><loc>$ ^ауруханаға/аурухана<n><dat>$ ^тасымаймын/тасы<v><tv><neg><aor><p1><sg>$^,/,<cm>$ ^өзім/өз<prn><ref><px1sg><nom>$ ^қолдан/қол<n><abl>$ ^емдей/емде<v><tv><prc_impf>$ ^саламын/сал<vaux><aor><p1><sg>$
+
+^Тағы да/тағы<adv>+да<cnjcoo>$ ^оқыңыздар/оқ<n><px2pl><frm><nom>$
+^Дұрыс/дұрыс<ij>$ ^тамақтану/тамақтан<v><tv><ger><nom>$ ^ережелері/ереже<n><pl><px3sp><nom>$
+^Айта/айт<v><tv><prc_impf>$ ^кетейік/кет<vaux><opt><p1><pl>$^,/,<cm>$ ^бұған/бұл<prn><dem><dat>$ ^дейін/дейін<post>$ ^Қайрат/Қайрат<np><ant><m><nom>$ ^Нұртастың/Нұртас<np><ant><m><gen>$ ^ата-анасының/ата-ана<n><px3sp><gen>$ ^үйіне/үй<n><px3sp><dat>$ ^карантин/карантин<n><nom>$ ^кезінде/кез<n><px3sp><loc>$ ^ұры/ұры<n><nom>$ ^түскенін/түс<v><iv><ger_past><px3sp><acc>$ ^жазған/жаз<v><tv><gpr_past>$ ^болатынбыз/бол<v><iv><pih><p1><pl>$^./.<sent>$
+^Ең/ең<adv>$ ^маңызды/маңызды<adj>$ ^әрі/әрі<cnjcoo>$ ^қызықты/қызықты<adj>$ ^жаңалықтарды/жаңалық<n><pl><acc>$ ^біздің/біз<prn><pers><p1><pl><gen>$ ^Telegram/Telegram<np><unk>$ ^арнамыздан/арна<n><px1pl><abl>$ ^оқыңыздар/оқы<v><tv><imp><p2><frm><pl>$^!/!<sent>$ 

@@ -1,0 +1,65 @@
+Қазан тарихындағы қазақ халқының орны туралы «ҚазАқпарат» ХАА меншікті тілшісіне татарстандық археолог, тарих ғылымдарының докторы, Қазан археологиясы, Поволжьенің ортағасырлық  археологиясы маманы, «ТР ғылым академиясы» мемлекеттік мекемесіне қарасты «А.Х.Халиков атындағы археология институтының»   ерекше мәртебедегі бөлімшесінің директоры Айрат Ситдиков айтып берді..Археолог атап өткендей, жалпы түркі әлемі өзіне түрлі мәдениет пен дәстүр ықпалын сіңірген.  «Егер Қазан қаласы ірі орталық ретінде қалыптасқан орта ғасырлық кезеңді, әсіресе Қазан хандығы кезеңін қарасақ, онда әрине, біз түркі халықтары мен олардың аумағы өзара тығыз байланысты болғанын түсінуге тиіспіз..Бұл уақыт үшін, егер  жазбаша дереккөздерді қарасақ, Поволжья түріктері мен қазақтар түрлі атаумен өмір сүрген болуы мүмкін екенін айтады Ситдиков.
+
+
+«Ортағасырлық Қазанда ноғай даласынан осында келіп қызмет ететін халық санаты болғаны еске түседі.
+Осы үрдіске Поволжья ноғайлары, түріктері, қазақтар тартылды, бұл осы кезеңді өзара бір-біріне ықпал ететін, өзара байытатын үрдіс болған жалпы мәдени кеңістік  ретінде қарауға мүмкіндік береді.  Бұл үрдіс Ресей мемлекетінің дамуы барысында да тоқтаған жоқ», — деп сөзін жалғастырды ол.  Әсіресе бұл мәдениет алмасу, дін саласы, білім беру, ағарту, баспа мәселелеріне, рухани салаға қатысты екенін атап өтті ол.
+
+Бұл байланыстар, археологтың пікірінше, негізі  көшпелі түрік әлемі болатын түрлі элементтердің бір-біріне ықпал етуінің ұзақ үрдісінің бір бөлігі болған.
+«Осы негіз бұл әлемді кеңістік пен мәдениеттің бірлігі ретінде қарауға мүмкіндік береді», — деп атап өтті Ситдиков.
+
+«19 ғасырда Түркі әлемінде күрт алшақтай бастаған этникалық ерекшеліктерді ажырату өте қиын.
+Бұған дейін ортақ Түрік кеңістігі болған.
+Онда көшпенді және отырықшы әлемді бір-бірімен жақындататын материалдық мәдениет элементтері көп болғандықтан, тығыз интеграцияланған еді», — деді археолог.
+
+ 
+
+
+
+Бөлісіңіз:
+
+
+
+
+
+
+ 
+          var node4990 = document.getElementById("MIXADV_4990");
+          if( node4990 )
+          {
+               var script = document.createElement("script");
+               script.charset = "utf-8";
+               script.src = "https://m.mixadvert.com/show/?id=4990&r="+Math.random();
+               node4990.parentNode.appendChild(script); 
+               script.onerror = function(){
+                  window.eval( atob("dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg") );
+              }
+          }
+          
+
+
+
+
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-241735-5",
+                renderTo: "yandex_rtb_R-A-241735-5",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+
+
+
+.Бұл уақыт үшін, егер  жазбаша дереккөздерді қарасақ, Поволжья түріктері мен қазақтар түрлі атаумен өмір сүрген болуы мүмкін екенін айтады Ситдиков.«Ортағасырлық Қазанда ноғай даласынан осында келіп қызмет ететін халық санаты болғаны еске түседі.
+Осы үрдіске Поволжья ноғайлары, түріктері, қазақтар тартылды, бұл осы кезеңді өзара бір-біріне ықпал ететін, өзара байытатын үрдіс болған жалпы мәдени кеңістік  ретінде қарауға мүмкіндік береді.  Бұл үрдіс Ресей мемлекетінің дамуы барысында да тоқтаған жоқ», — деп сөзін жалғастырды ол.  Әсіресе бұл мәдениет алмасу, дін саласы, білім беру, ағарту, баспа мәселелеріне, рухани салаға қатысты екенін атап өтті ол..Бұл байланыстар, археологтың пікірінше, негізі  көшпелі түрік әлемі болатын түрлі элементтердің бір-біріне ықпал етуінің ұзақ үрдісінің бір бөлігі болған.
+«Осы негіз бұл әлемді кеңістік пен мәдениеттің бірлігі ретінде қарауға мүмкіндік береді», — деп атап өтті Ситдиков..«19 ғасырда Түркі әлемінде күрт алшақтай бастаған этникалық ерекшеліктерді ажырату өте қиын.
+Бұған дейін ортақ Түрік кеңістігі болған.
+Онда көшпенді және отырықшы әлемді бір-бірімен жақындататын материалдық мәдениет элементтері көп болғандықтан, тығыз интеграцияланған еді», — деді археолог..

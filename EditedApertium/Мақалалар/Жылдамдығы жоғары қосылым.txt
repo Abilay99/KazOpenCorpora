@@ -1,0 +1,2 @@
+^Жылдамдығы/жылдамдық<n><px3sp><nom>$ ^жоғары/жоғары<adj>$ ^қосылым/қосылым<n><nom>+е<cop><aor><p3><sg>$ ^(/(<lpar>$^Broadband/Broadband<np><unk>$ ^Internet/I<np>nternet$ ^access/*access$^)/)<rpar>$ ^-/х<guio>$ ^Интернетке/интернет<n><dat>$ ^жоғары/жоғары<adj>$ ^жылдамдықпен/жылдамдық<n><ins>$ ^қосылу/қос<v><tv><pass><ger><nom>$^,/,<cm>$ ^мысалы/мысалы<ij>$^,/,<cm>$ ^DSL/Dsl<np><unk>$ ^арқылы/арқылы<post>$ ^немесе/немесе<cnjcoo>$ ^кәбілдік/*кәбілдік$ ^модемнің/модем<n><gen>$ ^көмегімен/көмек<n><px3sp><ins>$ ^қосылу/қос<v><tv><pass><ger><nom>$^./.<sent>$ 
+

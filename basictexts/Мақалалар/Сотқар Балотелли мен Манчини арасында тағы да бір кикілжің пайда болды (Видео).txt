@@ -1,0 +1,3 @@
+
+writeFlash({"src":"http://www.youtube.com/v/b0SX3jXD45E","width":"450","height":"240"});
+    Дайындаған: Болат Қосмағамбет  

@@ -1,0 +1,71 @@
+^Түнде/түн<n><loc>$ ^бас/бас<adj>$ ^шала/шал<v><tv><prc_impf>$ ^мүжіліп/мүж<v><tv><pass><prc_perf>$ ^қалады/қал<vaux><aor><p3><sg>$^./.<sent>$
+^Ертеңіне/ертең<n><px3sp><dat>$ ^бай/бай<adv>$ ^ерте/ерт<v><tv><prc_impf>$ ^тұрып/тұр<vaux><gna_perf>$^,/,<cm>$ ^малын/мал<n><px3sp><acc>$ ^өргізіп/өргіз<v><tv><prc_perf>$ ^кетеді/кет<vaux><aor><p3><sg>$^./.<sent>$
+^Көрші/көр<adj>+шы<emph>$ ^ауылдағы/ауыл<n><loc><attr>$ ^бір/бір<num>$ ^жігітпен/жігіт<n><ins>$ ^көңілдес/көңілдес<n><nom>$ ^болады/бол<v><iv><aor><p3><sg>$^./.<sent>$
+^Бай/бай<adj>$ ^кетісімен/кетіс<n><px3sp><ins>$ ^үйге/үй<n><dat>$ ^сол/сол<adj><advl>$ ^келеді/кел<v><iv><aor><p3><sg>$^./.<sent>$
+^Сәскеде/*Сәскеде$ ^малдан/мал<n><abl>$ ^бай/бай<adj>$ ^ертелеу/*ертелеу$ ^қайтады/қайт<v><iv><aor><p3><sg>$^./.<sent>$
+^Кетіп/кет<v><tv><gna_perf>$ ^үлгірмеген/*үлгірмеген$ ^жігітті/жігіт<n><acc>$ ^әйел/әйел<n><nom>$ ^жүк/жүк<adj>$ ^арасына/ара<n><px3sp><dat>$ ^жасырады да/жасыр<v><tv><aor><p3><sg>+да<cnjcoo>$^,/,<cm>$ ^түннен/түн<n><abl>$ ^қалған/қал<v><iv><gpr_past><subst><nom>$ ^ет/ет<n><nom>$ ^пен/мен<cnjcoo>$ ^басты/басты<adj>$ ^байдың/бай<n><gen>$ ^алдына/алд<n><px3sp><dat>$ ^қояды/қой<v><tv><aor><p3><sg>$^./.<sent>$
+^Бай/бай<adj>$ ^басты/басты<adj>$ ^мүжи/*мүжи$ ^бастағанда/баста<v><tv><ger_past><loc>$ ^үш/үш<num>$^-/х<guio>$^төрт/төрт<num>$ ^жасар/жасар<adj>$ ^баласы/бала<n><px3sp><nom>$ ^келіп/кел<v><iv><gna_perf>$^,/,<cm>$ ^әкесінің/әке<n><px3sp><gen>$ ^тізесін/тізе<n><px3sp><acc>$ ^баса/бас<v><tv><prc_impf>$ ^отырады/отыр<vaux><aor><p3><sg>$^./.<sent>$
+^Сол/сол<adj>$ ^арада/ара<n><loc>$ ^оның/ол<prn><pers><p3><sg><gen>$ ^көзі/көз<n><px3sp><nom>$ ^жүк/жүк<adj>$ ^арасында/арасында<adv>$ ^жатқан/жат<v><iv><gpr_past>$ ^жігіттің/жігіт<n><gen>$ ^көзіне/көз<n><px3sp><dat>$ ^түсіп/түс<v><iv><prc_perf>$ ^кетеді/кет<vaux><aor><p3><sg>$^./.<sent>$
+^—/—<guio>$        ^Көзді/көз<n><acc>$ ^қара/қара<v><tv><imp><p2><sg>$^,/,<cm>$ ^көзді/көз<n><acc>$ ^қара/қара<v><tv><imp><p2><sg>$^!/!<sent>$^./.<sent>$^./.<sent>$^-/х<guio>$^дейді/де<v><tv><aor><p3><sg>$ ^бала/бала<n><nom>$^./.<sent>$
+^Шошып/шош<v><iv><prc_perf>$ ^кеткен/кет<vaux><gpr_past>$ ^шешесі/шеше<n><px3sp><nom>$ ^қолма-қол/қолма-қол<adv>$ ^сөз/сөз<n><nom>$ ^тауып/тап<v><tv><gna_perf>$^,/,<cm>$ ^әңгімені/әңгіме<n><acc>$ ^дереу/дереу<adv>$ ^бастың/бас<n><gen>$ ^көзіне/көз<n><px3sp><dat>$ ^аударып/аудар<v><tv><gna_perf>$^:/:<sent>$
+^—/—<guio>$        ^Тек/тек<adv>$ ^отыр/отыр<v><iv><imp><p2><sg>$^,/,<cm>$ ^көзді/көз<n><acc>$ ^әкеңнің/әке<n><px2sg><gen>$ ^өзі/өз<prn><ref><px3sp><nom>$ ^жесін/же<v><tv><opt><p3><sg>$^!/!<sent>$ ^-/х<guio>$ ^дейді/де<v><tv><aor><p3><sg>$^./.<sent>$
+^Бай/бай<adv>$ ^мәз болады/мәз бол<v><iv><aor><p3><sg>$^./.<sent>$
+^«/«<lquot>$^Әйелдің/әйел<n><gen>$ ^қулығы/қулық<n><px3sp><nom>$ ^қырық/қырық<num>$ ^есекке/есек<n><dat>$ ^жүк/жүк<adj>$ ^болады/бол<v><iv><aor><p3><sg>$^»/»<rquot>$ ^деген/де<v><tv><gpr_past>$ ^рас/рас<n><nom>$ ^сөз/сөз<n><nom>+е<cop><aor><p3><sg>$^./.<sent>$ ^./.<sent>$^Біз/біз<prn><pers><p1><pl><nom>$ ^бала/бала<n><nom>$ ^кезде/кез<n><loc>$ ^Қойболды/*Қойболды$ ^деген/де<v><tv><gpr_past>$ ^кісіні/кісі<n><acc>$ ^білуші/біл<v><tv><gpr_pot>$ ^едік/е<cop><ifi><p1><pl>$^./.<sent>$
+^Кейін/кейін<adv>$ ^жеңгелері/*жеңгелері$ ^айтып/айт<v><tv><prc_perf>$ ^отырушы/отыр<vaux><gpr_pot>$ ^еді/е<cop><ifi><p3><sg>$^./.<sent>$
+^Қойболды/*Қойболды$ ^ұлы/ұлы<adj>$ ^бар/бар<adj>$^,/,<cm>$ ^қызы/қыз<n><px3sp><nom>$ ^бар/бар<adj>$^,/,<cm>$ ^он үш/он үш<num>$ ^ағайынды/ағайын<n><acc>$ ^екен/е<cop><aor><evid><p3><sg>$^./.<sent>$
+^Ол/ол<prn><pers><p3><sg><nom>$ ^кезде/кез<n><loc>$ ^өзі/өз<prn><ref><px3sp><nom>$ ^гинеколог/гинеколог<n><nom>$^,/,<cm>$ ^өзі/өз<prn><ref><px3sp><nom>$ ^акушер/акушер<n><nom>$ ^әжелеріміз/әже<n><pl><px1pl><nom>$ ^арқанды/арқан<n><acc>$ ^керіп/кер<v><tv><gna_perf>$ ^тастап/таста<v><tv><gna_perf>$^,/,<cm>$ ^отқа/от<n><dat>$ ^май/май<n><nom>$ ^салып/сал<v><tv><gna_perf>$^,/,<cm>$ ^аруақтарға/аруақ<n><pl><dat>$ ^сиынып/сиын<v><iv><gna_perf>$^,/,<cm>$ ^келіндерінен/келін<n><pl><px3sp><abl>$ ^келсаптай/келсап<n><sim>$ ^ұл/ұл<n><nom>$^-/х<guio>$^қызды/қыз<n><acc>$  ^суырып/суыр<v><tv><prc_perf>$ ^ала/ал<vaux><prc_impf>$ ^берген ғой/бер<vaux><past><p3><sg>+ғой<mod_ass>$^./.<sent>$
+^Ең/ең<adv>$ ^соңынан/соң<n><abl>$ ^он үшінші/он үш<num><ord>$ ^болып/бол<v><iv><gna_perf>$ ^осы/осы<det><dem>$ ^туғанда/ту<v><tv><ger_past><loc>$ ^әйелі/әйел<n><px3sp><nom>$ ^күйеуінен/күйеу<n><px3sp><abl>$^:/:<sent>$
+^—/—<guio>$ ^Мына/мына<ij>$ ^балаңның/бала<n><px2sg><gen>$ ^атын/ат<n><px3sp><acc>$ ^кім/кім<prn><itg><nom>$ ^қоясың/қой<v><tv><aor><p2><sg>$^?/?<sent>$ ^—/—<guio>$ ^деп/де<v><tv><gna_perf>$ ^сұрапты/сұра<v><tv><ifi><evid><p3><sg>$^./.<sent>$
+^Сонда/сол<prn><dem><loc>$ ^әкесі/әке<n><px3sp><nom>$ ^ат қоюдан/ат қой<v><tv><ger><abl>$ ^шаршады ма/шарша<v><iv><ifi><p3><sg>+ма<qst>$^:/:<sent>$
+^—/—<guio>$ ^Қой/ғой<mod_ass>$^,/,<cm>$ ^болды/бол<v><iv><ifi><p3><sg>$^,/,<cm>$ ^—/—<guio>$ ^деп/де<v><tv><gna_perf>$ ^қолын/қол<n><px3sp><acc>$ ^бір/бір<num>$ ^сілтеп/сілте<v><tv><gna_perf>$ ^кетіп қалыпты/кетіп қал<v><iv><ifi><evid><p3><sg>$^./.<sent>$
+^Сөйтіп/сөйт<v><iv><gna_perf>$^,/,<cm>$ ^осы/осы<det><dem>$ ^кенже/кенже<adj>$ ^баласының/бала<n><px3sp><gen>$ ^есімі/есім<n><px3sp><nom>$ ^Қойболды/*Қойболды$ ^деп/де<v><tv><gna_perf>$ ^жазылып/жаз<v><tv><pass><prc_perf>$ ^кеткен екен/кет<vaux><past><evid><p3><sg>$ ^дейді/де<v><tv><aor><p3><sg>$^./.<sent>$^./.<sent>$^Қайран/қайран<adj>$^,/,<cm>$ ^аңқылдаған/аңқылда<v><tv><gpr_past>$ ^қазағымның/қазақ<n><px1sg><gen>$ ^риясыз/*риясыз$ ^көңілмен/көңіл<n><ins>$ ^амандасып/амандас<v><iv><gna_perf>$^,/,<cm>$ ^хал/хал<n><nom>$^-/х<guio>$^жағдай/жағдай<n><nom>$ ^сұрасқанының/сұра<v><tv><coop><ger_past><px3sp><gen>$ ^өзі/өз<prn><ref><px3sp><nom>$ ^қызық/қызық<adj>$ ^болғаны/бол<v><iv><ger_past><px3sp><nom>$ ^бар/бар<adj>+е<cop><aor><p3><sg>$^./.<sent>$
+^Бірде/бір<num><subst><loc>$ ^бір/бір<num>$ ^тойда/той<n><loc>$ ^жасы/жас<n><px3sp><nom>$ ^жетпістен/жетпіс<num><subst><abl>$ ^асқан/ас<v><tv><past><p3><sg>$ ^бір/бір<num>$ ^қария/қария<n><nom>$ ^жақын/жақын<adj>$ ^келіндерінің/келін<n><pl><px3sp><gen>$ ^бірімен/бір<num><subst><px3sp><ins>$ ^ойында/ой<n><px3sp><loc>$ ^ештеңе/ештеңе<prn><neg><nom>$ ^жоқ/жоқ<ij>$ ^қазақы/қазақы<adj>$ ^ақкөңілділікпен/ақкөңілділік<n><ins>$ ^былай/бұл<prn><dem><advl>$ ^деп/де<v><tv><gna_perf>$ ^хал/хал<n><nom>$^-/х<guio>$^жағдай/жағдай<n><nom>$ ^сұрасыпты/сұра<v><tv><coop><ifi><evid><p3><sg>$^:/:<sent>$
+^—/—<guio>$ ^Е/е<ij>$^,/,<cm>$ ^келінжан/*келінжан$^,/,<cm>$ ^қалай/қалай<adv><itg>$ ^жағдайларың/жағдай<n><pl><px2sg><nom>+е<cop><aor><p3><sg>$^,/,<cm>$ ^жақсы ма/жақсы<adj>+ма<qst>$^,/,<cm>$ ^ағайын/ақ<v><iv><opt><p1><sg>$^-/х<guio>$^туыс/туыс<adj>$^,/,<cm>$ ^о/о<ij>$ ^жақ/жақ<n><nom>$ ^бұ/бұл<prn><dem><nom>$ ^жағың/жақ<n><px2sg><nom>$^,/,<cm>$ ^астың/ас<v><tv><ifi><p2><sg>$^-/х<guio>$^үстің/үст<n><gen>$^,/,<cm>$ ^алды/алд<n><px3sp><nom>$^-/х<guio>$^артың/арт<n><px2sg><nom>$ ^тегіс/тегіс<postadv>$ ^аман ба/аман<adj>+е<cop><aor><p3><sg>+ма<qst>$^?/?<sent>$ ^—/—<guio>$ ^деп/де<v><tv><gna_perf>$ ^шұбырта/*шұбырта$ ^жөнелтіпті/жөнелт<v><tv><ifi><evid><p3><sg>$^./.<sent>$
+^Сонда/сол<prn><dem><loc>$ ^аузы/ауыз<n><px3sp><nom>$ ^батылдау/*батылдау$ ^келіні/келін<n><px3sp><nom>$ ^тұрып/тұр<v><iv><gna_perf>$^:/:<sent>$
+^—/—<guio>$ ^Қайнаға/*Қайнаға$^-/х<guio>$^ау/ау<ij>$^,/,<cm>$ ^ағайын/ақ<v><iv><opt><p1><sg>$^-/х<guio>$^туыс/туыс<adj>$^,/,<cm>$ ^хал/хал<n><nom>$^-/х<guio>$^жағдайды/жағдай<n><acc>$ ^сұрағаныңыз/сұра<v><tv><ger_past><px2sg><frm><nom>$ ^дұрыс/дұрыс<adj>+е<cop><aor><p3><sg>$^./.<sent>$
+^Ал/ал<cnjcoo>$^,/,<cm>$ ^менің/мен<prn><pers><p1><sg><gen>$ ^алды/алд<n><px3sp><nom>$^-/х<guio>$^артым/арт<n><px1sg><nom>$ ^мен/мен<cnjcoo>$ ^астымда/аст<n><px1sg><loc>$ ^неңіз/не<prn><itg><px2sg><frm><nom>$ ^бар/бар<adj>$^?/?<sent>$^-/х<guio>$ ^деген екен/де<v><tv><past><evid><p3><sg>$^./.<sent>$
+^Асылы/Асы<np><top>+лы<post>$^,/,<cm>$ ^«/«<lquot>$^Аңдамай/аңда<v><tv><neg><gna_perf>$ ^сөйлеген/сөйле<v><tv><gpr_past>$ ^ауырмай/ауыр<v><iv><neg><gna_perf>$ ^өледі/өл<v><iv><aor><p3><sg>$^»/»<rquot>$ ^деген/де<v><tv><gpr_past>$ ^рас/рас<n><nom>$ ^сөз/сөз<n><nom>+е<cop><aor><p3><sg>$^./.<sent>$
+^Қайнағасы/*Қайнағасы$ ^ештеңе/ештеңе<prn><neg><nom>$ ^дей/де<v><tv><prc_impf>$ ^алмапты/ал<vaux><neg><ifi><evid><p3><sg>$^./.<sent>$^./.<sent>$^Бөлісіңіз/бөліс<n><px2sg><frm><nom>$^:/:<sent>$
+
+
+
+
+
+
+ 
+          ^var/*var$ ^node4990/*node4990$ = ^document/*document$^./.<sent>$^getElementById/*getElementById$^(/(<lpar>$^"/"<sent>$^MIXADV/*MIXADV$_^4990/4990<num>$^"/"<sent>$^)/)<rpar>$^;/;<sent>$
+          ^if/*if$^(/(<lpar>$ ^node4990/*node4990$ ^)/)<rpar>$
+          {
+               ^var/*var$ ^script/*script$ = ^document/*document$^./.<sent>$^createElement/*createElement$^(/(<lpar>$^"/"<sent>$^script/*script$^"/"<sent>$^)/)<rpar>$^;/;<sent>$
+               ^script/*script$^./.<sent>$^charset/*charset$ = ^"/"<sent>$^utf/*utf$^-/х<guio>$^8/8<num>$^"/"<sent>$^;/;<sent>$
+               ^script/*script$^./.<sent>$^src/*src$ = ^"/"<sent>$^https/*https$^:/:<sent>$^///<sent>$^///<sent>$^m/*m$^./.<sent>$^mixadvert/*mixadvert$^./.<sent>$^com/*com$^///<sent>$^show/*show$^///<sent>$^?/?<sent>$^id/*id$=^4990/4990<num>$&^r/*r$=^"/"<sent>$+^Math/Math<np><unk>$^./.<sent>$^random/*random$^(/(<lpar>$^)/)<rpar>$^;/;<sent>$
+               ^node4990/*node4990$^./.<sent>$^parentNode/*parentNode$^./.<sent>$^appendChild/*appendChild$^(/(<lpar>$^script/*script$^)/)<rpar>$^;/;<sent>$ 
+               ^script/*script$^./.<sent>$^onerror/*onerror$ = ^function/*function$^(/(<lpar>$^)/)<rpar>${
+                  ^window/*window$^./.<sent>$^eval/*eval$^(/(<lpar>$ ^atob/*atob$^(/(<lpar>$^"/"<sent>$^dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg/*dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg$^"/"<sent>$^)/)<rpar>$ ^)/)<rpar>$^;/;<sent>$
+              }
+          }
+          
+
+
+
+
+    ^(/(<lpar>$^function/*function$^(/(<lpar>$^w/*w$^,/,<cm>$ ^d/*d$^,/,<cm>$ ^n/*n$^,/,<cm>$ ^s/*s$^,/,<cm>$ ^t/*t$^)/)<rpar>$ {
+        ^w/*w$^[/[<lpar>$^n/*n$^]/]<rpar>$ = ^w/*w$^[/[<lpar>$^n/*n$^]/]<rpar>$ || ^[/[<lpar>$^]/]<rpar>$^;/;<sent>$
+        ^w/*w$^[/[<lpar>$^n/*n$^]/]<rpar>$^./.<sent>$^push/*push$^(/(<lpar>$^function/*function$^(/(<lpar>$^)/)<rpar>$ {
+            ^Ya/Ya<np><unk>$^./.<sent>$^Context/Context<np><unk>$^./.<sent>$^AdvManager/Advmanager<np><unk>$^./.<sent>$^render/*render$^(/(<lpar>${
+                ^blockId/*blockId$^:/:<sent>$ ^"/"<sent>$^R/R<np><unk>$^-/х<guio>$^A/A<np><unk>$^-/х<guio>$^241735/241735<num>$^-/х<guio>$^5/5<num>$^"/"<sent>$^,/,<cm>$
+                ^renderTo/*renderTo$^:/:<sent>$ ^"/"<sent>$^yandex/*yandex$_^rtb/*rtb$_^R/R<np><unk>$^-/х<guio>$^A/A<np><unk>$^-/х<guio>$^241735/241735<num>$^-/х<guio>$^5/5<num>$^"/"<sent>$^,/,<cm>$
+                ^async/*async$^:/:<sent>$ ^true/*true$
+            }^)/)<rpar>$^;/;<sent>$
+        }^)/)<rpar>$^;/;<sent>$
+        ^t/*t$ = ^d/*d$^./.<sent>$^getElementsByTagName/*getElementsByTagName$^(/(<lpar>$^"/"<sent>$^script/*script$^"/"<sent>$^)/)<rpar>$^[/[<lpar>$^0/0<num>$^]/]<rpar>$^;/;<sent>$
+        ^s/*s$ = ^d/*d$^./.<sent>$^createElement/*createElement$^(/(<lpar>$^"/"<sent>$^script/*script$^"/"<sent>$^)/)<rpar>$^;/;<sent>$
+        ^s/*s$^./.<sent>$^type/*type$ = ^"/"<sent>$^text/*text$^///<sent>$^javascript/*javascript$^"/"<sent>$^;/;<sent>$
+        ^s/*s$^./.<sent>$^src/*src$ = ^"/"<sent>$^///<sent>$^///<sent>$^an/*an$^./.<sent>$^yandex/*yandex$^./.<sent>$^ru/*ru$^///<sent>$^system/*system$^///<sent>$^context/*context$^./.<sent>$^js/*js$^"/"<sent>$^;/;<sent>$
+        ^s/*s$^./.<sent>$^async/*async$ = ^true/*true$^;/;<sent>$
+        ^t/*t$^./.<sent>$^parentNode/*parentNode$^./.<sent>$^insertBefore/*insertBefore$^(/(<lpar>$^s/*s$^,/,<cm>$ ^t/*t$^)/)<rpar>$^;/;<sent>$
+    }^)/)<rpar>$^(/(<lpar>$^this/*this$^,/,<cm>$ ^this/*this$^./.<sent>$^document/*document$^,/,<cm>$ ^"/"<sent>$^yandexContextAsyncCallbacks/*yandexContextAsyncCallbacks$^"/"<sent>$^)/)<rpar>$^;/;<sent>$
+
+
+
+^./.<sent>$

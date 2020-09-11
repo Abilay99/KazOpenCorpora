@@ -1,0 +1,9 @@
+фильм<n> қалай<adv> түсір<v> туралы<post> жазба<n> жалғастыр<v>. бұл<det> жол<n> «әйгілі<adj> Г<np>», «С<np> В<np>», «Оз<np> ұлы<adj> әрі<cnjcoo> қорқынышты<adj>», «қара<adj> рыцарь<n>аңыз<n> ора<v>», «Т<np> р<np>», « кек ал<v>» фильм<n> қалай<adv> түсір<v> тамашала<v> бол<v>. «әйгілі<adj> Г<np>» «С<np> В<np>» 
+*writeFlash(<lpar> *src http<abbr>*www. *youtube. *comкеп<v>*e*36xOkTZb0*list , *width 450<num> , *height 350<num> )<rpar>
+ «Оз<np> ұлы<adj> әрі<cnjcoo> қорқынышты<adj>» 
+*writeFlash(<lpar> *src http<abbr>*www. *youtube. *comкеп<v>Q<np> , *width 450<num> , *height 350<num> )<rpar>
+ «қара<adj> рыцарь<n>аңыз<n> ора<v>» стадион<n> сексен<num> мың<num> ада<n> рөл<n> төрт<num>+-ақ<postadv> ада<n> ойна<v>. «Т<np> р<np>» 
+*writeFlash(<lpar> *src http<abbr>*www. *youtube. *comкеп<v>*yHarrJ*1i8E*list , *width 450<num> , *height 350<num> )<rpar>
+ « кек ал<v>» 
+*writeFlash(<lpar> *src http<abbr>*www. *youtube. *comкеп<v>*p6NNQ3VAb3w*list , *width 450<num> , *height 350<num> )<rpar>
+ дайында<v> Нұржігіт<np>+е<cop> Айдархан<np> 

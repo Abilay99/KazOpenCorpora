@@ -1,0 +1,2 @@
+БӨЛІНДІ — бөлу амалының нәтижесі:  a:b=x{\displaystyle ~a:b=x}, мұндағы  x{\displaystyle ~x} — бөлінді,  a:b{\displaystyle ~a:b} өрнегі де жалпылама бөлінді делінеді.  a{\displaystyle ~a} — бөлінгіш,  b{\displaystyle ~b} — бөлгіш.  a:1=a{\displaystyle ~a:1=a},  a:a=1{\displaystyle ~a:a=1},  0:a=0{\displaystyle ~0:a=0}. 
+

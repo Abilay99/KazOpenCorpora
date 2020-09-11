@@ -1,0 +1,49 @@
+^Жаз/жаз<n><nom>$ ^шыға/шық<v><tv><gna_impf>$ ^күннен/күн<n><abl>$ ^қорғайтын/қорға<v><tv><gpr_impf>$ ^көзілдіріктер/*көзілдіріктер$ ^сатып ала/сатып ал<v><tv><prc_impf>$ ^бастаймыз/баста<vaux><aor><p1><pl>$^./.<sent>$ ^Өзімізге/өз<prn><ref><px1pl><dat>$ ^жарасатынын/жарас<v><iv><ger_impf><px3sp><acc>$^,/,<cm>$ ^сәнді/сән<n><acc>$ ^көрінетінін/көрін<v><iv><ger_impf><px3sp><acc>$ ^таңдаймыз/таңда<v><tv><aor><p1><pl>$^./.<sent>$ ^Осыларды/осы<prn><dem><pl><acc>$ ^басты/басты<adj>$ ^назарға/назар<n><dat>$ ^алып/алып<n><nom>+е<cop><aor><p3><sg>$^,/,<cm>$ ^оның/ол<prn><dem><gen>$ ^сапасын/сапа<n><px3sp><acc>$^,/,<cm>$ ^көзге/көз<n><dat>$ ^әсерін/әсер<n><px3sp><acc>$ ^ұмытып/ұмыт<v><tv><prc_perf>$ ^кетіп/кет<vaux><prc_perf>$ ^жатамыз/жат<vaux><aor><p1><pl>$^./.<sent>$ ^Көзілдірік/*Көзілдірік$ ^сіздің/сіз<prn><pers><p2><sg><frm><gen>$ ^сұлулығыңызды/сұлулық<n><px2sg><frm><acc>$ ^айқындап қана/айқында<v><tv><prc_perf>+ғана<postadv>$ ^қоймай/қой<vaux><neg><gna_perf>$^,/,<cm>$ ^көзіңізді/көз<n><px2sg><frm><acc>$ ^күннен/күн<n><abl>$ ^бөлінетін/бөл<v><tv><pass><gpr_impf>$ ^ультракүлгін/*ультракүлгін$ ^сәулелерден де/сәуле<n><pl><abl>+да<cnjcoo>$ ^қорғайды/қорға<v><tv><aor><p3><sg>$^./.<sent>$ ^Сондықтан да/сондықтан<cnjadv>+да<cnjcoo>$ ^оның/ол<prn><dem><gen>$ ^сапасына/сапа<n><px3sp><dat>$ ^баса/бас<v><tv><gna_impf>$ ^мән/мән<n><nom>$ ^берген/бер<v><tv><gpr_past>$ ^жөн/жөн<adj>+е<cop><aor><p3><sg>$^./.<sent>$ ^Көзәйнек/көзәйнек<n><nom>$ ^таңдағанда/таңда<v><tv><ger_past><loc>$ ^оның/ол<prn><dem><gen>$ ^неден/не<prn><itg><abl>$ ^жасалғанына/жаса<v><tv><pass><ger_past><px3sp><dat>$ ^мән/мән<n><nom>$ ^беріңіз/бер<v><tv><imp><p2><frm><sg>$^./.<sent>$ ^Себебі/себебі<cnjsub>$ ^әдемілік/әдемілік<n><nom>$ ^пен/мен<cnjcoo>$ ^стильден/стиль<n><abl>$ ^бұрын/бұрын<post>$^,/,<cm>$ ^денсаулық/денсаулық<n><nom>$ ^қымбат/қымбат<adj>+е<cop><aor><p3><sg>$^./.<sent>$ ^Көлемі/көлем<n><px3sp><nom>$ ^өте/өте<adv>$ ^кішкентай/кішкентай<adj>$ ^көзәйнектер/көзәйнек<n><pl><nom>$ ^сәнді/сән<n><acc>$ ^көрінгенімен/көрін<v><iv><ger_past><px3sp><ins>$^,/,<cm>$ ^көзге/көз<n><dat>$ ^зиян/зиян<n><nom>+е<cop><aor><p3><sg>$^./.<sent>$ ^Себебі/себебі<cnjsub>$ ^оның/ол<prn><dem><gen>$ ^күннен/күн<n><abl>$ ^қорғау/қорға<v><tv><ger><nom>$ ^мүмкіндігі/мүмкіндік<n><px3sp><nom>$ ^өте/өте<adv>$ ^төмен/төмен<adj>+е<cop><aor><p3><sg>$^./.<sent>$ ^Көзді/көз<n><acc>$ ^күннен/күн<n><abl>$ ^қорғайтын/қорға<v><tv><gpr_impf>$ ^көзілдірітер/*көзілдірітер$ ^шыныдан/шыны<n><abl>$ ^емес/е<cop><neg><aor><p3><sg>$^,/,<cm>$ ^пластиктен/пластик<n><abl>$ ^жасалып/жаса<v><tv><pass><gna_perf>$^,/,<cm>$ ^арнайы/арнайы<adj>$ ^линзалар/*линзалар$ ^мен/мен<prn><pers><p1><sg><nom>$ ^қаптауыштардан/қаптауыш<n><pl><abl>$ ^қапталғаны/қапта<v><tv><pass><ger_past><px3sp><nom>$ ^дұрыс/дұрыс<adj>+е<cop><aor><p3><sg>$^./.<sent>$ ^Себебі/себебі<cnjsub>$ ^мұндай/бұл<prn><dem><sim><nom>$ ^көзілдіріктер/*көзілдіріктер$ ^ыңғайлы/ыңғайлы<adj>$^,/,<cm>$ ^әрі/әрі<cnjcoo>$ ^жеңіл/жеңіл<adj>$ ^болады/бол<v><iv><aor><p3><sg>$^./.<sent>$ ^Ал/ал<cnjcoo>$ ^олардың/ол<prn><dem><pl><gen>$ ^сапасын/сапа<n><px3sp><acc>$ ^сіз/сіз<prn><pers><p2><sg><frm><nom>$ ^тек/тек<adv>$ ^тағып/тақ<v><tv><prc_perf>$ ^көріп қана/көр<vaux><gna_perf>+ғана<postadv>$ ^біле/біл<v><tv><prc_impf>$ ^аласыз/ал<vaux><aor><p2><frm><sg>$^./.<sent>$ ^Көзілдірікті/көзілдірікті<adj>$ ^таққанда/тақ<v><tv><ger_past><loc>$ ^көзіңізге/көз<n><px2sg><frm><dat>$ ^ыңғайлы/ыңғайлы<adj>+е<cop><aor><p3><sg>$^,/,<cm>$ ^тік/тік<adj>$ ^сызықтары/сызық<n><pl><px3sp><nom>$ ^бірдей/бір<num><subst><sim>$^,/,<cm>$ ^көзді/көз<n><acc>$ ^бұлдыратып/*бұлдыратып$ ^көрсетпеуі/көрсет<v><tv><neg><ger><px3sp><nom>$ ^қажет/қажет<adj>$^./.<sent>$ ^Бір/бір<num>$ ^затты/зат<n><acc>$ ^немесе/немесе<cnjcoo>$ ^шүберекті/шүберек<n><acc>$ ^үстелге/үстел<n><dat>$ ^қойып/қой<v><tv><gna_perf>$ ^қарап көріңіз/қарап көр<v><tv><imp><p2><frm><sg>$^,/,<cm>$ ^таңдалған/таңда<v><tv><pass><gpr_past>$ ^заттың/зат<n><gen>$ ^құрылымы/құрылым<n><px3sp><nom>$ ^аздап қана/аздап<adv>+ғана<postadv>$ ^бұрмаланса/бұрмала<v><tv><pass><gna_cond><p3><sg>$^,/,<cm>$ ^линзаның/*линзаның$ ^жақсы/жақсы<adj>$ ^болғаны/бол<v><iv><ger_past><px3sp><nom>$^./.<sent>$^Таңдағанда/таңда<v><tv><ger_past><loc>$ ^(/(<lpar>$^шиша/*шиша$ ^линзаларымен/*линзаларымен$^)/)<rpar>$ ^ең/ең<adv>$ ^бірінші/бір<num><ord>$ ^оның/ол<prn><dem><gen>$ ^маркасына/марка<n><px3sp><dat>$ ^мән/мән<n><nom>$ ^беріңіз/бер<v><tv><imp><p2><frm><sg>$^./.<sent>$ ^«/«<lquot>$^UV/Uv<np><unk>$^-/х<guio>$^A/A<np><unk>$^»/»<rquot>$ ^және/және<cnjcoo>$ ^«/«<lquot>$^UV/Uv<np><unk>$^-/х<guio>$^В/В<np>$^»/»<rquot>$ ^(/(<lpar>$^ultraviolet/*ultraviolet$^)/)<rpar>$ ^ультракүлгін/*ультракүлгін$ ^сәулелерден/сәуле<n><pl><abl>$ ^қорғау/қорға<v><tv><ger><nom>$ ^пайызын/пайыз<n><px3sp><acc>$ ^көрсетеді/көрсет<v><tv><aor><p3><sg>$^./.<sent>$ ^Ал/ал<cnjcoo>$ ^осының/осы<prn><dem><gen>$ ^ішінде/іш<n><px3sp><loc>$ ^«/«<lquot>$^В/В<np>$^»/»<rquot>$ ^тобындағы/топ<n><px3sp><loc><attr>$ ^көзілдіріктер/*көзілдіріктер$ ^көбіне/көп<adj><subst><px3sp><dat>$ ^көзге/көз<n><dat>$ ^зиян/зиян<n><nom>$ ^болып келеді/болып кел<v><iv><aor><p3><sg>$^./.<sent>$ ^Сонымен қатар/сонымен қатар<adv>$ ^«/«<lquot>$^400/400<num>$ ^нм/нм<n><nom>$^»/»<rquot>$ ^деген/де<v><tv><gpr_past>$ ^жазуды да/жаз<v><tv><ger><acc>+да<cnjcoo>$ ^көзіңіз/көз<n><px2sg><frm><nom>$ ^шалуы/шал<v><tv><ger><px3sp><nom>$ ^мүмкін/мүмкін<adj>+е<cop><aor><p3><sg>$^./.<sent>$ ^Бұл/бұл<det><dem>$ ^көзілдіріктің/көзілдірікті<adj><subst><px2sg><nom>$ ^көзіңізді/көз<n><px2sg><frm><acc>$ ^күннен/күн<n><abl>$ ^қорғау/қорға<v><tv><ger><nom>$ ^мүмкіндігін/мүмкіндік<n><px3sp><acc>$ ^көрсетеді/көрсет<v><tv><aor><p3><sg>$^./.<sent>$ ^Ал/ал<cnjcoo>$ ^400-ден/400<num><subst><abl>$ ^төмен/төмен<adj>$ ^болса/бол<v><iv><gna_cond><p3><sg>$^,/,<cm>$ ^жартылай ғана/жартылай<adv>+ғана<postadv>$ ^қорғайды/қорға<v><tv><aor><p3><sg>$ ^дегенді/де<v><tv><ger_past><acc>$ ^білдіреді/білдір<v><tv><aor><p3><sg>$^./.<sent>$ 
+
+#^көзілдірік/*көзілдірік$ ^таңдау/таңда<v><tv><ger><nom>$#^көзәйнек/көзәйнек<n><nom>$#^жаз/жаз<n><nom>$#^көзді/көз<n><acc>$ ^күннен/күн<n><abl>$ ^қорғайтын/қорға<v><tv><gpr_impf>$ ^көзілдірік/*көзілдірік$#^ультракүлгін/*ультракүлгін$ ^сәуле/сәуле<adj>$
+
+
+^Бөлісу/бөліс<v><tv><ger><nom>$^:/:<sent>$
+
+    ^a/*a$^./.<sent>$^custom/*custom$^-/х<guio>$^share/*share$^-/х<guio>$^btn/*btn$ {
+        ^cursor/*cursor$^:/:<sent>$ ^pointer/*pointer$^;/;<sent>$
+    }
+    ^a/*a$^./.<sent>$^custom/*custom$^-/х<guio>$^share/*share$^-/х<guio>$^btn/*btn$ ^img/*img$ {
+        ^width/*width$^:/:<sent>$ ^40px/*40px$^;/;<sent>$
+        ^height/*height$^:/:<sent>$ ^40px/*40px$^;/;<sent>$
+        ^position/*position$^:/:<sent>$ ^relative/*relative$^;/;<sent>$
+        ^left/*left$^:/:<sent>$ ^2px/*2px$^;/;<sent>$
+    }
+    ^div/*div$ ^span/*span$^./.<sent>$^social/*social$^-/х<guio>$^span/*span$^:/:<sent>$^not/*not$^(/(<lpar>$^:/:<sent>$^last/*last$^-/х<guio>$^child/*child$^)/)<rpar>$ {
+        ^margin/*margin$^:/:<sent>$ ^6px/*6px$ ^5px/*5px$ ^0/0<num>$ ^0/0<num>$^;/;<sent>$
+    }
+    ^div/*div$ ^span/*span$^./.<sent>$^social/*social$^-/х<guio>$^span/*span$^:/:<sent>$^last/*last$^-/х<guio>$^child/*child$ {
+        ^margin/*margin$^:/:<sent>$ ^6px/*6px$ ^0/0<num>$ ^0/0<num>$ ^0/0<num>$^;/;<sent>$
+    }
+    ^./.<sent>$^pluso/*pluso$^-/х<guio>$^more/*more$ {
+        ^display/*display$^:/:<sent>$ ^none/*none$ ^!/!<sent>$^important/*important$^;/;<sent>$
+    }
+
+
+
+
+
+            ^Пікір/пікір<n><nom>$ ^қалдыру/қалдыр<v><tv><ger><nom>$ ^үшін/үшін<post>$ ^сайтқа/сайт<n><dat>$ ^кіріңіз/кір<n><px2sg><frm><nom>$
+
+
+
+
+
+^Өзгерту/өзгерт<v><tv><ger><nom>$
+
+
+
+
+^Жаңа/жаңа<adj>$
+^Ескі/ескі<adj>+е<cop><aor><p3><sg>$
+^Әйгілі/әйгілі<adj>$
+
+
+
+ 
+ 

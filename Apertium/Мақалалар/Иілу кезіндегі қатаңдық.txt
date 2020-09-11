@@ -1,0 +1,2 @@
+^Иілу/и<v><tv><pass><ger><nom>$ ^кезіндегі/кез<n><px3sp><loc><attr>$ ^қатаңдық/қатаңдық<adj>+е<cop><aor><p3><sg>$^./.<sent>$^Eξ/*Eξ${^\/\<sent>$^displaystyle/*displaystyle$ ^E/E<np><unk>$^\/\<sent>$^xi/*xi$ }^,/,<cm>$^мұндағы/бұл<prn><dem><loc><attr>$ ^ξ/*ξ${^\/\<sent>$^displaystyle/*displaystyle$ ^\/\<sent>$^xi/*xi$ } ^-/х<guio>$ ^өстікинерция/*өстікинерция$ ^моменті/момент<n><px3sp><nom>+е<cop><aor><p3><sg>$^,/,<cm>$ ^Е/е<ij>$ ^-/х<guio>$ ^бойлық/бойлық<adj>$ ^серпімділік/серпімділік<n><nom>$ ^модуль/модуль<n><nom>+е<cop><aor><p3><sg>$^./.<sent>$  
+

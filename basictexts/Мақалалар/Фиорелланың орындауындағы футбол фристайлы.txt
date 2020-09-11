@@ -1,0 +1,6 @@
+  
+writeFlash({"src":"http://www.youtube.com/v/fu0ZaRng7dc","width":"450","height":"338"});
+ 
+writeFlash({"src":"http://www.youtube.com/v/rkj2vgEC6a4#t","width":"450","height":"338"});
+
+    

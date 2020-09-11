@@ -1,0 +1,45 @@
+Қазақ Мемлекеттік Қыздар Педагогикалық Университеті, Қазақ филологиясы және әлем тілдері факультетінің 2017 жылғы түлегі.  1995 жылы, 4 тамызда ОҚО, Шардара қаласында дүниеге келген. Ы.
+Жақаевтың 125 жылдығына орай өткен мүшәйраның Бас жүлдегері.  «Шабыт» шығармашылық жастар фестивальінің Дипломанты. Тәуелсіздіктің 25 жылдығына орай өткен бірнеше мүшәйралардың Жүлдегері.  «Арман аралы» атты жыр жинағының авторы.Күн, маған жылу, нұр берші,.Жер, маған сұлу гүл берші,.жанды да жансыз кіл көсең..Жарығым менің, жанарым менің,.Бұлттармен бірге барады көшіп,.Ауада қалқып ажарың сенің..Мақпалым менің, мақтаным менің,.Өлеңмен бірге жатталып едің..Сөзімді сезім сазымен демеп,.Қаламға ғана ақталып едім..Көңілдің демеп күйік күндерін,.Сенімен ғана биікпін дедім..Көңілді мұнша көркем сөйлеткен,.Білмеймін, менің сүйіктім бе едің?!.Ғұмырым менің, жуық тағдырым,.Қай жерде сені ұмыт қалдырдым?.Көңілден ғана жауатын бір сәт,.Сен өзі кімсің, суық жаңбырым? .Қой, не керек? …сыйлар ма ең,.Тарса, темір қойған соң қадау қылып,.Тар кепенің ішінде қараңғылық..Сықырлауық есіктің саңлауынан .Қараша жел соғады қадам қылып..Міз бақпайтын қалпынан марғау қылық,.Қозғалғандай зіл-батпан жарау құлып..Ақ шуаққа талпынды сұр бәтеңке.Қожайыны секілді Адамды ұғып..Ақ шуаққа, ауаға талпынады,.Шаң кептелген мойыны шарқ ұрады..Бір-біріне байланған қара баулар,.Қан жүргендей өзді-өзі тартынады..Қожайыны басқа ойға қимай бөтен,.Бұған таныс сол табан, сол башпайлар.Қу, дүние-ай, ендігі сыймайды екен..Бәрі өткінші, дәурені майлы жақпа,.Көкірегіңді асқақтат, асқақтатпа..Резіңкелер қатары – монша оты боп,.Ал еркіндік алып ұш Аспан жаққа..Бастарын шұлғиды қурайлар..Аппақ шық, айнала балғындық –.Көктеме таңында туды ойлар..Көбелек секірді гүлден-гүл..Самал жел — Алланың әуені,.Көшеді, бір жылап, бір күліп..Таң ата жол жаққа үңілдім,.Қарлығаш келіпті мекендеп..Бір өлең жаз, жаным, жүрекпен,.Сезімнен кешегі бір еккен,.Сімірсін сусындап көк пен жер,.Гүлденсін, түрленсін көк пен бел,.Салынсын сазды бір әуенге,.Әр өлең, шынында, бір дұға,.Белгісіз күйде жүрмін үздігумен,.Хабарласып, хат жазып, келмесеңіз,.Айтыңызшы, сұрармын сізді кімнен?.Мен бақыт күтіп жүрмін күннен, айдан,.Білмеймін, келетінін қашан, қайдан?.Махаббат миуасы ауада тұр,.Барады қалқып сезім қанат жайған..Жақында бір қоңырау соғам дегем..Мөп-мөлдір сезімімді айт, нәзік жүрек.Жартысын бөліп алып соған берем..Екеумізге су, ауа, ай да ортақ,.Бір жүрекпен соғамыз қайда болсақ..Жараламыз біз қайта екеу болып,.Басқа өмірде қайтадан пайда болсақ..Ақ ниеттер күмәнді жеңді алысқан..Шегі болар аңсаудың енді алыстан..Көңілімді күрмеусіз бұғаулаған,.Елесім де сен болдың, есімде сен..Көңілімнен қойсам ба күн шығарып,.Күн шығарып, аяулы үн шығарып..Сол ақ нұрдан тояттап тасыр ма едің,.Тасымасаң, мына әлем күрсі, ғаріп..Кінәлаймыз, несіне, айыптаймыз,.Бағыты бір, бұрылмас қайықтаймыз..Артығы жоқ, кемі жоқ бір атадан.Таратылған тамырды байыптаймыз..Мен – жолаушы өмірге, сен – жолаушы,.Кім атымтай жомарт та, кім тонаушы..Жолаушының азығы жолында деп, .Күндестікті, қайтеміз, құр былаушы..Қалай мүмкін кешірмеу, тұрса сұрап,.Азат етсін жаныңды қылша қынап..Мен сүйемін өмірді, адамдарды,.Қанша жылап, тұрсам да қанша құлап..Талай адам жаныма көшірді мұң,.Кінәладым көп жылдар көшімді мың..Олар емес, кінәлі өзім екен,.Бөлісіңіз:
+
+
+
+
+
+
+ 
+          var node4990 = document.getElementById("MIXADV_4990");
+          if( node4990 )
+          {
+               var script = document.createElement("script");
+               script.charset = "utf-8";
+               script.src = "https://m.mixadvert.com/show/?id=4990&r="+Math.random();
+               node4990.parentNode.appendChild(script); 
+               script.onerror = function(){
+                  window.eval( atob("dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg") );
+              }
+          }
+          
+
+
+
+
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-241735-5",
+                renderTo: "yandex_rtb_R-A-241735-5",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+
+
+
+.

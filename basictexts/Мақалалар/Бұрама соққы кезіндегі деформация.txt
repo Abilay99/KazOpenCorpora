@@ -1,0 +1,2 @@
+Бұрама соққы кезіндегі деформация.σg=ϕc∗kg{\displaystyle \sigma _{g}=\phi _{c}*k_{g}},мұндағы kg{\displaystyle k_{g}} -динамикалық коэффициент,ϕc{\displaystyle \phi _{c}}- соққы тиген жердің бұралу бұрышы.   
+

@@ -1,0 +1,9 @@
+^Футболдан/футбол<n><abl>$ ^Қазақстан/Қазақстан<np><top><nom>$ ^ұлттық/ұлттық<adj>$ ^құрамасының/құрама<n><px3sp><gen>$ ^ойыншысы/ойыншы<n><px3sp><nom>$ ^Еркебұлан/Еркебұлан<np><ant><m><nom>$ ^Сейдахмет/Сейдахмет<np><ant><m><nom>$ ^журналистер/журналист<n><pl><nom>$ ^қойған/қой<v><tv><gpr_past>$ ^"/"<sent>$^қазақтың/қазақ<n><gen>$ ^Мессиі/Месси<np><cog><m><px3sp><nom>$^"/"<sent>$ ^лақап атына/лақап ат<n><px3sp><dat>$ ^қалай/қалай<adv><itg>$ ^қарайтынын/қара<v><tv><ger_impf><px3sp><acc>$ ^жеткізді/жеткіз<v><tv><ifi><p3><sg>$
+^Бұл/бұл<det><dem>$ ^туралы/туралы<post>$ ^Sports/Sports<np><unk>$^./.<sent>$^kz/kz<abbr>$^-/х<guio>$^ке/*ке$ ^сілтеме/сілтеме<n><nom>$ ^жасаған/жаса<v><tv><gpr_past>$ ^KAZ/Kaz<np><unk>$^./.<sent>$^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$^./.<sent>$
+
+^Спортшы/спорт<n><nom>+шы<emph>$ ^Diema/*Diema$ ^Sport/Sport<np><unk>$ ^сайтына/сайт<n><px3sp><dat>$ ^берген/бер<v><tv><gpr_past>$ ^сұқбатында/сұхбат<n><px3sp><loc>$ ^осы/осы<prn><dem><nom>$ ^жайлы/жайлы<adv>$ ^ашып/аш<v><tv><gna_perf>$ ^айтты/айт<v><tv><ifi><p3><sg>$^./.<sent>$
+^Ал/ал<cnjcoo>$ ^"/"<sent>$^қазақтың/қазақ<n><gen>$ ^Мессиі/Месси<np><cog><m><px3sp><nom>$^"/"<sent>$ ^атауына/атау<n><px3sp><dat>$ ^келсек/кел<v><iv><gna_cond><p1><pl>$^,/,<cm>$ ^оны/ол<prn><dem><acc>$ ^жанкүйерлер/жанкүйер<n><pl><nom>$ ^емес/е<cop><neg><aor><p3><sg>$^,/,<cm>$ ^бұқаралық/бұқаралық<adj>$ ^ақпарат/ақпарат<n><nom>$ ^құралдары/құрал<n><pl><px3sp><nom>+е<cop><aor><p3><sg>$ ^ойлап тапты/ойлап тап<v><tv><ifi><p3><sg>$
+
+ 
+ 
+ 

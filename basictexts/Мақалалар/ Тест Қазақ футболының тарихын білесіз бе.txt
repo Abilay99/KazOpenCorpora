@@ -1,0 +1,7 @@
+ Ресми деректерге сүйенсек, биыл қазақ футболына 106 жыл толады. Сонау 1913 жылы қазақ жеріне алғаш келген аяқ доп ойынынан қаншалықты хабардарсыз? Ендеше қазақ футболының КСРО заманындағы тарихынан біліміңізді сынап көріңіз.   
+// <![CDATA[
+
+(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://embed.playbuzz.com/sdk.js';fjs.parentNode.insertBefore(js,fjs);}(document,'script','playbuzz-sdk'));
+
+// ]]>
+   

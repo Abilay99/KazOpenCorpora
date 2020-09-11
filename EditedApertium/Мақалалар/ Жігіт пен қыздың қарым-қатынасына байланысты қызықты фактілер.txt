@@ -1,0 +1,1 @@
+ ^сурет/сурет<n><nom>$^:/:<sent>$ ^agebox/*agebox$^./.<sent>$^ru/*ru$ 

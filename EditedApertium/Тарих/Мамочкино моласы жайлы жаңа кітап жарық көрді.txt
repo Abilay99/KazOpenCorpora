@@ -1,0 +1,110 @@
+^Осыдан/осы<prn><dem><abl>$ ^жүз/жүз<num>$ ^жыл/жыл<n><nom>$ ^бұрын/бұрын<post>$ ^Коммунистердің/коммунист<n><pl><gen>$ ^рухани/рухани<adj>$ ^ұстазы/ұстаз<n><px3sp><nom>$ ^Владимир/Владимир<np><top><nom>$ ^Илич/И<np>лич$ ^Ленин/Ленин<np><cog><m><nom>$ ^Ресейге/Ресей<np><top><dat>$ ^«/«<lquot>$^Халықтардың/Халық<np><ant><m><pl><gen>$ ^ұлы/ұлы<adj>$ ^түрмесі/түрме<n><px3sp><nom>$^»/»<rquot>$ ^деген/де<v><tv><gpr_past>$ ^баға/бақ<v><tv><prc_impf>$ ^берген/бер<vaux><gpr_past>$ ^болатын/бол<v><iv><pih><p3><sg>$^./.<sent>$
+^Оның/ол<prn><dem><gen>$ ^бұл/бұл<det><dem>$ ^сөзі/сөз<n><px3sp><nom>$ ^бірден/бірден<adv>$ ^кең таралып/кең тарал<v><iv><gna_perf>$^,/,<cm>$ ^революцияның/революция<n><gen>$ ^басты/басты<adj>$ ^ұранына/ұран<n><px3sp><dat>$ ^айналады/айнал<v><tv><aor><p3><sg>$^./.<sent>$
+^Әйтсе де/әйтсе де<cnjadv>$ ^билікке/билік<n><dat>$ ^келген/кел<v><iv><gpr_past>$ ^большевиктер/б<np>ольшевиктер$ ^ауыспалы/ауыспалы<adj>$ ^мағынада/мағына<n><loc>$ ^айтылған/айтыл<v><tv><gpr_past><subst><nom>$ ^«/«<lquot>$^халықтар/халық<n><pl><nom>$ ^түрмесі/түрме<n><px3sp><nom>$^»/»<rquot>$ ^ұғымын/ұғым<n><px3sp><acc>$^,/,<cm>$ ^шынайы/шынайы<adj>$ ^ұғымға/ұғым<n><dat>$ ^айналдырды/айналдыр<v><tv><ifi><p3><sg>$^./.<sent>$
+^Сталиннің/Сталин<np><cog><m><gen>$ ^жарлығы/жарлық<n><px3sp><nom>$ ^бойынша/бойынша<post>$ ^ГУЛАГ/ГУЛАГ<np><top><nom>$ ^құрылып/құр<v><tv><pass><gna_perf>$^,/,<cm>$ ^жер/жер<n><nom>$^-/х<guio>$^жерде/жер<n><loc>$ ^оның/ол<prn><pers><p3><sg><gen>$ ^филиалдары/филиал<n><pl><px3sp><nom>$ ^ашылды/аш<v><tv><pass><ifi><p3><sg>$^./.<sent>$
+^Мыңдаған/мыңдаған<det><qnt>$^,/,<cm>$ ^миллиондаған/миллиондаған<det><qnt>$ ^жазықсыз/жазықсыз<adj>$ ^адамдар/адам<n><pl><nom>$ ^сол/сол<adj>$ ^лагерлерде/л<np>агерлерде$ ^жапа/жапа<n><nom>$ ^шекті/шекті<adj>$^./.<sent>$
+^Сондай/сол<prn><dem><sim><nom>$ ^лагерлердің/л<np>агерлердің$ ^бірі/бір<num><subst><px3sp><nom>$ ^Қарағанды/Қарағанды<np><top><nom>$ ^өңіріндегі/өңір<n><px3sp><loc><attr>$ ^Карлаг/К<np>арлаг$ ^тұтқындар/тұтқында<v><tv><gpr_fut>$ ^лагері/лагерь<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$
+
+^Қарағандының/Қарағанды<np><top><gen>$ ^тарихи/тарихи<adj>$ ^картасындағы/карта<n><px3sp><loc><attr>$ ^қара/қара<adj>$ ^жолақпен/жолақ<n><ins>$ ^белгіленген/белгіле<v><tv><pass><past><p3><sg>$ ^бұл/бұл<prn><dem><nom>$ ^лагердің/л<np>агердің$ ^ашылмаған/аш<v><tv><pass><neg><gpr_past>$ ^жұмбағы/жұм<v><tv><ger_obs><px3sp><nom>$ ^көп/көп<adj>+е<cop><aor><p3><sg>$^./.<sent>$
+^Карлаг/К<np>арлаг$ ^ақиқатын/ақиқат<n><px3sp><acc>$ ^ашып/аш<v><tv><gna_perf>$^,/,<cm>$ ^онда/ол<prn><pers><p3><sg><loc>$ ^құрбан/құрбан<n><nom>$ ^болғандардың/бол<v><iv><ger_past><pl><gen>$ ^рухына/рух<n><px3sp><dat>$ ^тағзым/т<np>ағзым$ ^жасау/жаса<v><tv><ger><nom>$  ^мақсатында/мақсат<n><px3sp><loc>$ ^Ұлт/ұлт<n><nom>$ ^жанашыры/жанашыр<n><px3sp><nom>$^,/,<cm>$ ^заң/заң<adj>$ ^ғылымдарының/ғылым<n><pl><px3sp><gen>$ ^докторы/доктор<n><px3sp><nom>$^,/,<cm>$ ^ҚР/ҚР<np><top><nom>$ ^ҰҒА/ұқ<v><tv><gna_impf>$ ^корреспондент/корреспондент<n><nom>$^-/х<guio>$^мүшесі/мүше<n><px3sp><nom>$ ^Нұрлан/Нұрлан<np><ant><m><nom>$ ^Орынбасарұлы/О<np>рынбасарұлы$ ^Дулатбековтің/Д<np>улатбековтің$ ^идеясы/идея<n><px3sp><nom>$ ^негізінде/негіз<n><px3sp><loc>$ ^«/«<lquot>$^Болашақ/болашақ<n><nom>$^»/»<rquot>$ ^академиясының/академия<n><px3sp><gen>$ ^жанынан/жан<n><px3sp><abl>$ ^«/«<lquot>$^КАРЛАГ/К<np>АРЛАГ$^:/:<sent>$ ^тарихтан/тарих<n><abl>$ ^–/–<guio>$ ^тағылым/т<np>ағылым$^,/,<cm>$ ^өткенге/өт<v><tv><ger_past><dat>$^-/х<guio>$^тағзым/т<np>ағзым$^»/»<rquot>$ ^ғылыми/ғылыми<adj>$ ^ағарту/ағарт<v><iv><ger><nom>$ ^жобасы/жоба<n><px3sp><nom>$ ^ашылған/аш<v><tv><pass><past><p3><sg>$ ^болатын/бол<v><iv><pih><p3><sg>$^./.<sent>$
+^Жоба/жоба<n><nom>$ ^аясында/ая<n><px3sp><loc>$ ^бірнеше/бірнеше<det><qnt>$ ^тарихи/тарихи<adj>$ ^маңызы/маңыз<n><px3sp><nom>$ ^бар/бар<adj>$ ^кітаптар/кітап<n><pl><nom>$ ^жарық/жарық<adj><advl>$ ^көрді/көр<v><tv><ifi><p3><sg>$^./.<sent>$
+^Соның/сол<prn><dem><gen>$ ^бірі/бір<num><subst><px3sp><nom>$ ^біз/біз<prn><pers><p1><pl><nom>$ ^бүгінде/бүгін<n><loc>$ ^сөз/сөз<n><nom>$ ^қылып/қыл<v><tv><prc_perf>$ ^отырған/отыр<vaux><gpr_past>$ ^«/«<lquot>$^Мамочкино/М<np>амочкино$ ^моласы/мола<n><px3sp><nom>$^»/»<rquot>$ ^туралы/туралы<post>$ ^ғылыми/ғылыми<adj>$ ^еңбек/еңбек<n><nom>+е<cop><aor><p3><sg>$^./.<sent>$^Бұл/бұл<det><dem>$ ^кітапта/кітап<n><loc>$ ^Кеңестер/Кеңес<np><ant><m><pl><nom>$ ^Одағы/Одақ<np><ant><m><px3sp><nom>$ ^кезінде/кез<n><px3sp><loc>$ ^НКВД/НКВД<abbr>$^-/х<guio>$^мен/мен<prn><pers><p1><sg><nom>$ ^жазықсыз/жазықсыз<adj>$ ^жазаланып/жазала<v><tv><pass><gna_perf>$^,/,<cm>$ ^Қарлаг/Қ<np>арлаг$ ^лагерьлерінде/лагерь<n><pl><px3sp><loc>$ ^айдауда/айда<v><tv><ger><loc>$ ^болған/бол<v><iv><gpr_past>$ ^саяси/саяси<adj>$ ^қуғын-сүргін/қуғын-сүргін<n><nom>$ ^кұрбандарының/к<np>ұрбандарының$ ^балаларының/бала<n><pl><px3sp><gen>$ ^тізімі/тізім<n><px3sp><nom>+е<cop><aor><p3><sg>$^,/,<cm>$ ^олардың/ол<prn><dem><pl><gen>$ ^біразы/б<np>іразы$ ^жерленген/жерле<v><tv><pass><gpr_past>$ ^«/«<lquot>$^Мамочкино/М<np>амочкино$ ^моласының/мола<n><px3sp><gen>$^»/»<rquot>$ ^суреттері/сурет<n><pl><px3sp><nom>+е<cop><aor><p3><sg>$^,/,<cm>$ ^сондай-ақ/сондай-ақ<cnjcoo>$ ^осы/осы<det><dem>$ ^тақырыпқа/тақырып<n><dat>$ ^қатысты/қатысты<adj>$ ^мұрағат/мұрағат<n><nom>$ ^кұжаттары/құжат<n><pl><px3sp><nom>+е<cop><aor><p3><sg>$^,/,<cm>$ ^сол/сол<det><dem>$ ^кезеңнің/кезең<n><gen>$ ^көріністері/көрініс<n><pl><px3sp><nom>$ ^—/—<guio>$ ^суреттер/суретте<v><tv><gpr_fut>$ ^шоғыры/шоғыр<n><px3sp><nom>$^,/,<cm>$ ^бұйым/бұйым<n><nom>$^-/х<guio>$^заттардың/зат<n><pl><gen>$ ^суреттері/сурет<n><pl><px3sp><nom>$ ^берілген/бер<v><tv><pass><past><p3><sg>$^./.<sent>$^./.<sent>$^Үш/үш<num>$ ^тілде/тіл<n><loc>$ ^жарық/жарық<adj>$ ^көрген/көр<v><tv><gpr_past>$ ^«/«<lquot>$^Мамочкино/М<np>амочкино$ ^моласы/мола<n><px3sp><nom>$^»/»<rquot>$ ^кітабы/кітап<n><px3sp><nom>$  ^көпшілік/көпшілік<n><nom>$ ^окырманға/о<np>кырманға$ ^арналған/арна<v><tv><pass><past><p3><sg>$^./.<sent>$
+^Оны/ол<prn><dem><acc>$ ^тек/тек<cnjcoo>$ ^Қазақстандық/қазақстандық<adj>$ ^оқырмандар ғана/оқырман<n><pl><nom>+ғана<postadv>$ ^емес/е<cop><neg><aor><p3><sg>$ ^шетелдіктер де/шетелдік<n><pl><nom>+да<cnjcoo>$ ^еркін/еркін<adv>$ ^оқып/оқы<v><tv><gna_perf>$^,/,<cm>$ ^өңір/өңір<n><nom>$ ^тарихымен/тарих<n><px3sp><ins>$^,/,<cm>$ ^Сталиндік/С<np>талиндік$ ^зұламат/*зұламат$ ^жылдардың/жыл<n><pl><gen>$ ^белгісімен/белгі<n><px3sp><ins>$ ^таныса/таныс<v><iv><prc_impf>$ ^алады/ал<vaux><aor><p3><sg>$^./.<sent>$
+^Суреттердің/сурет<n><pl><gen>$ ^авторы/автор<n><px3sp><nom>$ ^әлеуметтік/әлеуметтік<adj>$ ^ғылымдар/ғылым<n><pl><nom>$ ^докторы/доктор<n><px3sp><nom>$ ^Дитер/Д<np>итер$ ^Зейц/З<np>ейц$ ^(/(<lpar>$^Германия/Германия<np><top><nom>$^)/)<rpar>$^./.<sent>$^Кітапта/кітап<n><loc>$ ^«/«<lquot>$^Момочкина/М<np>омочкина$ ^моласы/мола<n><px3sp><nom>$^»/»<rquot>$ ^туралы/туралы<post>$ ^анықтама/анықтама<n><nom>$ ^берілген/бер<v><tv><pass><past><p3><sg>$^./.<sent>$^Бұл/бұл<det><dem>$ ^молада/мола<n><loc>$ ^«/«<lquot>$^Карлаг/К<np>арлаг$^»/»<rquot>$ ^тұтқындары/тұтқын<n><pl><px3sp><nom>$ ^–/–<guio>$ ^әйелдер/әйел<n><pl><nom>$ ^мен/мен<cnjcoo>$ ^балалардың/бала<n><pl><gen>$ ^мүрделері/м<np>үрделері$ ^жерленген/жерле<v><tv><pass><past><p3><sg>$^./.<sent>$
+^Зират/зират<n><nom>$ ^Қарағанды/Қарағанды<np><top><nom>$ ^облысы/облыс<n><px3sp><nom>+е<cop><aor><p3><sg>$^,/,<cm>$ ^Абай/Абай<np><top><nom>$ ^ауданы/аудан<n><px3sp><nom>$ ^аумағында/аумақ<n><px3sp><loc>+е<cop><aor><p3><sg>$^,/,<cm>$ ^Долинка/Долинка<np><top><nom>$ ^кентіне/кент<n><px3sp><dat>$ ^жақын/жақын<adj>$ ^орналасқан/орналас<v><iv><gpr_past>$^./.<sent>$
+^«/«<lquot>$^Карлагта/К<np>арлагта$^»/»<rquot>$ ^ересектермен/ересек<n><pl><ins>$ ^бірге/бір<num><subst><dat>$ ^«/«<lquot>$^халық/халық<n><nom>$ ^жауларының/жау<n><pl><px3sp><gen>$^»/»<rquot>$ ^балалары да/бала<n><pl><px3sp><nom>+да<cnjcoo>$ ^мерзімдерін/мерзім<n><pl><px3sp><acc>$ ^өтеді/өт<v><tv><aor><p3><sg>$^./.<sent>$
+^Жаңа туған/жаңа туған<n><nom>$ ^балаларды/бала<n><pl><acc>$ ^аналарынан/ана<prn><dem><pl><px3sp><abl>$ ^тартып алып/тартып ал<v><iv><gna_perf>$^,/,<cm>$ ^Балалар/бала<n><pl><nom>$ ^комбинаттарына/комбинат<n><pl><px3sp><dat>$ ^тапсырады/тапсыр<v><tv><aor><p3><sg>$^./.<sent>$
+^Оның да/ол<prn><dem><gen>+да<cnjcoo>$ ^вахтасы/в<np>ахтасы$^,/,<cm>$ ^қақпасы/қақпа<n><px3sp><nom>$ ^бар/бар<adj>+е<cop><aor><p3><sg>$^./.<sent>$
+^Барактары/*Барактары$ ^және/және<cnjcoo>$ ^тікенек/тікенек<n><nom>$ ^сымдары/сым<n><pl><px3sp><nom>$ ^кәдімгі/кәдімгі<adj>$ ^зонадан/зона<n><abl>$ ^еш/еш<adv>$ ^айырмашылығы/айырмашылық<n><px3sp><nom>$ ^жоқ/жоқ<adj>+е<cop><aor><p3><sg>$^./.<sent>$
+^«/«<lquot>$^Карлагта/К<np>арлагта$^»/»<rquot>$ ^осындай/осы<prn><dem><sim><nom>$ ^жеті/жеті<num>$ ^мекеме/мекеме<n><nom>$ ^болған/бол<v><iv><past><p3><sg>$^./.<sent>$
+^Мұрағат/мұрағат<n><nom>$ ^деректері/дерек<n><pl><px3sp><nom>$ ^бойынша/бойынша<post>$^,/,<cm>$ ^мұндай/бұл<prn><dem><sim><nom>$ ^үйлерде/үй<n><pl><loc>$ ^балалар/бала<n><pl><nom>$ ^өлімі/өлім<n><px3sp><nom>$ ^өте/өте<adv>$ ^жоғары/жоғары<adj>$ ^еді/е<cop><ifi><p3><sg>$^./.<sent>$
+^Мәселен/мәселен<ij>$^,/,<cm>$ ^1941/1941<num>$^-/х<guio>$^1944/1944<num>$ ^жылдары/жыл<n><pl><px3sp><nom>$ ^924/924<num>$ ^бала/бала<n><nom>$^,/,<cm>$ ^ал/ал<cnjcoo>$ ^1950/1950<num>$^-/х<guio>$^1952/1952<num>$ ^жылдары/жыл<n><pl><px3sp><nom>$ ^1130/1130<num>$ ^сәби/сәби<n><nom>$ ^опат/опат<n><nom>$ ^болған/бол<v><iv><past><p3><sg>$…^./.<sent>$^Бұдан/бұл<prn><dem><abl>$ ^бөлек/бөлек<adj>$ ^кітапта/кітап<n><loc>$ ^Қазақстан/Қазақстан<np><top><nom>$ ^Жазушылар/жазушы<n><pl><nom>$ ^одағы/одақ<n><px3sp><nom>$ ^төрағасының/төраға<n><px3sp><gen>$ ^бірінші/бір<num><ord>$ ^орынбасары/орынбасар<n><px3sp><nom>+е<cop><aor><p3><sg>$^,/,<cm>$ ^Халықаралық/халықаралық<adj>$ ^«/«<lquot>$^Алаш/Алаш<np><top><nom>$^»/»<rquot>$ ^сыйлығының/сыйлық<n><px3sp><gen>$ ^лауреаты/лауреат<n><px3sp><nom>$ ^Ғалым/Ғалым<np><ant><m><nom>$ ^Жайлыбайдың/Ж<np>айлыбайдың$  ^«/«<lquot>$^Мамочкина/М<np>амочкина$ ^моласы/мола<n><px3sp><nom>$^»/»<rquot>$ ^өлеңі/өлең<n><px3sp><nom>$ ^ағылышын/а<np>ғылышын$^,/,<cm>$ ^орыс/орыс<n><nom>$ ^тілдеріне/тіл<n><pl><px3sp><dat>$ ^аударылып/аудар<v><tv><pass><gna_perf>$^,/,<cm>$ ^басылған/бас<v><tv><pass><gpr_past>$^./.<sent>$^./.<sent>$***
+… ^Кімге/кім<prn><itg><dat>$ ^ол/ол<prn><pers><p3><sg><nom>$ ^күннің/күн<n><gen>$ ^обалы/оба<n>+лы<post>$^?/?<sent>$
+^Балалығымды/балалық<n><px1sg><acc>$ ^ұрлады/ұрла<v><tv><ifi><p3><sg>$^,/,<cm>$
+^Қызықтарын/қызық<adj><subst><pl><px3sp><acc>$ ^тонады/тона<v><tv><ifi><p3><sg>$^./.<sent>$
+^Ессіз/ессіз<adj>$ ^ғасыр/ғасыр<n><nom>$ ^адамзаттың/адамзат<n><gen>$ ^алдында/алд<n><px3sp><loc>$ ^—/—<guio>$
+^Жауап берген жоқ/жауап бер<v><iv><neg><ifi><p3><sg>$ ^әлі/әл<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$^./.<sent>$^Көкті/көк<n>+лы<post>$ ^кезіп/кез<v><iv><prc_perf>$ ^кеткен/кет<vaux><gpr_past>$ ^кезде/кез<n><loc>$ ^жыр/жыр<n><nom>$ ^құсым/құс<n><px1sg><nom>$^,/,<cm>$
+^Мен/мен<prn><pers><p1><sg><nom>$ ^олардың/ол<prn><dem><pl><gen>$ ^танып/тан<v><iv><gna_perf>$ ^алғам/а<np>лғам$ ^түр/түр<n><nom>$^-/х<guio>$^түсін/түсін<v><tv><imp><p2><sg>$^./.<sent>$
+^«/«<lquot>$^Мамочкина/М<np>амочкина$ ^моласынан/мола<n><px3sp><abl>$^»/»<rquot>$ ^естимін/есті<v><tv><aor><p1><sg>$ ^—/—<guio>$ 
+^Сақ/сақ<adj>$^-/х<guio>$^сақ/сақ<adj><advl>$ ^еткен/ет<v><tv><gpr_past>$ ^сәбилердің/сәби<n><pl><gen>$ ^күлкісін/күлкі<n><px3sp><acc>$^./.<sent>$
+^Аңызықта/А<np>ңызықта$ ^арай/арай<n><nom>$ ^тігіп/тік<v><tv><gna_perf>$ ^күнсіген/к<np>үнсіген$^,/,<cm>$
+^Көктемдегі/көктем<n><loc><attr>$ ^көк/көк<adj>$ ^шыбықтың/шыбық<n><gen>$ ^бүршігі/бүршік<n><px3sp><nom>$ ^ең/ең<adv>$^./.<sent>$
+^«/«<lquot>$^Мамочкина/М<np>амочкина$ ^моласына/мола<n><px3sp><dat>$^»/»<rquot>$ ^жеткенде/жет<v><iv><ger_past><loc>$
+^Сақ/сақ<adj>$^-/х<guio>$^сақ/сақ<adj>$ ^еткен/ет<v><tv><gpr_past>$ ^сол/сол<det><dem>$ ^күлкіден/күлкі<n><abl>$ ^түршігем/түршік<v><iv><aor><p1><sg>$^./.<sent>$^./.<sent>$^Сол/сол<adj>$ ^маңайдан/маңай<n><abl>$ ^естимін де/есті<v><tv><aor><p1><sg>+да<cnjcoo>$ ^тосын/тосын<adj>$ ^ән/ән<n><nom>+е<cop><aor><p3><sg>$^./.<sent>$
+^Тосын/тосын<adj>$ ^әнге/ән<n><dat>$ ^қосыла/қос<v><tv><pass><prc_impf>$ ^алмай/ал<vaux><neg><gna_perf>$ ^тосылам/тос<v><tv><pass><aor><p1><sg>$^./.<sent>$
+^«/«<lquot>$^Мамочкино/М<np>амочкино$ ^моласының/мола<n><px3sp><gen>$^»/»<rquot>$ ^қасында/қас<n><px3sp><loc>$
+^сақ/сақ<adj>$^-/х<guio>$^сақ/сақ<adj>$ ^еткен/ет<v><tv><gpr_past>$ ^сол/сол<det><dem>$ ^дауыстан/дауыс<n><abl>$ ^шошынам/шошын<v><iv><aor><p1><sg>$^./.<sent>$^./.<sent>$^Тайғақ/тайғақ<adj><advl>$ ^кешіп/кеш<v><tv><gna_perf>$^,/,<cm>$
+^Тағдыр/тағдыр<n><nom>$ ^біткен/біт<v><iv><gpr_past>$ ^тайғасын/т<np>айғасын$^,/,<cm>$
+^Аяр/ая<v><tv><gpr_fut>$ ^қоғам/қоғам<n><nom>$ ^асырады/асыр<v><tv><aor><p3><sg>$ ^айласын/айла<n><px3sp><acc>$^./.<sent>$
+… ^Бірігуге/бірік<v><iv><ger><dat>$ ^ұран/ұран<n><nom>$ ^салған/сал<v><tv><gpr_past>$ ^сол/сол<det><dem>$ ^күнде/күн<n><loc>$ ^—/—<guio>$ 
+^Барлық/Барлық<np><top><nom>$ ^елдің/ел<n><gen>$ ^пролетары/*пролетары$^,/,<cm>$ ^қайдасың/қайда<adv><itg>+е<cop><aor><p2><sg>$^?/?<sent>$…
+^Дыбыстарын/дыбыс<n><pl><px3sp><acc>$ ^жұртқа/жұрт<n><dat>$ ^естіртпей/е<np>стіртпей$ ^былайғы/б<np>ылайғы$^,/,<cm>$
+^Қарғамай-ақ/қарға<v><tv><neg><gna_perf>+-ақ<postadv>$ ^қоғамды да/қоғам<n><acc>+да<cnjcoo>$^,/,<cm>$
+^Құдайды/Құдай<n><acc>$^./.<sent>$
+^Жартастағы/жартас<n><loc><attr>$ ^«/«<lquot>$^Мамочкино/М<np>амочкино$ ^моласы/мола<n><px3sp><nom>$^»/»<rquot>$
+^Сақ/сақ<adj>$^-/х<guio>$^сақ/сақ<adj><advl>$ ^етіп/ет<v><tv><gna_perf>$ ^күледі де/күл<v><iv><aor><p3><sg>+да<cnjcoo>$ ^жылайды/жыла<v><iv><aor><p3><sg>$ …^./.<sent>$^Қол/қол<adj>$ ^бұлғаңдар/бұлға<v><iv><imp><p2><pl>$^!/!<sent>$
+^Сол/сол<adj>$ ^сапарға/сапар<n><dat>$ ^ермеймін/ер<v><iv><neg><aor><p1><sg>$^,/,<cm>$
+^Саны/Сан<np><ant><m><px3sp><nom>$ ^келіп/кел<v><iv><gna_perf>$^,/,<cm>$
+^Саны/Са<np><ant><m><acc>$ ^кеткен/кет<v><tv><gpr_past>$ ^мендейдің/м<np>ендейдің$^./.<sent>$
+^Сай/сай<adj>$^-/х<guio>$^сүйегім/сүйек<n><px1sg><nom>$ ^сырқырайды/с<np>ырқырайды$ ^жоласам/жола<v><iv><gna_cond><p1><sg>$ ^—/—<guio>$
+^Енді/енді<adv>$ ^қайтіп/қайт<v><tv><gna_perf>$ ^бұл/бұл<det><dem>$ ^маңайға/маңай<n><dat>$ ^келмеймін/кел<v><iv><neg><aor><p1><sg>$
+… ^Жартастағы/жартас<n><loc><attr>$ ^«/«<lquot>$^Мамочкино/М<np>амочкино$ ^моласы/мола<n><px3sp><nom>$^»/»<rquot>$^./.<sent>$^./.<sent>$***
+^Кто/К<np>то$ ^в/в<np>$ ^ответе/о<np>твете$ ^за/*за$ ^те/да<cnjcoo>$ ^злодеяянья/*злодеяянья$^?/?<sent>$
+^Век/В<np>ек$ ^–/–<guio>$ ^безумец/б<np>езумец$^,/,<cm>$ ^жестокости/*жестокости$ ^век/в<np>ек$^!/!<sent>$
+^Все/В<np>се$ ^похищено/*похищено$ ^–/–<guio>$ ^детства/д<np>етства$ ^сиянье/с<np>иянье$^,/,<cm>$
+^Смех/С<np>мех$ ^и/и<v><tv><imp><p2><sg>$ ^радост/р<np>адост$^,/,<cm>$ ^любви/л<np>юбви$ ^обожнье/о<np>божнье$^./.<sent>$^./.<sent>$^Когда/К<np>огда$ ^в/в<np>$ ^далях/д<np>алях$ ^небесных/н<np>ебесных$ ^витает/в<np>итает$
+^Птиц/П<np>тиц$ ^–/–<guio>$ ^Муза/муза<n><nom>$ ^–/–<guio>$ ^я/я<cnjcoo>$ ^вижу/в<np>ижу$ ^опять/о<np>пять$^:/:<sent>$
+^Детский/Д<np>етский$ ^лик/л<np>ик$ ^в/в<np>$ ^облаках/о<np>блаках$ ^проступает/*проступает$^,/,<cm>$
+^Смех/С<np>мех$ ^младенца/м<np>ладенца$ ^меня/м<np>еня$ ^окликает/о<np>кликает$ ^—/—<guio>$
+^Как/К<np>ак$ ^не/не<cnjcoo>$ ^вздрогнуть/в<np>здрогнуть$ ^и/и<v><tv><imp><p2><sg>$ ^как/к<np>ак$ ^не/не<cnjcoo>$ ^узнать/у<np>знать$^!/!<sent>$^./.<sent>$^От/от<n><nom>$ ^расточка/р<np>асточка$
+^На/На<np><ant><m><nom>$ ^весеннем/в<np>есеннем$ ^зеленом/*зеленом$ ^пруте/*пруте$
+^Сад/С<np>ад$ ^бы/б<np>ы$ ^вырос/в<np>ырос$^./.<sent>$
+^Но/Н<np>о$ ^сорвана/с<np>орвана$ ^почка/*почка$^,/,<cm>$
+^Но/Н<np>о$ ^в/в<np>$ ^могильной/м<np>огильной$ ^она/о<np>на$ ^темноте/т<np>емноте$^./.<sent>$^./.<sent>$^Среди/С<np>реди$ ^кладбища/к<np>ладбища$ ^вдруг/в<np>друг$ ^настигает/н<np>астигает$
+^Детский/Д<np>етский$ ^песенки/*песенки$ ^голосок/г<np>олосок$ ^—/—<guio>$
+^И/и<v><tv><imp><p2><sg>$ ^сжимается/с<np>жимается$ ^сердце/с<np>ердце$^,/,<cm>$ ^и/и<v><tv><imp><p2><sg>$ ^тает/т<np>ает$^,/,<cm>$
+^И/и<v><tv><imp><p2><sg>$ ^мне/м<np>не$ ^студит/с<np>тудит$ ^морозом/м<np>орозом$ ^висок/в<np>исок$^./.<sent>$^./.<sent>$^Век/В<np>ек$ ^–/–<guio>$ ^злодей/*злодей$^!/!<sent>$ ^Ты/*Ты$ ^промчался/*промчался$ ^галопом/г<np>алопом$^,/,<cm>$
+^Всех/В<np>сех$ ^топча/т<np>опча$ ^и/и<v><tv><imp><p2><sg>$ ^огнем/о<np>гнем$ ^ослепив/о<np>слепив$^,/,<cm>$
+^По/По<np><ant><m><nom>$ ^дорогам/д<np>орогам$ ^кривым/к<np>ривым$ ^и/и<v><tv><imp><p2><sg>$ ^по/*по$ ^тропам/т<np>ропам$^,/,<cm>$
+^И/и<v><tv><imp><p2><sg>$ ^по/*по$ ^скользкой/с<np>кользкой$ ^от/от<n><nom>$ ^крови/к<np>рови$ ^степи/с<np>тепи$^./.<sent>$^./.<sent>$^Пролетариев/П<np>ролетариев$ ^звал/*звал$ ^к/к<np>$ ^единенью/е<np>диненью$…
+^Где/Г<np>де$ ^они/о<np>ни$^?/?<sent>$ ^Почему/П<np>очему$ ^не/не<cnjcoo>$ ^спасли/с<np>пасли$^,/,<cm>$
+^Почему/П<np>очему$ ^они/о<np>ни$ ^отдали/о<np>тдали$ ^тленью/т<np>ленью$
+^Матерей/М<np>атерей$ ^и/и<v><tv><imp><p2><sg>$ ^младенцев/м<np>ладенцев$ ^земли/*земли$^?/?<sent>$^./.<sent>$^Воздух/В<np>оздух$ ^чист/ч<np>ист$^,/,<cm>$ ^по/*по$ ^весеннему/в<np>есеннему$ ^ясен/*ясен$^./.<sent>$
+^Бог/*Бог$ ^и/и<v><tv><imp><p2><sg>$ ^люди/л<np>юди$^,/,<cm>$ ^прощает/*прощает$ ^вас/в<np>ас$ ^всех/в<np>сех$
+^Это/Э<np>то$ ^кладбище/к<np>ладбище$ ^в/в<np>$ ^скорбном/с<np>корбном$ ^Жартасе/Ж<np>артасе$^,/,<cm>$
+^Где/Г<np>де$ ^я/я<cnjcoo>$ ^слышу/с<np>лышу$ ^то/т<np>о$ ^всхлипы/в<np>схлипы$^,/,<cm>$ ^то/т<np>о$ ^смех/с<np>мех$^./.<sent>$^./.<sent>$^Помаши/П<np>омаши$ ^на/н<np>а$ ^прощанье/*прощанье$ ^рукою/р<np>укою$^!/!<sent>$
+^Ты/*Ты$ ^сюда/с<np>юда$ ^возвратишься/в<np>озвратишься$ ^не/не<cnjcoo>$ ^раз/р<np>аз$^./.<sent>$
+^Но/Н<np>о$ ^я/я<cnjcoo>$ ^болен/б<np>олен$ ^такою/т<np>акою$ ^тоскою/т<np>оскою$ ^—/—<guio>$ 
+^Ломит/Л<np>омит$ ^кости/к<np>ости$ ^при/*при$ ^встрече/в<np>стрече$ ^с/с<np>$ ^тобою/т<np>обою$^,/,<cm>$
+^Край/К<np>рай$ ^могил/м<np>огил$ ^материнских/м<np>атеринских$^,/,<cm>$ ^Жартас/жартас<n><nom>$
+^И/и<v><tv><imp><p2><sg>$ ^я/я<cnjcoo>$ ^больше/б<np>ольше$ ^сюда/с<np>юда$ ^не/не<cnjcoo>$ ^приду/*приду$ …^./.<sent>$***
+^Who/Who<np><unk>$ ^will/*will$ ^pay/*pay$ ^for/*for$ ^that/t<np>hat$ ^inhumanity/i<np>nhumanity$^?/?<sent>$
+^Age/Age<np><unk>$ ^of/*of$ ^cruelty/*cruelty$ ^and/a<np>nd$ ^insanity/i<np>nsanity$^!/!<sent>$
+^Stolen/Stolen<np><unk>$ ^childhood/*childhood$^,/,<cm>$
+^Stolen/Stolen<np><unk>$ ^joy/*joy$ ^and/a<np>nd$ ^loving/l<np>oving$ ^tenderness/t<np>enderness$^,/,<cm>$
+^Who/Who<np><unk>$ ^will/*will$ ^restore/r<np>estore$ ^them/t<np>hem$ ^all/a<np>ll$^?/?<sent>$
+^Tell/Tell<np><unk>$ ^me/*me$ ^if/i<np>f$ ^you/*you$ ^know/k<np>now$^./.<sent>$^./.<sent>$^I/I<num><ord>$ ^see/*see$ ^a/a<np>$ ^bird/*bird$ ^flying/*flying$ ^in/i<np>n$ ^the/t<np>he$ ^sky/*sky$^,/,<cm>$
+^And/And<np><unk>$ ^I/I<num><ord>$ ^see/*see$ ^children/*children$’^s/*s$ ^faces/*faces$ ^on/*on$ ^high/*high$^./.<sent>$
+^I/I<num><ord>$ ^hear/*hear$ ^them/t<np>hem$ ^laughing/l<np>aughing$^,/,<cm>$ ^and/a<np>nd$ ^shudder/*shudder$
+^Walking/W<np>alking$ ^in/i<np>n$ ^the/t<np>he$ ^cemetery/*cemetery$ ^of/*of$ ^Mothers/Mothers<np><unk>$^./.<sent>$^./.<sent>$^I/I<num><ord>$ ^hear/*hear$ ^children/*children$ ^singing/*singing$ ^among/a<np>mong$ ^graves/g<np>raves$
+^It/I<np>t$ ^makes/*makes$ ^my/*my$ ^heart/*heart$ ^shrink/*shrink$ ^with/*with$ ^pains/*pains$^./.<sent>$^./.<sent>$^Age/Age<np><unk>$^,/,<cm>$ ^you/*you$’^re/r<np>e$ ^a/a<np>$ ^villain/*villain$^!/!<sent>$ ^You/You<np><unk>$ ^galloped/g<np>alloped$ ^away/a<np>way$
+^Treading/T<np>reading$ ^us/*us$ ^down/d<np>own$ ^and/a<np>nd$ ^blinding/*blinding$ ^with/*with$ ^fire/*fire$^./.<sent>$^Age/Age<np><unk>$ ^you/*you$’^re/r<np>e$ ^villain/*villain$^!/!<sent>$ ^You/You<np><unk>$ ^galloped/g<np>alloped$ ^away/a<np>way$
+^Treading/T<np>reading$ ^us/*us$ ^down/d<np>own$ ^and/a<np>nd$ ^blinding/*blinding$ ^with/*with$ ^fire/*fire$
+^Throught/Throught<np><unk>$ ^roads/r<np>oads$ ^and/a<np>nd$ ^paths/*paths$
+^And/And<np><unk>$ ^throught/t<np>hrought$ ^blooded/*blooded$ ^steppes/*steppes$^./.<sent>$
+ 
+^Your/Your<np><unk>$ ^vaunted/*vaunted$ ^working/*working$ ^class/*class$ ^worked/*worked$ ^as/a<np>s$ ^one/*one$^./.<sent>$
+^But/But<np><unk>$ ^did/d<np>id$ ^not/n<np>ot$ ^save/*save$
+^Our/Our<np><unk>$ ^mother/*mother$ ^and/a<np>nd$ ^children/*children$^,/,<cm>$
+^They/They<np><unk>$ ^are/a<np>re$ ^in/i<np>n$ ^the/t<np>he$ ^grave/g<np>rave$^./.<sent>$
+ 
+^Clean/Clean<np><unk>$ ^air/a<np>ir$ ^and/a<np>nd$ ^warm/*warm$ ^spring/*spring$ ^day/d<np>ay$^,/,<cm>$
+^God/God<np><unk>$ ^forgives/*forgives$ ^everything/e<np>verything$ ^to/t<np>o$ ^us/*us$^./.<sent>$
+^But/But<np><unk>$ ^I/I<num><ord>$ ^still/*still$ ^can/*can$ ^hear/*hear$ ^sobbing/*sobbing$ ^and/a<np>nd$ ^laughing/l<np>aughing$
+^In/I<np>n$ ^the/t<np>he$ ^cemetery/*cemetery$ ^of/*of$ ^Zhartas/Zhartas<np><unk>$^./.<sent>$
+ 
+^Wave/Wave<np><unk>$ ^your/*your$ ^hand/*hand$ ^to/t<np>o$ ^Zhartas/Zhartas<np><unk>$ ^,/,<cm>$
+^Plase/Plase<np><unk>$ ^of/*of$ ^graves/g<np>raves$^./.<sent>$
+^You/You<np><unk>$ ^will/*will$ ^come/*come$ ^back/*back$ ^here/*here$
+^Through/Through<np><unk>$ ^it/i<np>t$ ^hurts/*hurts$^,/,<cm>$
+^And/And<np><unk>$ ^your/*your$ ^think/t<np>hink$^:/:<sent>$ ‘ ^I/I<num><ord>$ ^don/d<np>on$’^t/t<np>$ ^want/*want$ ^to/t<np>o$ ^be/*be$ ^neaR/n<np>eaR$’^./.<sent>$^./.<sent>$

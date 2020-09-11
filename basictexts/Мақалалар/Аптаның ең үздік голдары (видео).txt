@@ -1,0 +1,3 @@
+ 
+writeFlash({"src":"http://www.youtube.com/v/yA1S-bSF0Iw","width":"450","height":"240"});
+ #1 : Lluís Sastre (Valladolid)#2 : Alex Colón (Deportivo Quito)#3 : Nabil Ghilas (Moreirense)#4 : Selçuk İnan (Galatasaray)#5 : Anthony Lurling (NAC Breda)#6 : Gabriel Leyes (River Plate)#7 : Emmanuel Adebayor (Tottenham)#8 : Adam Maher (AZ Alkmaar)#9 : Marco Borriello (Genoa)#10 : Thierry Henry (New York Red Bulls)   

@@ -1,0 +1,49 @@
+ ^-/х<guio>$ ^команданы/команда<n><acc>$ ^соңғы/соң<adv><attr>$ ^сәтте/сәт<n><loc>$ ^голдан/гол<n><abl>$ ^құтқаруға/құтқар<v><tv><ger><dat>$ ^барын/бар<n><px3sp><acc>$ ^салатын/сал<v><tv><gpr_impf>$ ^белді/белді<adj>$ ^ойыншысы/ойыншы<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$ ^Футболда/футбол<n><loc>$ ^кейде/кей<prn><ind><loc>$ ^әйгілі/әйгілі<adj>$ ^тіс/тіс<n><nom>$ ^қаққан/қақ<v><tv><gpr_past>$ ^қақпашылардың/қақпашы<n><pl><gen>$ ^өзі/өз<prn><ref><px3sp><nom>$ ^қателесіп/қателес<v><iv><prc_perf>$ ^жатады/жат<vaux><aor><p3><sg>$^./.<sent>$ ^Мұны да/бұл<prn><dem><acc>+да<cnjcoo>$ ^футболдың/футбол<n><gen>$ ^бір/бір<num>$ ^қызығы/қызық<adj><subst><px3sp><nom>$ ^деп/де<v><tv><gna_perf>$ ^қарауға/қара<v><tv><ger><dat>$ ^болады/бол<v><iv><aor><p3><sg>$^./.<sent>$ ^Бірде/бір<num><subst><loc>$ ^сәттілік/сәттілік<n><nom>+е<cop><aor><p3><sg>$^,/,<cm>$ ^бірде/бір<num><subst><loc>$ ^сәтсіздіктің/сәтсіздік<n><gen>$ ^алмасып/алмас<v><tv><prc_perf>$ ^келуі/кел<vaux><ger><px3sp><nom>$ ^-/х<guio>$ ^осы/осы<det><dem>$ ^спорт/спорт<n><nom>$ ^түрінің/түр<n><px3sp><gen>$ ^бір/бір<num>$ ^заңдылығы/заңдылық<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$ ^1/1<num>$ ^маусым/маусым<n><nom>$ ^күнгі/күнгі<adj>$ ^Бразилияның/Бразилия<np><top><gen>$ ^екінші/екі<num><ord>$ ^дивизионындағы/дивизион<n><px3sp><loc><attr>$ ^"/"<sent>$^Икаса/*Икаса$^"/"<sent>$ ^мен/мен<prn><pers><p1><sg><nom>$ ^"/"<sent>$^Авай/*Авай$^"/"<sent>$ ^арасындағы/ара<n><px3sp><loc><attr>$ ^кездесу/кездес<v><iv><ger><nom>$^./.<sent>$ ^"/"<sent>$^Икаса/*Икаса$^"/"<sent>$ ^қақпашысы/қақпашы<n><px3sp><nom>$  ^қателігі/қателік<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$ ^2/2<num>$ ^маусым/маусым<n><nom>$ ^күнгі/күнгі<adj>$ ^АҚШ/АҚШ<np><top><nom>$ ^құрамасына/құрама<n><px3sp><dat>$ ^қарсы/қарсы<adj>$ ^кездесуде/кездес<v><iv><ger><loc>$ ^неміс/неміс<adj>$ ^қақпашысы/қақпашы<n><px3sp><nom>$  ^қателігі/қателік<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$ 
+^///<sent>$^///<sent>$ <^!/!<sent>$^[/[<lpar>$^CDATA/Cdata<np><unk>$^[/[<lpar>$
+
+^writeFlash/*writeFlash$^(/(<lpar>${^"/"<sent>$^src/*src$^"/"<sent>$^:/:<sent>$^"/"<sent>$^http/http<abbr>$^:/:<sent>$^///<sent>$^///<sent>$^www/*www$^./.<sent>$^youtube/*youtube$^./.<sent>$^com/*com$^///<sent>$^v/кеп<v><iv><imp><p2><sg>$^///<sent>$^XDd3hECvAns/*XDd3hECvAns$^"/"<sent>$^,/,<cm>$^"/"<sent>$^width/*width$^"/"<sent>$^:/:<sent>$^"/"<sent>$^450/450<num>$^"/"<sent>$^,/,<cm>$^"/"<sent>$^height/*height$^"/"<sent>$^:/:<sent>$^"/"<sent>$^300/300<num>$^"/"<sent>$}^)/)<rpar>$^;/;<sent>$
+
+^///<sent>$^///<sent>$ ^]/]<rpar>$^]/]<rpar>$>
+ ^28/28<num>$ ^маусым/маусым<n><nom>$ ^күнгі/күнгі<adj>$ ^жастар/жастар<adj><subst><nom>$ ^арасындағы/ара<n><px3sp><loc><attr>$ ^Мексикаға/Мексика<np><top><dat>$ ^қарсы/қарсы<adj>$ ^кездесуде/кездес<v><iv><ger><loc>$ ^Мали/Мали<np><top><nom>$ ^қақпашысы/қақпашы<n><px3sp><nom>$ ^қателігі/қателік<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$ 
+^///<sent>$^///<sent>$ <^!/!<sent>$^[/[<lpar>$^CDATA/Cdata<np><unk>$^[/[<lpar>$
+
+^writeFlash/*writeFlash$^(/(<lpar>${^"/"<sent>$^src/*src$^"/"<sent>$^:/:<sent>$^"/"<sent>$^http/http<abbr>$^:/:<sent>$^///<sent>$^///<sent>$^www/*www$^./.<sent>$^youtube/*youtube$^./.<sent>$^com/*com$^///<sent>$^v/кеп<v><iv><imp><p2><sg>$^///<sent>$^fze8jIv8ZR0/*fze8jIv8ZR0$#^at/*at$^"/"<sent>$^,/,<cm>$^"/"<sent>$^width/*width$^"/"<sent>$^:/:<sent>$^"/"<sent>$^450/450<num>$^"/"<sent>$^,/,<cm>$^"/"<sent>$^height/*height$^"/"<sent>$^:/:<sent>$^"/"<sent>$^300/300<num>$^"/"<sent>$}^)/)<rpar>$^;/;<sent>$
+
+^///<sent>$^///<sent>$ ^]/]<rpar>$^]/]<rpar>$>
+ ^Чемпиондар лигасының/Чемпиондар лигасы<np><org><gen>$ ^финалында/финал<n><px3sp><loc>$ ^сәтті/сәт<n><acc>$ ^өнер/өн<v><iv><gpr_fut>$ ^көрсеткен/көрсет<v><tv><gpr_past>$ ^"/"<sent>$^Боруссия/*Боруссия$ ^д/*д$^"/"<sent>$ ^қақпашысы/қақпашы<n><px3sp><nom>$ ^қателігі/қателік<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$  
+^///<sent>$^///<sent>$ <^!/!<sent>$^[/[<lpar>$^CDATA/Cdata<np><unk>$^[/[<lpar>$
+
+^writeFlash/*writeFlash$^(/(<lpar>${^"/"<sent>$^src/*src$^"/"<sent>$^:/:<sent>$^"/"<sent>$^http/http<abbr>$^:/:<sent>$^///<sent>$^///<sent>$^www/*www$^./.<sent>$^youtube/*youtube$^./.<sent>$^com/*com$^///<sent>$^v/кеп<v><iv><imp><p2><sg>$^///<sent>$^w/*w$_^g8DQZ3izo/*g8DQZ3izo$^"/"<sent>$^,/,<cm>$^"/"<sent>$^width/*width$^"/"<sent>$^:/:<sent>$^"/"<sent>$^450/450<num>$^"/"<sent>$^,/,<cm>$^"/"<sent>$^height/*height$^"/"<sent>$^:/:<sent>$^"/"<sent>$^300/300<num>$^"/"<sent>$}^)/)<rpar>$^;/;<sent>$
+
+^///<sent>$^///<sent>$ ^]/]<rpar>$^]/]<rpar>$>
+ ^Германияның/Германия<np><top><gen>$ ^екінші/екі<num><ord>$ ^дивизионындағы/дивизион<n><px3sp><loc><attr>$ ^дрездендік/*дрездендік$ ^"/"<sent>$^Динамоға/Динамо<np><al><dat>$^"/"<sent>$ ^қарсы/қарсы<adj>$ ^кездесуде/кездес<v><iv><ger><loc>$ ^"/"<sent>$^Кельн/*Кельн$^"/"<sent>$ ^қақпашысы/қақпашы<n><px3sp><nom>$ ^қателігі/қателік<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$ 
+^///<sent>$^///<sent>$ <^!/!<sent>$^[/[<lpar>$^CDATA/Cdata<np><unk>$^[/[<lpar>$
+
+^writeFlash/*writeFlash$^(/(<lpar>${^"/"<sent>$^src/*src$^"/"<sent>$^:/:<sent>$^"/"<sent>$^http/http<abbr>$^:/:<sent>$^///<sent>$^///<sent>$^www/*www$^./.<sent>$^youtube/*youtube$^./.<sent>$^com/*com$^///<sent>$^v/кеп<v><iv><imp><p2><sg>$^///<sent>$^5/5<num>$_^vu2/*vu2$^-/х<guio>$^Is4Ak/*Is4Ak$^"/"<sent>$^,/,<cm>$^"/"<sent>$^width/*width$^"/"<sent>$^:/:<sent>$^"/"<sent>$^450/450<num>$^"/"<sent>$^,/,<cm>$^"/"<sent>$^height/*height$^"/"<sent>$^:/:<sent>$^"/"<sent>$^300/300<num>$^"/"<sent>$}^)/)<rpar>$^;/;<sent>$
+
+^///<sent>$^///<sent>$ ^]/]<rpar>$^]/]<rpar>$>
+ ^Чемпиондар лигасының/Чемпиондар лигасы<np><org><gen>$ ^екінші/екі<num><ord>$ ^іріктеу/ірікте<v><tv><ger><nom>$ ^кезеңінде/кезең<n><px3sp><loc>$ ^"/"<sent>$^Шахтерден/*Шахтерден$^"/"<sent>$ ^жеңілген/жең<v><tv><pass><gpr_past>$ ^"/"<sent>$^Батэ/*Батэ$^"/"<sent>$ ^қақпашысы/қақпашы<n><px3sp><nom>$ ^қателігі/қателік<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$ ^Бұл/бұл<det><dem>$ ^қателікті/қателік<n><acc>$ ^Игорь/Игорь<np><ant><m><nom>$ ^Зенькович/*Зенькович$ ^сәтті/сәт<n><acc>$ ^пайдаланған/пайдалан<v><tv><gpr_past>$ ^болатын/бол<v><iv><pih><p3><sg>$^./.<sent>$ 
+^///<sent>$^///<sent>$ <^!/!<sent>$^[/[<lpar>$^CDATA/Cdata<np><unk>$^[/[<lpar>$
+
+^writeFlash/*writeFlash$^(/(<lpar>${^"/"<sent>$^src/*src$^"/"<sent>$^:/:<sent>$^"/"<sent>$^http/http<abbr>$^:/:<sent>$^///<sent>$^///<sent>$^www/*www$^./.<sent>$^youtube/*youtube$^./.<sent>$^com/*com$^///<sent>$^v/кеп<v><iv><imp><p2><sg>$^///<sent>$^sHJCEF0LFgU/*sHJCEF0LFgU$^"/"<sent>$^,/,<cm>$^"/"<sent>$^width/*width$^"/"<sent>$^:/:<sent>$^"/"<sent>$^450/450<num>$^"/"<sent>$^,/,<cm>$^"/"<sent>$^height/*height$^"/"<sent>$^:/:<sent>$^"/"<sent>$^300/300<num>$^"/"<sent>$}^)/)<rpar>$^;/;<sent>$
+
+^///<sent>$^///<sent>$ ^]/]<rpar>$^]/]<rpar>$>
+ ^"/"<sent>$^Ворскла/*Ворскла$^"/"<sent>$ ^қақпашысы/қақпашы<n><px3sp><nom>$  ^донецкілік/*донецкілік$ ^"/"<sent>$^Металлургке/металлург<n><dat>$^"/"<sent>$ ^қарсы/қарсы<adj>$ ^кездесудегі/кездес<v><iv><ger><loc><attr>$ ^қателігі/қателік<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$ 
+^///<sent>$^///<sent>$ <^!/!<sent>$^[/[<lpar>$^CDATA/Cdata<np><unk>$^[/[<lpar>$
+
+^writeFlash/*writeFlash$^(/(<lpar>${^"/"<sent>$^src/*src$^"/"<sent>$^:/:<sent>$^"/"<sent>$^http/http<abbr>$^:/:<sent>$^///<sent>$^///<sent>$^www/*www$^./.<sent>$^youtube/*youtube$^./.<sent>$^com/*com$^///<sent>$^v/кеп<v><iv><imp><p2><sg>$^///<sent>$^RAYz7Pb/*RAYz7Pb$^-/х<guio>$^T8o/*T8o$#^at/*at$^"/"<sent>$^,/,<cm>$^"/"<sent>$^width/*width$^"/"<sent>$^:/:<sent>$^"/"<sent>$^450/450<num>$^"/"<sent>$^,/,<cm>$^"/"<sent>$^height/*height$^"/"<sent>$^:/:<sent>$^"/"<sent>$^300/300<num>$^"/"<sent>$}^)/)<rpar>$^;/;<sent>$
+
+^///<sent>$^///<sent>$ ^]/]<rpar>$^]/]<rpar>$>
+ ^"/"<sent>$^Вииторул/*Вииторул$^"/"<sent>$ ^қақпашысы/қақпашы<n><px3sp><nom>$ ^"/"<sent>$^ЧФР/*ЧФР$^"/"<sent>$ ^командасына/команда<n><px3sp><dat>$ ^қарсы/қарсы<adj>$ ^кездесудегі/кездес<v><iv><ger><loc><attr>$ ^қателігі/қателік<n><px3sp><nom>$ 
+^///<sent>$^///<sent>$ <^!/!<sent>$^[/[<lpar>$^CDATA/Cdata<np><unk>$^[/[<lpar>$
+
+^writeFlash/*writeFlash$^(/(<lpar>${^"/"<sent>$^src/*src$^"/"<sent>$^:/:<sent>$^"/"<sent>$^http/http<abbr>$^:/:<sent>$^///<sent>$^///<sent>$^www/*www$^./.<sent>$^youtube/*youtube$^./.<sent>$^com/*com$^///<sent>$^v/кеп<v><iv><imp><p2><sg>$^///<sent>$^3icP9SCNIeU/*3icP9SCNIeU$#^at/*at$^"/"<sent>$^,/,<cm>$^"/"<sent>$^width/*width$^"/"<sent>$^:/:<sent>$^"/"<sent>$^450/450<num>$^"/"<sent>$^,/,<cm>$^"/"<sent>$^height/*height$^"/"<sent>$^:/:<sent>$^"/"<sent>$^300/300<num>$^"/"<sent>$}^)/)<rpar>$^;/;<sent>$
+
+^///<sent>$^///<sent>$ ^]/]<rpar>$^]/]<rpar>$>
+ ^11/11<num>$ ^тамыз/тамыз<n><nom>$ ^күнгі/күнгі<adj>$ ^"/"<sent>$^Челсидің/Челси<np><al><gen>$^"/"<sent>$ ^екінші/екі<num><ord>$ ^нөмірлі/нөмірлі<adj>$ ^қақпашысы/қақпашы<n><px3sp><nom>$  ^римдік/римдік<adj>$ ^"/"<sent>$^Ромаға/*Ромаға$^"/"<sent>$ ^қарсы/қарсы<adj>$ ^кездесудегі/кездес<v><iv><ger><loc><attr>$ ^қателігі/қателік<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$ 
+^///<sent>$^///<sent>$ <^!/!<sent>$^[/[<lpar>$^CDATA/Cdata<np><unk>$^[/[<lpar>$
+
+^writeFlash/*writeFlash$^(/(<lpar>${^"/"<sent>$^src/*src$^"/"<sent>$^:/:<sent>$^"/"<sent>$^http/http<abbr>$^:/:<sent>$^///<sent>$^///<sent>$^www/*www$^./.<sent>$^youtube/*youtube$^./.<sent>$^com/*com$^///<sent>$^v/кеп<v><iv><imp><p2><sg>$^///<sent>$_^W/W<np><unk>$^-/х<guio>$^6Oe2/*6Oe2$_^poE/*poE$^"/"<sent>$^,/,<cm>$^"/"<sent>$^width/*width$^"/"<sent>$^:/:<sent>$^"/"<sent>$^450/450<num>$^"/"<sent>$^,/,<cm>$^"/"<sent>$^height/*height$^"/"<sent>$^:/:<sent>$^"/"<sent>$^300/300<num>$^"/"<sent>$}^)/)<rpar>$^;/;<sent>$
+
+^///<sent>$^///<sent>$ ^]/]<rpar>$^]/]<rpar>$>
+ ^Дайындаған/дайында<v><tv><gpr_past>$^:/:<sent>$ ^Өмірбек/*Өмірбек$ ^Сансызбай/Сансызбай<np><ant><m><nom>$  

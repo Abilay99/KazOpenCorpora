@@ -1,0 +1,2 @@
+Бұл мақалада ISO 3166-1 стандартында мемлекеттер мен тәуелді аумақтар тізімі берілген, халық санының кемуі  бойынша сұрыпталған. Ұсынылған тізім мен деректерде назарға тәуелді аумақтар параметрлері алынбайды. | alias = Comoros| flag alias = Flag of the Comoros.png| flag alias-naval = Naval Ensign of Comoros.png| size = | name = | altlink = | variant =  
+

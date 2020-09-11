@@ -1,0 +1,2 @@
+Ішкі нүкте - Метрикалық кеңістіктегі жиынның ішкі нүкте деп осы жиынға өзінің қандайда болмасын бір маңайымен енетін нүктені айтады. T{\displaystyle T} топологиясы, және M⊆X{\displaystyle M\subseteq X} болатын X{\displaystyle X} топологиялық кеңістік болсын. x∈M{\displaystyle x\in M} нүктесі M{\displaystyle M} жиынының ішкі нүктесі сонда тек сонда, егер x∈S{\displaystyle x\in S} және S⊆M{\displaystyle S\subseteq M} болатындай S∈T{\displaystyle S\in T} ашық жиыны болса. 
+

@@ -1,0 +1,2 @@
+ ^Мырза/мырза<n><nom>$ ^Ұлықбек/Ұлықбек<np><ant><m><nom>$ ^атындағы/ат<n><px3sp><loc><attr>$ ^Өзбекстан/Өзбекстан<np><top><nom>$ ^Ұлттық/ұлттық<adj>$ ^Университеті/университет<n><px3sp><nom>$ ^-/х<guio>$ ^ең/ең<adv>$ ^ірі/ірі<adj>$ ^әрі/әрі<cnjcoo>$ ^көне/көне<adj>$ ^Өзбекстан/Өзбекстан<np><top><nom>$ ^Өзбекстан/Өзбекстан<np><top><nom>$ ^жоғарғы/жоғары<adv><attr>$ ^орны/орын<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$  ^Үлгі/үлгі<n><nom>$^:/:<sent>$^Asia/*Asia$^-/х<guio>$^university/*university$^-/х<guio>$^stub/*stub$ 
+

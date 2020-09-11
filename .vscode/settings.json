@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false,
+    "python.pythonPath": "/usr/bin/python3"
+    
+}

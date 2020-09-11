@@ -1,0 +1,2 @@
+^Мидың/ми<n><gen>$ ^тасуы/тас<v><tv><ger><px3sp><nom>$ ^(/(<lpar>$^Protrosia/P<np>rotrosia$ ^cerebri/*cerebri$ ^син/*син$^./.<sent>$ ^-/х<guio>$^мидың/ми<n><gen>$ ^тасуы/тас<v><tv><ger><px3sp><nom>$^)/)<rpar>$ ^—/—<guio>$ ^Ми/Ми<np><ant><m><nom>$ ^қабықтарындағы/қабық<n><pl><px3sp><loc><attr>$ ^және/және<cnjcoo>$ ^бас сүйегіндегі/бас сүйек<n><px3sp><loc><attr>$ ^тесіктер/тесік<n><pl><nom>$ ^арқылы/арқылы<post>$ ^мидың/ми<n><gen>$ ^шығып тұруы/шығып тұр<v><iv><ger><px3sp><nom>$^./.<sent>$   
+

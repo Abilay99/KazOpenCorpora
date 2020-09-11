@@ -1,0 +1,2 @@
+^Ла/Ла<np><ant><m><nom>$^-/х<guio>$^Барранка/Б<np>арранка$ ^(/(<lpar>$^ис/*ис$^./.<sent>$ ^Comarca/Comarca<np><unk>$ ^de/*de$ ^La/La<np><unk>$ ^Barranca/Barranca<np><unk>$ ^(/(<lpar>$^Navarra/Navarra<np><unk>$^)/)<rpar>$^)/)<rpar>$  ^—/—<guio>$ ^Испания/Испания<np><top><nom>$ ^ауданы/аудан<n><px3sp><nom>+е<cop><aor><p3><sg>$ ^(/(<lpar>$^комарка/к<np>омарка$^)/)<rpar>$^,/,<cm>$ ^Наварра/Н<np>аварра$ ^провинциясының/провинция<n><px3sp><gen>$ ^құрамына/құрам<n><px3sp><dat>$ ^енеді/ен<v><iv><aor><p3><sg>$^./.<sent>$  
+

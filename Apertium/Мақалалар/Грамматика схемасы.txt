@@ -1,0 +1,2 @@
+ ^ГРАММАТИКА/грамматика<n><nom>$ ^СХЕМАСЫ/схема<n><px3sp><nom>+е<cop><aor><p3><sg>$  ^(/(<lpar>$^Схема/схема<n><nom>$ ^грамматики/*грамматики$^;/;<sent>$ ^the/*the$ ^circuit/*circuit$ ^of/*of$ ^grammar/*grammar$^)/)<rpar>$ ^—/—<guio>$ ^туындайтын/туында<v><iv><gpr_impf>$ ^грамматиканы/грамматика<n><acc>$ ^шығару/шығар<v><tv><ger><nom>$ ^ережелерінің/ереже<n><pl><px3sp><gen>$ ^жиыны/жиын<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$    
+

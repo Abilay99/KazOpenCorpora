@@ -1,0 +1,2 @@
+БӨЛІНГІШ - өзге бір санға бөлінетін сан. Мысалы,  a:b=x{\displaystyle ~a:b=x} өрнегіндегі  a{\displaystyle ~a} — саны бөлінгіш,  b{\displaystyle ~b} — саны бөлгіш,  x{\displaystyle ~x} — саны бөлінді. 
+

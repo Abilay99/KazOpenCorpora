@@ -1,0 +1,1 @@
+^Кэ/*Кэ$ ^Цзе/Ц<np>зе$ ^мен/мен<prn><pers><p1><sg><nom>$ ^AlphaGo/Alphago<np><unk>$ ^арасындағы/ара<n><px3sp><loc><attr>$ ^екінші/екі<num><ord>$ ^ойын/ойын<n><nom>+е<cop><aor><p3><sg>$^./.<sent>$ 

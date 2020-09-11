@@ -1,0 +1,12 @@
+^61/61<num>$ ^келі/келі<n><nom>$ ^салмақта/сал<v><tv><ger_obs><loc>$ ^NBA/Nba<np><unk>$ ^бойынша/бойынша<post>$ ^әлем/әлем<n><nom>$ ^чемпионы/чемпион<n><px3sp><nom>$^,/,<cm>$ ^боксшы/боксшы<n><nom>$ ^Аслан/Аслан<np><ant><m><nom>$ ^Мұқанов/Мұқанов<np><cog><m><nom>$ ^адам/ада<n><px1sg><nom>$ ^өлтірді/өлтір<v><tv><ifi><p3><sg>$ ^деген/де<v><tv><gpr_past>$ ^күдікпен/күдік<n><ins>$ ^ұсталды/ұста<v><tv><pass><ifi><p3><sg>$ ^деп/де<v><tv><gna_perf>$ ^хабарлайды/хабарла<v><tv><aor><p3><sg>$ ^alau/*alau$^./.<sent>$^kz/kz<abbr>$ ^сайтына/сайт<n><px3sp><dat>$ ^сілтеме/сілтеме<n><nom>$ ^жасаған/жаса<v><tv><gpr_past>$ ^KAZ/Kaz<np><unk>$^./.<sent>$^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$^./.<sent>$
+^Аслан/Аслан<np><ant><m><nom>$ ^Мұқанов/Мұқанов<np><cog><m><nom>$
+^Фото/фото<n><nom>$^:/:<sent>$ ^vesti/*vesti$^./.<sent>$^kz/kz<abbr>$
+^31/31<num>$ ^жастағы/жас<n><loc><attr>$ ^спортшы/спорт<n><nom>+шы<emph>$ ^осы/осы<det><dem>$ ^жылдың/жыл<n><gen>$ ^наурыз/наурыз<n><nom>$ ^айында ғана/ай<n><px3sp><loc>+ғана<postadv>$ ^National/*National$ ^Boxing/*Boxing$ ^Association/*Association$ ^бойынша/бойынша<post>$ ^әлем/әлем<n><nom>$ ^чемпионы/чемпион<n><px3sp><nom>$ ^атанған/атан<v><iv><gpr_past>$
+^Бұл/бұл<det><dem>$ ^спортшының/спортшы<n><gen>$ ^кәсіби/кәсіби<adj>$ ^рингтегі/*рингтегі$ ^алтыншы/алты<num><ord>$ ^жеңісі/жеңіс<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$
+^Алайда/Алай<np><top><loc>$ ^туған жеріне/туған жер<n><px3sp><dat>$ ^қайта/қайта<adv>$ ^оралған/орал<v><iv><gpr_past><subst><nom>$ ^спортшы/спорт<n><nom>+шы<emph>$ ^1987/1987<num>$ ^жылы/жыл<n><px3sp><nom>$ ^туылған/ту<v><tv><pass><past><p3><sg>$ ^Серік/Серік<np><ant><m><nom>$ ^Пішенбаевты/Пішенбаев<np><cog><m><acc>$ ^өлтірді/өлтір<v><tv><ifi><p3><sg>$ ^деген/де<v><tv><gpr_past>$ ^күдікке/күдік<n><dat>$ ^ілінді/іл<v><tv><pass><ifi><p3><sg>$
+^Оның/ол<prn><pers><p3><sg><gen>$ ^денесі/дене<n><px3sp><nom>$ ^Алтын/Алтын<np><ant><f><nom>$ ^дала/дала<n><nom>$ ^ауылынан/ауыл<n><px3sp><abl>$ ^табылды/тап<v><tv><pass><ifi><p3><sg>$^./.<sent>$
+^Кісі/кісі<n><nom>$ ^өлімі/өлім<n><px3sp><nom>$ ^бойынша/бойынша<post>$ ^басты/басты<adj>$ ^күдікті/күдікті<adj>$ ^Аслан/Аслан<np><ant><m><nom>$ ^Мұқановты/Мұқанов<np><cog><m><acc>$ ^іздеу/ізде<v><tv><ger><nom>$ ^жұмыстары/жұмыс<n><pl><px3sp><nom>$ ^жүргізіліп/жүргіз<v><tv><pass><gna_perf>$^,/,<cm>$ ^көп ұзамай/көп ұзамай<adv>$ ^чемпион/чемпион<n><nom>$ ^қолға түскен/қолға түс<v><iv><past><p3><sg>$^./.<sent>$
+^Аслан/Аслан<np><ant><m><nom>$ ^Мұқанов/Мұқанов<np><cog><m><nom>$
+^Фото/фото<n><nom>$^:/:<sent>$ ^alau/*alau$^./.<sent>$^kz/kz<abbr>$
+
+

@@ -1,0 +1,10 @@
+^Қазақ/қазақ<adj>$ ^эстрадасының/эстрада<n><px3sp><gen>$ ^жұлдызы/жұлдыз<n><px3sp><nom>$ ^Мадина/Мадина<np><ant><f><nom>$ ^Сәдуақасова/Сәдуақасов<np><cog><f><nom>$ ^жанкүйерлерімен/жанкүйер<n><pl><px3sp><ins>$ ^қауышып/*қауышып$^,/,<cm>$ ^концерт/концерт<n><nom>$ ^беруді/бер<v><tv><ger><acc>$ ^аса/аса<adv>$ ^қатты/қатты<adv>$ ^сағынып/сағын<v><tv><prc_perf>$ ^жүр/жүр<vaux><pres><p3><sg>$
+^Өнер/өн<v><iv><gpr_fut>$ ^иесі/ие<n><px3sp><nom>$ ^тыңдармандары/*тыңдармандары$ ^алдында/алд<n><px3sp><loc>$ ^сахнада/сахна<n><loc>$ ^ән/ән<n><nom>$ ^шырқау/шырқа<v><iv><ger><nom>$ ^арман/арман<n><nom>$ ^болып/бол<v><iv><prc_perf>$ ^кетсе де/кет<vaux><gna_cond><p3><sg>+да<postadv>$^,/,<cm>$ ^оларды/ол<prn><dem><pl><acc>$ ^карантин/карантин<n><nom>$ ^талаптарын/талап<n><pl><px3sp><acc>$ ^ұстанып/ұстан<v><tv><gna_perf>$ ^шыдамдық/*шыдамдық$ ^танытуға/таныт<v><tv><ger><dat>$ ^шақырды/шақыр<v><tv><ifi><p3><sg>$ ^деп/де<v><tv><gna_perf>$ ^жазады/жаз<v><tv><aor><p3><sg>$ ^KAZ/Kaz<np><unk>$^./.<sent>$^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$^./.<sent>$
+^Фото/фото<n><nom>$^:/:<sent>$ ^Instagram/*Instagram$^///<sent>$^sadvakasovamadina/*sadvakasovamadina$
+^Коллаж/коллаж<n><nom>$^:/:<sent>$ ^KAZ/Kaz<np><unk>$^./.<sent>$^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$
+^Мадина/Мадина<np><ant><f><nom>$ ^Сәдуақасова/Сәдуақасов<np><cog><f><nom>$ ^елдегі/ел<n><loc><attr>$ ^эпидемиологиялық/эпидемиологиялық<adj>$ ^жағдайдың/жағдай<n><gen>$ ^жақсармай/жақсар<v><iv><neg><prc_perf>$ ^жатқанына/жат<vaux><ger_past><px3sp><dat>$ ^қапалы/қапалы<adj>$
+^Оның/ол<prn><dem><gen>$ ^салдарынан/сал<n><pl><px3sp><abl>$ ^концерттердің/концерт<n><pl><gen>$ ^өтпей/өт<v><tv><neg><prc_perf>$ ^жатқанына/жат<vaux><ger_past><px3sp><dat>$ ^ашынған/ашын<v><iv><gpr_past>$ ^әнші/ән<n><nom>+шы<emph>$ ^бар/бар<adj>$ ^ойын/ой<n><px3sp><acc>$ ^Instagram/*Instagram$ ^парақшасында/парақша<n><px3sp><loc>$ ^жеткізген/жеткіз<v><tv><past><p3><sg>$^./.<sent>$
+^Тағы да/тағы<adv>+да<cnjcoo>$ ^оқыңыздар/оқ<n><px2pl><frm><nom>$
+^Қорқыт/қорқыт<v><tv><imp><p2><sg>$ ^ата/ата<n><nom>$ ^туралы/туралы<post>$ ^не/не<cnjcoo>$ ^білеміз/біл<v><tv><aor><p1><pl>$^?/?<sent>$
+
+ 

@@ -1,0 +1,5 @@
+^Ирландық/Ирландық<n><nom>$ ^аралас/аралас<adj><advl>$ ^жекпе/жек<v><tv><neg><imp><p2><sg>$^-/х<guio>$^жек/жек<v><tv><imp><p2><sg>$ ^жұлдызы/жұлдыз<n><px3sp><nom>$ ^Конор/*Конор$ ^Макгрегор/*Макгрегор$ ^ММА/*ММА$ ^мансабын/мансап<n><px3sp><acc>$ ^аяқтағанын/аяқта<v><tv><ger_past><px3sp><acc>$ ^жариялады/жарияла<v><tv><ifi><p3><sg>$ ^деп/де<v><tv><gna_perf>$ ^хабарлайды/хабарла<v><tv><aor><p3><sg>$ ^KAZ/Kaz<np><unk>$^./.<sent>$^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$
+
+^Фото/фото<n><nom>$^:/:<sent>$ ^tvzvezda/*tvzvezda$^./.<sent>$^ru/*ru$
+^Бұл/бұл<det><dem>$ ^туралы/туралы<post>$ ^спортшы/спорт<n><nom>+шы<emph>$ ^Twitter/Twitter<np><org><nom>$ ^парақшасында/парақша<n><px3sp><loc>$ ^жариялаған/жарияла<v><tv><past><p3><sg>$^./.<sent>$
+ 

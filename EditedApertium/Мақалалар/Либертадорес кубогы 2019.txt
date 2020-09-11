@@ -1,0 +1,2 @@
+^Либертадорес/*Либертадорес$ ^кубогы/кубок<n><px3sp><nom><err_orth>$ ^2019/2019<num>$ ^(/(<lpar>$^ис/*ис$^./.<sent>$ ^Copa/Copa<np><unk>$ ^CONMEBOL/Conmebol<np><unk>$ ^Libertadores/L<np>ibertadores$ ^2019/2019<num>$^,/,<cm>$ ^порт/порт<n><nom>+е<cop><aor><p3><sg>$^./.<sent>$ ^Copa/Copa<np><unk>$ ^Libertadores/L<np>ibertadores$ ^da/d<np>a$ ^América/A<np>mérica$ ^de/d<np>e$ ^2019/2019<num>$^)/)<rpar>$ ^—/—<guio>$ ^аталмыш/аталмыш<adj>$ ^турнирдің/турнир<n><gen>$ ^60-шы/60<num><ord>$ ^маусымы/маусым<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$ 
+

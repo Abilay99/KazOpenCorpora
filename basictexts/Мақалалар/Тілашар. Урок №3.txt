@@ -1,0 +1,3 @@
+Бүгінгі сабақ қазақ тіліне тән "Ө" дыбысы жайлы болады.  
+writeFlash({"allowFullScreen":"true","allowscriptaccess":"always","src":"//www.youtube-nocookie.com/v/5pf41VdgSJg?hl=ru_RU&version=3","allowfullscreen":"true","width":"450","height":"338"});
+  

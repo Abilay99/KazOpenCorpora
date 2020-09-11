@@ -1,0 +1,3 @@
+ 
+writeFlash({"src":"http://www.youtube.com/v/1SHx91pVCYA","width":"450","height":"338"});
+ Дайындаған: Өмірбек Сансызбай  

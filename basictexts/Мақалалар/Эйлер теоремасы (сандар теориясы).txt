@@ -1,0 +1,2 @@
+Егер a{\displaystyle a} и n{\displaystyle n} өзара жәй натурал сандар болса, онда aφ(n)≡1(modn){\displaystyle a^{\varphi (n)}\equiv 1{\pmod {n}}}, мұндағы φ(n){\displaystyle \varphi (n)} — Эйлер функциясы  
+

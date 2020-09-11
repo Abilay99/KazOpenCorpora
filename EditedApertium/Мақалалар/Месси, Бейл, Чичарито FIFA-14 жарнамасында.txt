@@ -1,0 +1,3 @@
+ 
+^writeFlash/*writeFlash$^(/(<lpar>${^"/"<sent>$^src/*src$^"/"<sent>$^:/:<sent>$^"/"<sent>$^http/http<abbr>$^:/:<sent>$^///<sent>$^///<sent>$^www/*www$^./.<sent>$^youtube/*youtube$^./.<sent>$^com/c<np>om$^///<sent>$^v/кеп<v><iv><imp><p2><sg>$^///<sent>$^LF5cljBWGdM/L<np>F5cljBWGdM$^"/"<sent>$^,/,<cm>$^"/"<sent>$^width/*width$^"/"<sent>$^:/:<sent>$^"/"<sent>$^450/450<num>$^"/"<sent>$^,/,<cm>$^"/"<sent>$^height/*height$^"/"<sent>$^:/:<sent>$^"/"<sent>$^360/360<num>$^"/"<sent>$}^)/)<rpar>$^;/;<sent>$
+   

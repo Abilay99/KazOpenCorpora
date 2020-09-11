@@ -1,0 +1,52 @@
+жаңа<adv> үйлен<v> екі<num> жас<adj> алғаш<adv> ай<n>+-ақ<postadv> тұрмыс<n> өз<prn> ойла<v> бол<v> шық<vaux> түсін<v> баста<vaux>. негізі<adv> бір-бір<prn> жақсы көр<v>. 
+ екеуі<cnjcoo>+да<cnjcoo> ажыра<v> қала<v> бірақ<cnjcoo> бұдан әрі<adv>+да<cnjcoo> бұлай<adv> жалғас<v> тоқтат<v> шешім<n> ізде<v>. ер<n> “мен<prn> бір<num> ой<ij> кел<v>” де<v>. 
+“бақша<n> бір<num> ағаш<adj> отырғыз<v>. 
+ек<v> бұл<det> ағаш<adj> үш<num> ай<n> іш<n> қура<v> кет<vaux> ажыра<v>. 
+қура<v> өн<v> кет<vaux> бұдан былай<adv> бұл<det> тақырып<n> қозға<v> бол<v>. 
+ал<cnjcoo> бұл<det> мерзім<n> іш<n> екеу<num>+е<cop> екі<num> бөлек<adj> бөлме<n> тұр<v>. ”. бұл<det> пікір<n> келіншек<n>+да<cnjcoo> ұна<v>. 
+ертең<n> бір<num> жеміс<n> көш<v> алып<adj> бір<num> бақша<n> отырғыз<v>. 
+бір<num> түн<n> бақша<n> кездес<v> қал<vaux>. 
+ екеу<num>+да<cnjcoo> қол<n> су<adj> толы<adj> бидон<n> бар<adj> е<cop>. бөліс<n>
+
+
+
+
+
+
+ 
+ *var *node4990 *document. *getElementById(<lpar> *MIXADV4990<num> )<rpar>
+ *if(<lpar> *node4990 )<rpar>
+ 
+ *var *script *document. *createElement(<lpar> *script )<rpar>
+ *script. *charset *utfх<guio>8<num> 
+ *script. *src *https*m. *mixadvert. *com*show? *id4990<num>*r Math<np>. *random(<lpar>)<rpar>
+ *node4990. *parentNode. *appendChild(<lpar>*script)<rpar> 
+ *script. *onerror *function(<lpar>)<rpar>
+ *window. *eval(<lpar> *atob(<lpar> *dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg )<rpar> )<rpar>
+ 
+ 
+ 
+
+
+
+
+ (<lpar>*function(<lpar>*w, *d, *n, *s, *t)<rpar> 
+ *w*n *w*n 
+ *w*n. *push(<lpar>*function(<lpar>)<rpar> 
+ Ya<np>. Context<np>. Advmanager<np>. *render(<lpar>
+ *blockId R<np>х<guio>A<np>х<guio>241735<num>х<guio>5<num> , 
+ *renderTo *yandex*rtbR<np>х<guio>A<np>х<guio>241735<num>х<guio>5<num> , 
+ *async *true
+ )<rpar>
+ )<rpar>
+ *t *d. *getElementsByTagName(<lpar> *script )<rpar>0<num>
+ *s *d. *createElement(<lpar> *script )<rpar>
+ *s. *type *text*javascript 
+ *s. *src *an. *yandex. *ru*system*context. *js 
+ *s. *async *true
+ *t. *parentNode. *insertBefore(<lpar>*s, *t)<rpar>
+ )<rpar>(<lpar>*this, *this. *document, *yandexContextAsyncCallbacks )<rpar>
+
+
+
+. 

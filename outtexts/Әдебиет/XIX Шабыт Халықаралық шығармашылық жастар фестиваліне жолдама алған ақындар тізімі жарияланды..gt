@@ -1,0 +1,45 @@
+қараша<n> ай<n> 3<num> мен<prn> 8<num> аралық<n> Астана<np> қала<n> өт<v> XIX<num> «шабыт<n>» халықаралық<adj> шығармашылық<adj> жастар<adj> фестиваль<n> «үздік<adj> әдеби<adj> шығарма<n>» номинация<n> «поэзия<n>» жанр<n> бойынша<post> байқа<v> бақ<n> сына<v> жас<adj> ақын<n> тізім<n> белгілі бол<v>. 
+бұл<det> туралы<post> «массагет<n>+е<cop>. kz<abbr>» портал<n> хабарла<v>. астана<n> қала<n> «шабыт<n>» қатысатын<n> тізім<n>. астана<n> қала<n> тыс<post> жер<n> қатысатын<n> тізім<n>. *Тілегенов А<np>, (<lpar>Алматы<np>)<rpar>. Ә<np> Азамат<np>, (<lpar>Ақтөбе<np>)<rpar>. Жұмағұлов<np> Жандарбек<np>, (<lpar>Алматы<np>)<rpar>. *Жаңбырбай Асылбек<np>, (<lpar>Маңғыстау<np> облыс<n>)<rpar>. қуан<v> өзгеріс<n>, (<lpar>Павлодар<np>)<rpar>. *Өскенбайқызы А<np>, (<lpar>Алматы<np>)<rpar>. Н<np> Күләш<np>, (<lpar>Көкшетау<np>)<rpar>. Оспанов<np> қуаныш<n>, (<lpar>Көкшетау<np>)<rpar>. Тоқсанбаев<np> Мерген<np>, (<lpar>Көкшетау<np>)<rpar>. *Дәуренқызы Айдана<np>, (<lpar>Арқалық<np>)<rpar>. *Қуатбеков Ерболат<np>, (<lpar>Қарағанды<np>)<rpar>. *Чопен Ә<np>, (<lpar>қар<v>)<rpar>. Ә<np> Ерболат<np>, (<lpar>Екібастұз<np>)<rpar>. Мырзабай<np> А<np>, (<lpar>Ақтөбе<np>)<rpar>. Хакімжанов<np> Айгүл<np>, (<lpar>Көкшетау<np>)<rpar>. *Лесбекова Ұ<np>, (<lpar>Алматы<np>)<rpar>. *Игіліков Бауыржан<np>, (<lpar>Семей<np>)<rpar>. *Саршаев Н<np>, (<lpar>Тараз<np>)<rpar>. бөліс<n>
+
+
+
+
+
+
+ 
+ *var *node4990 *document. *getElementById(<lpar> *MIXADV4990<num> )<rpar>
+ *if(<lpar> *node4990 )<rpar>
+ 
+ *var *script *document. *createElement(<lpar> *script )<rpar>
+ *script. *charset *utfх<guio>8<num> 
+ *script. *src *https*m. *mixadvert. *com*show? *id4990<num>*r Math<np>. *random(<lpar>)<rpar>
+ *node4990. *parentNode. *appendChild(<lpar>*script)<rpar> 
+ *script. *onerror *function(<lpar>)<rpar>
+ *window. *eval(<lpar> *atob(<lpar> *dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg )<rpar> )<rpar>
+ 
+ 
+ 
+
+
+
+
+ (<lpar>*function(<lpar>*w, *d, *n, *s, *t)<rpar> 
+ *w*n *w*n 
+ *w*n. *push(<lpar>*function(<lpar>)<rpar> 
+ Ya<np>. Context<np>. Advmanager<np>. *render(<lpar>
+ *blockId R<np>х<guio>A<np>х<guio>241735<num>х<guio>5<num> , 
+ *renderTo *yandex*rtbR<np>х<guio>A<np>х<guio>241735<num>х<guio>5<num> , 
+ *async *true
+ )<rpar>
+ )<rpar>
+ *t *d. *getElementsByTagName(<lpar> *script )<rpar>0<num>
+ *s *d. *createElement(<lpar> *script )<rpar>
+ *s. *type *text*javascript 
+ *s. *src *an. *yandex. *ru*system*context. *js 
+ *s. *async *true
+ *t. *parentNode. *insertBefore(<lpar>*s, *t)<rpar>
+ )<rpar>(<lpar>*this, *this. *document, *yandexContextAsyncCallbacks )<rpar>
+
+
+
+. 

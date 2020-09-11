@@ -1,0 +1,1 @@
+     ^Сурет/сурет<n><nom>$^:/:<sent>$ ^scienceblog/*scienceblog$^./.<sent>$^ru/*ru$^,/,<cm>$ ^vse/*vse$^-/х<guio>$^sekrety/*sekrety$^./.<sent>$^ru/*ru$^,/,<cm>$ ^liveinternet/*liveinternet$^./.<sent>$^ru/*ru$ 

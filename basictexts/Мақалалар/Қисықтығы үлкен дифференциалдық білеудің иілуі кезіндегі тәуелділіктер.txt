@@ -1,0 +1,2 @@
+Қисықтығы үлкен дифференциалдық білеудің иілуі кезіндегі тәуелділіктер. dNdϕ=−Q{\displaystyle {\frac {dN}{d\phi }}=-Q};dQdϕ=N+qr{\displaystyle {\frac {dQ}{d\phi }}=N+qr}; dMdϕ=Qr{\displaystyle {\frac {dM}{d\phi }}=Qr}, мұндағы М-июші момент,Q-көлденең күш, N-бойлық күш, ϕ{\displaystyle \phi } - сыртқыкүштердің қарқындылығы.  
+

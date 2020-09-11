@@ -1,0 +1,7 @@
+ "Тақтар ойыны" сериалы аяқталғанына біраз болды. Сериалдағы кейіпкерлер мен эпизодтар да көрермен жадынан өше қоймаған болар. Ендеше, тесттегі кадрлардың "Тақтар ойыны" немесе басқа кино, сериалдікі екенін ажыратып көріңіз. 
+// <![CDATA[
+
+(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://embed.playbuzz.com/sdk.js';fjs.parentNode.insertBefore(js,fjs);}(document,'script','playbuzz-sdk'));
+
+// ]]>
+ "Тақтар ойыны" түсірілген жерлерге саяхат 

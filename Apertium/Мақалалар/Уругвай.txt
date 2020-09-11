@@ -1,0 +1,2 @@
+^Уругвай/Уругвай<np><top><nom>$ ^(/(<lpar>$^ис/*ис$^./.<sent>$ ^Uruguay/Uruguay<np><unk>$^)/)<rpar>$^,/,<cm>$ ^Шығыс/шығыс<adj>$ ^Уругвай/Уругвай<np><top><nom>$ ^Республикасы/республика<n><px3sp><nom>$ ^(/(<lpar>$^ис/*ис$^./.<sent>$ ^República/*República$ ^Oriental/*Oriental$ ^del/*del$ ^Uruguay/Uruguay<np><unk>$ ^[/[<lpar>$^reˈpuβlika/*reˈpuβlika$ ^oɾjenˈtal/*oɾjenˈtal$ ^del/*del$ ^uɾuˈɣwai/*uɾuˈɣwai$^]/]<rpar>$^)/)<rpar>$ ^—/—<guio>$ ^Оңтүстік Америкадағы/Оңтүстік Америка<np><top><loc><attr>$ ^мемлекет/мемлекет<n><nom>+е<cop><aor><p3><sg>$^./.<sent>$ 
+

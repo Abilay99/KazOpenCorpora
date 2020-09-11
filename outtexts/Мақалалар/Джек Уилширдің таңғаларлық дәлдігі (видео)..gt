@@ -1,0 +1,5 @@
+ *Уилширдің бұл<prn> фантастикалық<adj> дәлдік<n> иелік<n> ет<v> мүмкін<adj> немесе<cnjcoo> таспа<n> өңде<v> шығар<v>. ағылшын<adj> футбол<n> ат<n> аңыз<n> айнал<v> ойыншы<n>Дэвид<np> Б<np> да<cnjcoo> ерте<adj> дәл<adv> осы<prn> іспетті<post> аяқ<n> доп<n> шеберлік<n> көрсет<v> бір<num> бейнетаспа<n> бар<adj>+е<cop>. ол<prn> футбол<n> әлем<n> жұлдыз<n> керемет<adj> шеберлік<n> бір<num> қыр<n> көрсет<v> кет<vaux>. жалпы<adj> ал<v>, футбол<n> таңғаларлық<adj>сәт<n> көптеп<adv> кездес<v> жат<vaux> анық<adj>, алайда<adv>, дәл<adv> осы<prn> дәлдік<n> қайта<adv> орын<n> ал<v> жат<vaux> тіптен<adv> таң<n> *қақтырарлық-ақ<postadv>. 
+*writeFlash(<lpar> *src http<abbr>*www. y<np>. *comкеп<v>D<np> , *width 450<num> , *height 338<num> )<rpar>
+ 
+*writeFlash(<lpar> *src http<abbr>*www. y<np>. *comкеп<v>x<np> , *width 450<num> , *height 338<num> )<rpar>
+ 

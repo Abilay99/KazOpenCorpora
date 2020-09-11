@@ -1,0 +1,15 @@
+^34/34<num>$ ^жастағы/жас<n><loc><attr>$ ^Криштиану/К<np>риштиану$ ^Роналду/Роналду<np><ant><m><nom>$ ^қашан/қашан<adv><itg>$ ^ресми/ресми<adj>$ ^түрде/түр<n><loc>$ ^бойдақтар/бойдақ<n><pl><nom>$ ^қатарынан/қат<v><iv><ger_fut><px3sp><abl>$ ^шығатынын/шық<v><tv><ger_impf><px3sp><acc>$ ^мәлімдеді/мәлімде<v><tv><ifi><p3><sg>$
+^Әйгілі/әйгілі<adj>$ ^футболшы/футбол<n><nom>+шы<emph>$ ^өзіне/өз<prn><ref><px3sp><dat>$ ^қыз бала/қыз бала<n><nom>$ ^сыйлап/сыйла<v><tv><gna_perf>$^,/,<cm>$ ^өзге/өзге<adj>$ ^үш/үш<num>$ ^перзентіне/перзент<n><px3sp><dat>$ ^қамқор болып/қамқор бол<v><iv><prc_perf>$ ^отырған/отыр<vaux><gpr_past>$ ^сүйіктісі/сүйікті<adj><subst><px3sp><nom>$ ^Джорджина/Д<np>жорджина$ ^Родригеске/Родригес<np><cog><mf><dat>$ ^қашан/қашан<adv><itg>$ ^үйленетінін/үйлен<v><iv><ger_impf><px3sp><acc>$ ^айтты/айт<v><tv><ifi><p3><sg>$ ^деп/де<v><tv><gna_perf>$ ^жазады/жаз<v><tv><aor><p3><sg>$ ^spletnik/s<np>pletnik$^./.<sent>$^ru/r<np>u$ ^сайтына/сайт<n><px3sp><dat>$ ^сілтеме/сілтеме<n><nom>$ ^жасаған/жаса<v><tv><gpr_past>$ ^KAZ/Kaz<np><unk>$^./.<sent>$^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$^./.<sent>$
+^Фото/фото<n><nom>$^:/:<sent>$ ^hellomagazine/*hellomagazine$^./.<sent>$^ru/r<np>u$
+^Жеке/жеке<adj>$ ^өмірі/өмір<n><px3sp><nom>$ ^жайлы/жайлы<adj>$ ^сыр/сыр<n><nom>$ ^ақтармайтын/ақтар<v><tv><neg><gpr_impf>$ ^аяқдопшы/а<np>яқдопшы$ ^бұл/бұл<det><dem>$ ^жолы/жол<n><px3sp><nom>$ ^ағынан/ақ<adj><subst><px3sp><abl>$ ^жарылды/жар<v><tv><pass><ifi><p3><sg>$
+^Роналду/Роналду<np><ant><m><nom>$ ^ғашығы/*ғашығы$ ^екеуінің/екеу<num><coll><subst><px3sp><gen>$ ^болашаққа/болашақ<n><dat>$ ^қойған/қой<v><tv><gpr_past>$ ^жоспарымен де/жоспар<n><px3sp><ins>+да<cnjcoo>$ ^бөліскен/бөліс<v><tv><past><p3><sg>$^./.<sent>$
+^Сонымен қатар/сонымен қатар<adv>$^,/,<cm>$ ^танымал/танымал<adj>$ ^шабуылшы/шабуыл<n><nom>+шы<emph>$ ^Джорджина/Д<np>жорджина$ ^ол/ол<prn><pers><p3><sg><nom>$ ^үшін/үшін<post>$ ^сүйіктісі ғана/сүйікті<adj><subst><px3sp><nom>+ғана<postadv>$ ^емес/е<cop><neg><aor><p3><sg>$^,/,<cm>$ ^сырлас/сырлас<adj>$ ^досы/дос<n><px3sp><nom>$ ^екенін де/е<cop><ger_past><px3sp><acc>+да<cnjcoo>$ ^жеткізді/жеткіз<v><tv><ifi><p3><sg>$
+^Футболшы/футбол<n><nom>+шы<emph>$ ^тек/тек<cnjcoo>$ ^ғашығына/*ғашығына$ ^ғана/ғана<adv>$ ^сене/сен<v><tv><prc_impf>$ ^алатынын/ал<vaux><ger_impf><px3sp><acc>$ ^айтты/айт<v><tv><ifi><p3><sg>$
+
+^Роналду/Роналду<np><ant><m><nom>$ ^қызының/қыз<n><px3sp><gen>$ ^анасымен/ана<n><px3sp><ins>$ ^жеке/жеке<adj>$ ^болғанда/бол<v><iv><ger_past><loc>$ ^оған/ол<prn><dem><dat>$ ^бар/бар<adj>$ ^жан/жан<n><nom>$ ^дүниесін/дүние<n><px3sp><acc>$ ^ашып/аш<v><tv><gna_perf>$^,/,<cm>$ ^сырын/сыр<n><px3sp><acc>$ ^ақтара/ақтар<v><tv><prc_impf>$ ^алатынын/ал<vaux><ger_impf><px3sp><acc>$ ^мойындады/мойында<v><tv><ifi><p3><sg>$^./.<sent>$
+^Қалған/қалған<adj><subst><nom>$ ^екі/екі<num>$ ^бүлдіршін/бүлдіршін<n><nom>$ ^мен/мен<cnjcoo>$ ^футболшының/футболшы<n><gen>$ ^үлкен/үлкен<adj>$ ^ұлын/ұл<n><px3sp><acc>$ ^дүниеге/дүние<n><dat>$ ^суррогат/*суррогат$ ^ана/ана<n><nom>$ ^әкелген/әкел<v><tv><gpr_past>$
+
+^Фото/фото<n><nom>$^:/:<sent>$ ^Instagram/I<np>nstagram$^///<sent>$^georginagio/g<np>eorginagio$
+ 
+
+

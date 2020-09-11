@@ -1,0 +1,2 @@
+^Чили/Чили<np><top><nom>$ ^(/(<lpar>$^ис/*ис$^./.<sent>$ ^Chile/*Chile$^,/,<cm>$ ^ресми/ресми<adj>$ ^атауы/атау<n><px3sp><nom>$ ^—/—<guio>$ ^Чили/Чили<np><top><nom>$ ^Республикасы/республика<n><px3sp><nom>$ ^(/(<lpar>$^ис/*ис$^./.<sent>$ ^República/*República$ ^de/*de$ ^Chile/*Chile$ ^[/[<lpar>$^reˈpuβlika/*reˈpuβlika$ ^ðe/*ðe$ ^ˈʧile/*ˈʧile$^]/]<rpar>$^)/)<rpar>$^)/)<rpar>$ ^—/—<guio>$ ^Оңтүстік Америкада/Оңтүстік Америка<np><top><loc>$ ^орналасқан/орналас<v><iv><gpr_past>$ ^мемлекет/мемлекет<n><nom>+е<cop><aor><p3><sg>$^./.<sent>$ 
+

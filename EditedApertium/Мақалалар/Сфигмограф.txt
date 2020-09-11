@@ -1,0 +1,2 @@
+^Сфигмограф/*Сфигмограф$ ^(/(<lpar>$^гр/*гр$^./.<sent>$ ^sphygmos/*sphygmos$ ^—/—<guio>$ ^қан/қан<n><nom>$ ^соғуы/соқ<v><tv><ger><px3sp><nom>$ ^және/және<cnjcoo>$ ^гр/*гр$^./.<sent>$ ^grapho/*grapho$ ^—/—<guio>$ ^жазамын/жаз<v><tv><aor><p1><sg>$^)/)<rpar>$ ^артерия/артерия<n><nom>$ ^тамырының/тамыр<n><px3sp><gen>$ ^тербелісті/тербеліс<n><acc>$ ^соғуын/соқ<v><tv><ger><px3sp><acc>$ ^жазуға/жаз<v><tv><ger><dat>$ ^арналған/арна<v><tv><pass><gpr_past>$ ^аспап/аспап<n><nom>+е<cop><aor><p3><sg>$^./.<sent>$  
+

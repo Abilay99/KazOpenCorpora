@@ -1,0 +1,2 @@
+^Сәтбаев/Сәтбаев<np><cog><m><nom>$ ^(/(<lpar>$^Sätbajev/S<np>ätbajev$^,/,<cm>$ ^орыс/орыс<n><nom>$^./.<sent>$ ^Сатпаев/Сатпаев<np><cog><m><nom>$^,/,<cm>$ ^Satpajev/Satpajev<np><unk>$^)/)<rpar>$ ^сөйлемі/сөйлем<n><px3sp><nom>$ ^мынадай/мынадай<adj>$ ^мағыналарға/мағына<n><pl><dat>$ ^жатуға/жат<v><iv><ger><dat>$ ^мүмкін/мүмкін<adj>$^:/:<sent>$ ^Елді мекендер/елді мекен<n><pl><nom>$^:/:<sent>$ ^Басқа/Бас<np><ant><m><dat>$ ^мағыналар/мағына<n><pl><nom>+е<cop><aor><p3><sg>$^:/:<sent>$ 
+

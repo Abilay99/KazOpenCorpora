@@ -1,0 +1,3 @@
+  Күн астында қуат жинау барысында механизм өз дегенін жүзеге асырады.    
+writeFlash({"src":"http://www.youtube.com/v/JmYLR35VBPs","width":"450","height":"240"});
+   

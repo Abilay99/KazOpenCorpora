@@ -1,0 +1,2 @@
+^Түпті/түп<n><acc>$ ^жуа/жу<v><tv><gna_impf>$  ^(/(<lpar>$^лат./лат.<abbr>$ ^Allium/*Allium$ ^caespitosum/*caespitosum$^)/)<rpar>$ ^–/–<guio>$ ^амариллистер/*амариллистер$ ^тұқымдасының/тұқымдас<n><px3sp><gen>$ ^жуа/жу<v><tv><gna_impf>$ ^туысына/туыс<n><px3sp><dat>$ ^жататын/жат<v><iv><gpr_impf>$ ^Қазақстанда/Қазақстан<np><top><loc>$ ^сирек/сирек<adv>$ ^кездесетін/кездес<v><iv><gpr_impf>$ ^түр/түр<n><nom>$^./.<sent>$ ^Сабағы/сабақ<n><px3sp><nom>$ ^20/20<num>$ ^см/см<abbr>$^./.<sent>$   
+

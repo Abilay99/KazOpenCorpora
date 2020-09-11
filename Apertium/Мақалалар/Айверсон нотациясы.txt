@@ -1,0 +1,2 @@
+^Айверсон/*Айверсон$ ^нотациясы/*нотациясы$ ^(/(<lpar>$^Нотация/*Нотация$ ^Айверсона/*Айверсона$^;/;<sent>$ ^Iverson/*Iverson$ ^notation/*notation$^)/)<rpar>$ ^—/—<guio>$ ^АПЛ/*АПЛ$ ^(/(<lpar>$^A/A<np><unk>$ ^Programming/*Programming$ ^Language/Language<np><unk>$^)/)<rpar>$ ^тілінің/тіл<n><px3sp><gen>$ ^негізі/негізі<adv>$ ^болып табылатын/болып табыл<v><iv><gpr_impf>$ ^математикалық/математикалық<adj>$ ^өрнектерді/өрнек<n><pl><acc>$ ^жазудың/жаз<v><tv><ger><gen>$ ^жинақы/жинақы<adj>$ ^тәсілі/тәсіл<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$   
+

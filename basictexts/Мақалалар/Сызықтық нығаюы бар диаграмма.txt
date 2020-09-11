@@ -1,0 +1,2 @@
+Сызықтық нығаюы бар диаграмма. σi{\displaystyle \sigma _{i}} мен ϵi{\displaystyle \epsilon _{i}}-дің бір-біріне тәуелділігі былай өрнектеледі: λ=tgα−tgβtgα{\displaystyle \lambda ={\frac {tg\alpha -tg\beta }{tg\alpha }}},(ϵi>ϵs{\displaystyle (\epsilon _{i}>\epsilon _{s}}; σi=Eϵi{\displaystyle \sigma _{i}=E\epsilon _{i}});  λ=0(ϵi<ϵs){\displaystyle \lambda =0(\epsilon _{i}<\epsilon _{s})}.σi{\displaystyle \sigma _{i}} - салыстырмалы ұзару.  
+

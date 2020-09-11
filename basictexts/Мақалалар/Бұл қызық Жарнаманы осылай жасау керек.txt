@@ -1,0 +1,3 @@
+Бағаңызды беріңіз. 
+writeFlash({"src":"http://www.youtube.com/v/Ni1BzrqgqSI","width":"450","height":"255"});
+ Дайындаған: Елсерік Әбдіреш сурет: видеодан скриншот 

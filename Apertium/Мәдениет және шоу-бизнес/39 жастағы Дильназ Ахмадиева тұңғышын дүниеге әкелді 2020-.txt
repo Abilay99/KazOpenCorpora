@@ -1,0 +1,13 @@
+^Отандық/отандық<adj>$ ^танымал/танымал<adj>$ ^әнші/ән<n><nom>+шы<emph>$ ^Дильназ/*Дильназ$ ^Ахмадиева/Ахмадиев<np><cog><f><nom>$ ^39/39<num>$ ^жасында/жас<n><px3sp><loc>$ ^алғаш рет/алғаш рет<adv>$ ^ана/ана<n><nom>$ ^атанды/атан<n><acc>$
+^Өнер/өн<v><iv><gpr_fut>$ ^иесі/ие<n><px3sp><nom>$ ^жолдасына/жолдас<adj><subst><px3sp><dat>$ ^ұл/ұл<n><nom>$ ^бала/бала<n><nom>$ ^сыйлаған/сыйла<v><tv><gpr_past>$
+^Қуанышты/қуанышты<adj>$ ^жаңалықты/жаңалық<n><acc>$ ^қалың/қалың<adj>$ ^көпшілікке/көпшілік<n><dat>$ ^бірінші/бір<num><ord>$ ^болып/бол<v><iv><gna_perf>$ ^шоу/шоу<n><nom>$^-/х<guio>$^бизнес/бизнес<n><nom>$ ^жұлдызының/жұлдыз<n><px3sp><gen>$ ^өзі/өз<prn><ref><px3sp><nom>$ ^жеткізді/жеткіз<v><tv><ifi><p3><sg>$
+^Ол/ол<prn><pers><p3><sg><nom>$ ^көптен/көп<adj><subst><abl>$ ^күткен/күт<v><tv><gpr_past>$ ^сәбиі/сәби<n><px3sp><nom>$ ^дүниеге келгенін/дүниеге кел<v><iv><ger_past><px3sp><acc>$ ^Instagram/*Instagram$ ^желісінде/желі<n><px3sp><loc>$ ^хабарлады/хабарла<v><tv><ifi><p3><sg>$ ^деп/де<v><tv><gna_perf>$ ^жазады/жаз<v><tv><aor><p3><sg>$ ^KAZ/Kaz<np><unk>$^./.<sent>$^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$^./.<sent>$
+^Фото/фото<n><nom>$^:/:<sent>$ ^Instagram/*Instagram$^///<sent>$^dilnaz/*dilnaz$_^akhmadiyeva/*akhmadiyeva$
+^Коллаж/коллаж<n><nom>$^:/:<sent>$ ^KAZ/Kaz<np><unk>$^./.<sent>$^NUR/Nur<np><unk>$^./.<sent>$^KZ/Kz<np><unk>$
+^Дильназ/*Дильназ$ ^Ахмадиева/Ахмадиев<np><cog><f><nom>$ ^тұңғышын/*тұңғышын$ ^босанғаны/босан<v><iv><ger_past><px3sp><nom>$ ^жайлы/жайлы<adj>$ ^әсерлі/әсерлі<adj>$ ^жазба/жазба<n><nom>$ ^қалдырған/қалдыр<v><tv><past><p3><sg>$^./.<sent>$
+^Желі/желі<n><nom>$ ^қолданушылары/қолданушы<n><pl><px3sp><nom>$ ^39/39<num>$ ^жасында/жас<n><px3sp><loc>$ ^алғаш рет/алғаш рет<adv>$ ^ана/ана<n><nom>$ ^бақытына/бақыт<n><px3sp><dat>$ ^бөленген/бөле<v><tv><pass><gpr_past>$ ^өнер/өн<v><iv><gpr_fut>$ ^иесі/ие<n><px3sp><nom>$ ^үшін/үшін<post>$ ^қатты/қатты<adv>$ ^қуанып/қуан<v><iv><gna_perf>$^,/,<cm>$ ^оған/ол<prn><dem><dat>$ ^деген/де<v><tv><gpr_past>$ ^құттықтау/құттықта<v><tv><ger><nom>$ ^сөздерін/сөз<n><pl><px3sp><acc>$ ^жарыса/жарыс<v><iv><prc_impf>$ ^жаудырған/жаудыр<v><tv><gpr_past>$
+
+^Айта/айт<v><tv><prc_impf>$ ^кетейік/кет<vaux><opt><p1><pl>$^,/,<cm>$ ^бұған/бұл<prn><dem><dat>$ ^дейін/дейін<post>$ ^Дильназ/*Дильназ$ ^Ахмадиеваның/Ахмадиев<np><cog><f><gen>$ ^жүкті/жүк<n>+лы<post>$ ^екенін/е<cop><ger_past><px3sp><acc>$ ^жазған/жаз<v><tv><gpr_past>$ ^болатынбыз/бол<v><iv><pih><p1><pl>$^./.<sent>$
+
+^Ең/ең<adv>$ ^маңызды/маңызды<adj>$ ^әрі/әрі<cnjcoo>$ ^қызықты/қызықты<adj>$ ^жаңалықтарды/жаңалық<n><pl><acc>$ ^біздің/біз<prn><pers><p1><pl><gen>$ ^Telegram/Telegram<np><unk>$ ^арнамыздан/арна<n><px1pl><abl>$ ^оқыңыздар/оқы<v><tv><imp><p2><frm><pl>$^!/!<sent>$
+ 

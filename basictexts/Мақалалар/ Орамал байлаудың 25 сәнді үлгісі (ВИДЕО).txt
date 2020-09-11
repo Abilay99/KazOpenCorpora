@@ -1,0 +1,3 @@
+  
+writeFlash({"src":"http://www.youtube.com/v/aeYmTZpeXJY?version=3&amp;amp;hl=ru_RU","width":"100%","height":"500"});
+  

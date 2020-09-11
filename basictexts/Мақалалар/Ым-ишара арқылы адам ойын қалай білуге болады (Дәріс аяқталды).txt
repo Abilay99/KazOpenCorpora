@@ -1,0 +1,5 @@
+Сайтымызда алғаш рет өткізіліп отырған веб-семинарға қош келдіңіздер! 
+writeFlash({"allowScriptAccess":"always","allowFullScreen":"true","allowNetworking":"all","flashvars":"file=massaget&amp;amp;amp;amp;streamer=rtmp://old.tengrinews.kz:554/livu&amp;amp;amp;amp;rtmp.tunneling=false&amp;amp;amp;amp;autostart=true","src":"http://tengrinews.kz/static/js/jwplayer/player.swf","width":"800","height":"500"});
+ 
+writeFlash({"allowScriptAccess":"always","allowFullScreen":"true","allowNetworking":"all","flashvars":"file=massaget&amp;amp;amp;streamer=rtmp://old.tengrinews.kz:554/livu&amp;amp;amp;rtmp.tunneling=false&amp;amp;amp;autostart=true","src":"http://tengrinews.kz/static/js/jwplayer/player.swf","width":"800","height":"500"});
+ Сабаққа белсенді түрде қатысыңыздар. Төмендегі пікір жазатын алаңға сұрақтарыңызды жазуыңызға болады.  Бүгінгі сабағымыз ым-ишара, бейвербалды сигналдарға шолу ретінде өтеді.  
