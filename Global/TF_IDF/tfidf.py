@@ -5,14 +5,18 @@ import math
 class tf_idf(object):
     def __init__(self, text, papka_train, length_keywords = 15):
         self.__tf = collections.Counter(text[0])
+        for i in range(len(text[0])):
+            if len(str(text[0][i])) < 2:
+                del self.__tf[text[0][i]]
         self.__idf = {}
         self.__tf_idf = {}
         self.__len_text = len(text[0])
         self.__papka = papka_train
         self.__length_keywords = length_keywords
         for i in range(len(text[1])):
-            if str(text[1][i]) != str('<n>') and str(text[1][i]) != str('<np>'):
+            if str(text[1][i]) != str('<n>') and str(text[1][i]) != str('<np>') and str(text[1][i]) != str('<unknown>'):
                 del self.__tf[text[0][i]]
+        
 
     #===tf===
     def tf_esepteu(self):

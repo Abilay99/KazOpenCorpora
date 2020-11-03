@@ -43,7 +43,7 @@ class bigram(object):
             sozder[i] = str(sozder[i]).lower()
             new = ""
             for j in sozder[i]:
-                if j in "abcdefghigklmnopqrstuvwxyzаәбвгғдеёжзийкқлмнңоөпрстуұүфхһцчшщьыъіэюя1234567890":
+                if j in "abcdefghigklmnopqrstuvwxyzаәбвгғдеёжзийкқлмнңоөпрстуұүфхһцчшщьыъіэюя1234567890-":
                     new += j
             sozder[i] = new
         if sozder[len(sozder)-1] == '':
@@ -103,7 +103,7 @@ class bigram(object):
                 del res[i]
                 length -= 1
                 i -= 1
-            elif str(res[i][0]).lower() not in "abcdefghigklmnopqrstuvwxyzаәбвгғдеёжзийкқлмнңоөпрстуұүфхһцчшщьыъіэюя1234567890":
+            elif str(res[i][0]).lower() not in "abcdefghigklmnopqrstuvwxyzаәбвгғдеёжзийкқлмнңоөпрстуұүфхһцчшщьыъіэюя1234567890-":
                 res[i] = res[i][1:]
             i += 1
         return res

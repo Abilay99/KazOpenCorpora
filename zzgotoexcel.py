@@ -1,13 +1,9 @@
 import os,glob
-try:
-    import xlwt
-except ImportError:
-    os.system("pip install xlwt")
-    import xlwt
+import xlwt
 import re
 from Global import (TF_IDF, tf_idf, bigram, bi_tf_idf)
 
-papka_train = os.path.join(os.path.dirname(__file__), "train")
+papka_train = os.path.join(os.path.dirname(__file__), "testtrain")
 papka_korpus = os.path.dirname(__file__)
 #TF_IDF jaily aqparat
 print(TF_IDF.__doc__)
@@ -16,8 +12,6 @@ print(TF_IDF.__doc__)
 def sozgebolu(text):
     tag = re.findall(r'[<]+\w+[>]+', text)
     sozder = re.split(r'[<]+\w+[>]+', text)
-    if sozder[0][0] == '\ufeff':
-        sozder[0] = sozder[0][1:]
     for i in range(len(sozder)):
         sozder[i] = str(sozder[i]).lower()
         new = ""
@@ -51,7 +45,7 @@ for i in range(len(stxt)):
 
 #textter
 sany = 1
-for filename in glob.glob(os.path.join(os.path.join(papka_korpus, "outtexts"), '*.gototrain')):
+for filename in glob.glob(os.path.join(os.path.join(papka_korpus, "testouttexts"), '*.gt')):
     with open(filename, 'r', encoding="utf-8") as f:
         
         print(sany)

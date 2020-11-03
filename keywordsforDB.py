@@ -10,6 +10,9 @@ papka_korpus = os.path.dirname(__file__)
 class tf_idf(object):
     def __init__(self, text, len_corp, objectCorporaDB, length_keywords = 15):
         self.__tf = collections.Counter(text[0])
+        for i in range(len(text[0])):
+            if len(str(text[0][i])) < 2:
+                del self.__tf[text[0][i]]
         self.__idf = {}
         self.__tf_idf = {}
         self.__len_text = len(text[0])
@@ -77,6 +80,9 @@ class tf_idf(object):
 class bi_tf_idf(object):
     def __init__(self, text, len_corp, objectCorporaDB, length_keywords = 15):
         self.__bi_tf = collections.Counter(text[0])
+        for i in range(len(text[0])):
+            if len(str(text[0][i])) < 2:
+                del self.__tf[text[0][i]]
         self.__bi_idf = {}
         self.__bi_tf_idf = {}
         self.__len_text = len(text[1])
@@ -161,9 +167,18 @@ class bigram(object):
             i = 0
             while i < n:
                 for j in stxt:
-                    if soz[i] == j:
+                    if soz[i] == j or len(soz[i]) < 2:
                         soz.remove(j)
                         try:
+                            del tag[i]
+                        except IndexError:
+                            pass
+                        n -= 1
+                        i -= 1
+                        break
+                    if len(soz[i]) < 2:
+                        try:
+                            del soz[i]
                             del tag[i]
                         except IndexError:
                             pass
@@ -298,7 +313,7 @@ for i in range(len(stxt)):
 #db connect
 ob = corporaDB()
 
-start_with = 42
+start_with = 75
 count = 25
 lencorp = int(ob.Count_corpora()[0]['sany'])
 while start_with < lencorp:
@@ -349,7 +364,8 @@ while start_with < lencorp:
         ob.KESTENI_JANARTU(bagan_aty='keywords', bagan_mani=keywords, bagan_id=results[kk]['id'])
     start_with += 25
     if start_with + count > lencorp:
-        count = lencorp - start_with - 1
+        count = lencorp - start_with
+    
     print(f"Qazirge {start_with + count} matin daiyn!")
     
     

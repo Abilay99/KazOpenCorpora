@@ -12,7 +12,7 @@ class corporaDB():
         return self.__user
     def getPassword(self):
         return self.__password
-    def __init__(self, host = 'localhost', user = 'root', password = ')x1IUOu1yoyY'):
+    def __init__(self, host = '10.1.16.235', user = 'haker3102', password = ')x1IUOu1yoyY'):
         self.__host = host
         self.__user = user
         self.__password = password
@@ -194,10 +194,31 @@ class corporaDB():
             self.__mydb.commit()
         except:
             print("Qate: {}".format(err.error_map))
+    def SelectsText(self, start_with = 0, count_def = 25):
+        try:
+            with self.__mydb.cursor() as cr:
+                query = f"SELECT `id`, `text` FROM searchengine.corpora LIMIT {start_with}, {count_def};"
+                cr.execute(query)
+                res = cr.fetchall()
+                return res
+            self.__mydb.commit()
+        except:
+            print("Qate: {}".format(err.error_map))
+    def SelectsForAnalyze(self, gid = 1):
+        try:
+            with self.__mydb.cursor() as cr:
+                query = f"SELECT C.text, G.kz FROM searchengine.corpora as C join searchengine.genres as G on(C.genre_id = G.id) where G.id = {gid};"
+                cr.execute(query)
+                res = cr.fetchall()
+                return res
+            self.__mydb.commit()
+        except:
+            print("Qate: {}".format(err.error_map))
+
     def for_count_lemmas(self, phrase = ""):
         try:
             with self.__mydb.cursor() as cr:
-                query = f"SELECT count(id) as sany FROM searchengine.corpora where lemmas like '%{phrase}%';"
+                query = f"SELECT COUNT(id) as sany FROM `searchengine`.`corpora` WHERE MATCH(lemmas) AGAINST('{phrase}');"
                 cr.execute(query)
                 res = cr.fetchall()
                 return res
@@ -208,6 +229,16 @@ class corporaDB():
         try:
             with self.__mydb.cursor() as cr:
                 query = f"SELECT count(id) as sany FROM searchengine.corpora;"
+                cr.execute(query)
+                res = cr.fetchall()
+                return res
+            self.__mydb.commit()
+        except:
+            print("Qate: {}".format(err.error_map))
+    def Count_genres(self):
+        try:
+            with self.__mydb.cursor() as cr:
+                query = f"SELECT count(id) as sany FROM searchengine.genres;"
                 cr.execute(query)
                 res = cr.fetchall()
                 return res
@@ -247,7 +278,7 @@ class corporaDB():
         try:
             if not self.__tekseruDQ() and not self.__tekseruDQK():
                 with self.__mydb.cursor() as cr:
-                    query = f"""UPDATE searchengine.corpora SET {bagan_aty} = '{bagan_mani}' WHERE id = '{bagan_id}';"""
+                    query = f"""UPDATE searchengine.corpora SET `{bagan_aty}` = '{bagan_mani}' WHERE `id` = {bagan_id};"""
                     cr.execute(query)
                     print(f"bagan id = {bagan_id} janartyldy!")
             self.__mydb.commit()
@@ -317,4 +348,3 @@ class corporaDB():
             return n
         except:
             print("Qate: {}".format(err.error_map))
-

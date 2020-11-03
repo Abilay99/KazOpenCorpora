@@ -5,6 +5,9 @@ import math
 class bi_tf_idf(object):
     def __init__(self, text, papka_train, length_keywords = 15):
         self.__bi_tf = collections.Counter(text[0])
+        for i in range(len(text[0])):
+            if len(str(text[0][i])) < 2:
+                del self.__tf[text[0][i]]
         self.__bi_idf = {}
         self.__bi_tf_idf = {}
         self.__len_text = len(text[1])
