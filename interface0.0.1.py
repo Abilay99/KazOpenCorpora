@@ -9,8 +9,18 @@ from subprocess import PIPE, run
 import collections, re
 import math
 papka_korpus = os.path.dirname(__file__)
-
-
+from sys import platform
+OS = "unknown"
+__sep = "\\"
+if platform == "linux" or platform == "linux2":
+    OS = "Linux"
+    __sep = "/"
+elif platform == "darwin":
+    OS = "MacOS"
+    __sep = "/"
+elif platform == "win32" or platform == "win64":
+    OS = "Windows"
+    __sep = "\\"
 
 def sozgebolu(text):
     tag = re.findall(r'[<]+\w+[>]+', text)
@@ -442,10 +452,34 @@ class mywindow(QtWidgets.QMainWindow):
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
         self.ui.pushButton.clicked.connect(self.clickbtn)
-    def clickbtn(self):
+        self.ui.pushButton_3.clicked.connect(self.reload)
+        self.ui.actionOpen.triggered.connect(self.openFileNameDialog)
+        self.ui.actionSave.triggered.connect(self.saveFileDialog)
+        self.tfidf = {}
+        self.bi_tfidf = {}
+    def openFileNameDialog(self):
+        options = QtWidgets.QFileDialog.Options()
+        options |= QtWidgets.QFileDialog.DontUseNativeDialog
+        fileName, _ = QtWidgets.QFileDialog.getOpenFileName(self, "QFileDialog.getOpenFileName()", "","Text Files (*.txt);;All Files (*)", options=options)
+        if fileName:
+            with open(fileName, 'r', encoding="utf-8") as f:
+                self.ui.plainTextEdit.setPlainText(f.read())
+    def saveFileDialog(self):
+        options = QtWidgets.QFileDialog.Options()
+        options |= QtWidgets.QFileDialog.DontUseNativeDialog
+        fileName, _ = QtWidgets.QFileDialog.getSaveFileName(self,"QFileDialog.getSaveFileName()","<filename>-keywords", "Text Files (*.txt);;All Files (*)", options=options)
+        if fileName:
+            with open(fileName+".txt", 'w', encoding="utf-8") as f:
+                for x in self.tfidf:
+                    f.write(str(x)+"\n")
+                for x in self.bi_tfidf:
+                    f.write(str(x)+"\n") 
+    def reload(self):
         if self.ui.rettext() != "":
             self.ui.pushButton.setVisible(False)
             self.ui.progressBar.setVisible(True)
+            self.ui.pushButton_2.setVisible(False)
+            self.ui.pushButton_3.setVisible(False)
             with open(os.path.join(papka_korpus,'tmp/text.tmp'),'w', encoding="utf-8") as f:
                 f.write(self.ui.rettext())
             os.system('''cd $HOME/sources/apertium-kaz-rus\ncat "{0}" | apertium -n -d. kaz-rus-tagger > "{1}"'''.format(os.path.join(papka_korpus,'tmp/text.tmp'), os.path.join(papka_korpus,'tmp/app.tmp')))
@@ -482,7 +516,7 @@ class mywindow(QtWidgets.QMainWindow):
             self.ui.progressBar.setValue(16)
             idf = TfIdf.idf_esepteu()
             self.ui.progressBar.setValue(32)
-            tfidf = TfIdf.tf_idf_esepteu()
+            self.tfidf = TfIdf.tf_idf_esepteu()
             self.ui.progressBar.setValue(48)
 
             #bigram TF_IDF klasssyndagy konstruktordy qoldanyluy
@@ -491,7 +525,7 @@ class mywindow(QtWidgets.QMainWindow):
             self.ui.progressBar.setValue(64)
             bi_idf = BiTfIdf.bi_idf_esepteu()
             self.ui.progressBar.setValue(80)
-            bi_tfidf = BiTfIdf.bi_tf_idf_esepteu()
+            self.bi_tfidf = BiTfIdf.bi_tf_idf_esepteu()
             self.ui.progressBar.setValue(100)
 
             row = 1
@@ -553,7 +587,7 @@ class mywindow(QtWidgets.QMainWindow):
 
             row = 1
             col = 4
-            for x in tfidf:
+            for x in self.tfidf:
                 item = QtWidgets.QTableWidgetItem()
                 item.setBackground(QtGui.QColor(192,254,255))
                 item.setFont(font)
@@ -562,10 +596,10 @@ class mywindow(QtWidgets.QMainWindow):
                 item = QtWidgets.QTableWidgetItem()
                 item.setBackground(QtGui.QColor(192,254,255))
                 item.setFont(font)
-                item.setText(str(round(tfidf[x], 5)))
+                item.setText(str(round(self.tfidf[x], 5)))
                 self.ui.tableWidget.setItem(row, col+1, item)
                 row += 1
-            for x in bi_tfidf:
+            for x in self.bi_tfidf:
                 item = QtWidgets.QTableWidgetItem()
                 item.setBackground(QtGui.QColor(192,254,255))
                 item.setFont(font)
@@ -574,7 +608,144 @@ class mywindow(QtWidgets.QMainWindow):
                 item = QtWidgets.QTableWidgetItem()
                 item.setBackground(QtGui.QColor(192,254,255))
                 item.setFont(font)
-                item.setText(str(round(bi_tfidf[x], 5)))
+                item.setText(str(round(self.bi_tfidf[x], 5)))
+                self.ui.tableWidget.setItem(row, col+1, item)
+                row += 1
+            if self.ui.progressBar.value() == int(100):
+                self.ui.clearbar()
+    def clickbtn(self):
+        if self.ui.rettext() != "":
+            self.ui.pushButton.setVisible(False)
+            self.ui.progressBar.setVisible(True)
+            with open(os.path.join(papka_korpus,'tmp/text.tmp'),'w', encoding="utf-8") as f:
+                f.write(self.ui.rettext())
+            os.system('''cd $HOME/sources/apertium-kaz-rus\ncat "{0}" | apertium -n -d. kaz-rus-tagger > "{1}"'''.format(os.path.join(papka_korpus,'tmp/text.tmp'), os.path.join(papka_korpus,'tmp/app.tmp')))
+            apertium = open(os.path.join(papka_korpus,'tmp/app.tmp'),'r',encoding="utf-8").read()
+            eadb = EditedApertium_DB(text = self.ui.rettext(), apertium = apertium)
+            editedapertium = str(eadb)
+            outtexts = str(outtexts_DB(aptext = editedapertium))
+            train = str(train_DB(outtexts = outtexts))
+            txt = outtexts
+            #failda berilgen matinnen tek sozderdi wygaryp beredi
+            soz = sozgebolu(txt)
+
+            #stopwordtard alyp tastau
+            n = len(soz[0])
+            i = 0
+            while i < n:
+                for j in stxt:
+                    if soz[0][i] == j:
+                        soz[0].remove(j)
+                        del soz[1][i]
+                        n -= 1
+                        i -= 1
+                        break
+                i += 1
+            #bigram klasssyndagy konstruktordy qoldanyluy
+            bi = bigram(text = txt, papka_korpus = papka_korpus)
+            text = [bi.newlemm, bi.lastlemm]
+
+            #TF_IDF klasssyndagy konstruktordy qoldanyluy
+            TfIdf = tf_idf(text = soz, len_corp = lencorp, objectCorporaDB = ob)
+
+            #esepteuler
+            tf = TfIdf.tf_esepteu()
+            self.ui.progressBar.setValue(16)
+            idf = TfIdf.idf_esepteu()
+            self.ui.progressBar.setValue(32)
+            self.tfidf = TfIdf.tf_idf_esepteu()
+            self.ui.progressBar.setValue(48)
+
+            #bigram TF_IDF klasssyndagy konstruktordy qoldanyluy
+            BiTfIdf = bi_tf_idf(text = text, len_corp = lencorp, objectCorporaDB = ob)
+            bi_tf = BiTfIdf.bi_tf_esepteu()
+            self.ui.progressBar.setValue(64)
+            bi_idf = BiTfIdf.bi_idf_esepteu()
+            self.ui.progressBar.setValue(80)
+            self.bi_tfidf = BiTfIdf.bi_tf_idf_esepteu()
+            self.ui.progressBar.setValue(100)
+
+            row = 1
+            col = 0
+            font = QtGui.QFont()
+            font.setPointSize(12)
+            font.setFamily("Times New Roman")
+            for x in tf:
+                item = QtWidgets.QTableWidgetItem()
+                item.setBackground(QtGui.QColor(192,254,255))
+                item.setFont(font)
+                item.setText(str(x))
+                self.ui.tableWidget.setItem(row, col, item)
+                item = QtWidgets.QTableWidgetItem()
+                item.setBackground(QtGui.QColor(192,254,255))
+                item.setFont(font)
+                item.setText(str(round(tf[x], 5)))
+                self.ui.tableWidget.setItem(row, col+1, item)
+                row += 1
+            for x in bi_tf:
+                item = QtWidgets.QTableWidgetItem()
+                item.setBackground(QtGui.QColor(192,254,255))
+                item.setFont(font)
+                item.setText(str(x))
+                self.ui.tableWidget.setItem(row, col, item)
+                item = QtWidgets.QTableWidgetItem()
+                item.setBackground(QtGui.QColor(192,254,255))
+                item.setFont(font)
+                item.setText(str(round(bi_tf[x], 5)))
+                self.ui.tableWidget.setItem(row, col+1, item)
+                row += 1
+
+            row = 1
+            col = 2
+            for x in idf:
+                item = QtWidgets.QTableWidgetItem()
+                item.setBackground(QtGui.QColor(192,254,255))
+                item.setFont(font)
+                item.setText(str(x))
+                self.ui.tableWidget.setItem(row, col, item)
+                item = QtWidgets.QTableWidgetItem()
+                item.setBackground(QtGui.QColor(192,254,255))
+                item.setFont(font)
+                item.setText(str(round(idf[x], 5)))
+                self.ui.tableWidget.setItem(row, col+1, item)
+                row += 1
+            for x in bi_idf:
+                item = QtWidgets.QTableWidgetItem()
+                item.setBackground(QtGui.QColor(192,254,255))
+                item.setFont(font)
+                item.setText(str(x))
+                self.ui.tableWidget.setItem(row, col, item)
+                item = QtWidgets.QTableWidgetItem()
+                item.setBackground(QtGui.QColor(192,254,255))
+                item.setFont(font)
+                item.setText(str(round(bi_idf[x], 5)))
+                self.ui.tableWidget.setItem(row, col+1, item)
+                row += 1
+
+            row = 1
+            col = 4
+            for x in self.tfidf:
+                item = QtWidgets.QTableWidgetItem()
+                item.setBackground(QtGui.QColor(192,254,255))
+                item.setFont(font)
+                item.setText(str(x))
+                self.ui.tableWidget.setItem(row, col, item)
+                item = QtWidgets.QTableWidgetItem()
+                item.setBackground(QtGui.QColor(192,254,255))
+                item.setFont(font)
+                item.setText(str(round(self.tfidf[x], 5)))
+                self.ui.tableWidget.setItem(row, col+1, item)
+                row += 1
+            for x in self.bi_tfidf:
+                item = QtWidgets.QTableWidgetItem()
+                item.setBackground(QtGui.QColor(192,254,255))
+                item.setFont(font)
+                item.setText(str(x))
+                self.ui.tableWidget.setItem(row, col, item)
+                item = QtWidgets.QTableWidgetItem()
+                item.setBackground(QtGui.QColor(192,254,255))
+                item.setFont(font)
+                item.setText(str(round(self.bi_tfidf[x], 5)))
                 self.ui.tableWidget.setItem(row, col+1, item)
                 row += 1
             
