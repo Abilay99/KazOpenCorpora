@@ -18,4 +18,4 @@
   * use terminal: python3 zzgotokeywordsplaintext.py
   * see directory testKeywords
   * use terminal: python3 interface0.0.1.py
-  
+## readme not yet complete
