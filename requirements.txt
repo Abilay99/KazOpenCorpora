@@ -1,0 +1,4 @@
+pymorphy
+tqdm
+xlwt
+xlrd
