@@ -44,7 +44,7 @@ class FileEdit(QPlainTextEdit):
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
-        MainWindow.resize(1080, 580)
+        MainWindow.resize(1080, 620)
         self.basewidth = 1040
         self.expandwidth = 360
         self.tbasewidth = 0
