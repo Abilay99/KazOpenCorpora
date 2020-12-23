@@ -7,20 +7,20 @@
   * GPU: intel hd graphics or minimal or minimal graphics accelerator
   * Interpreter: Python > 3.6.8 
 * **Installation**
-  * 1 mysql: https://dev.mysql.com/downloads/mysql/ or using terminal sudo **apt-get install mysql-server mysql-client**
+  * mysql: https://dev.mysql.com/downloads/mysql/ or using terminal sudo **apt-get install mysql-server mysql-client**
     * creating database searchengine and importing database
       * Global database for backup link:  https://yadi.sk/d/XHNCEjSadhCaJg
-  * 2 apertium: use terminal:
+  * apertium: use terminal:
       * mkdir $HOME/sources
       * cd $HOME/sources
       * wget http://apertium.projectjj.com/apt/install-nightly.sh
       * sudo bash install-nightly.sh
       * sudo apt-get -f install locales build-essential automake subversion pkg-config gawk libtool apertium-all-dev
       * Then execute all the commands on the link: https://wiki.apertium.org/wiki/Kazakh_and_Russian
-  * 3 Cloning project: use terminal:
+  * Cloning project: use terminal:
       * cd $HOME
       * git clone https://github.com/Abilay99/KazOpenCorpora.git
-  * 4 python packages: use terminal:
+  * python packages: use terminal:
       * cd $HOME/KazOpenCorpora 
       * pip install -r requirements.txt 
 * **Test**
