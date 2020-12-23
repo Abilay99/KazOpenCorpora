@@ -23,8 +23,8 @@
       * sed -i backup22102020.sql -e 's/utf8mb4_0900_ai_ci/utf8mb4_general_ci/g'
      * mysql -u root -p
      * enter your password
-     * > CREATE DATABASE searchengine CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci
-     * > exit;
+     * \> CREATE DATABASE searchengine CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci
+     * \> exit;
      * mysql -u root -p searchengine < backup22102020.sql
      * Enter your root password from mysql and wait to finish
   * apertium: use terminal:
@@ -44,4 +44,5 @@
   * Inserting *.txt files to directory **testbasictexts**
   * use terminal: python3 zzgotokeywordsplaintext.py
   * see directory testKeywords
+  * Editing file CorporaDB inserting your root password from mysql and launch interface0.0.1 forms
   * use terminal: python3 interface0.0.1.py
