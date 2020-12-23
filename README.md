@@ -7,9 +7,26 @@
   * GPU: intel hd graphics or minimal or minimal graphics accelerator
   * Interpreter: Python > 3.6.8 
 * **Installation**
-  * mysql: https://dev.mysql.com/downloads/mysql/ or using terminal sudo **apt-get install mysql-server mysql-client**
+  * mysql: https://dev.mysql.com/downloads/mysql/ or using terminal command
+    * sudo apt-get install mysql-server mysql-client
+    * sudo mysql_secure_installation
+     * Enter current password for root (enter for none): Press Enter
+     * Set root password? [Y/n] y Enter Y to set root password
+     * New password: enter your password but it will not be visible
+     * Re-enter new password: enter your password but it will not be visible
+     * Next, you can press Enter to answer all remaining questions
     * creating database searchengine and importing database
-      * Global database for backup link:  https://yadi.sk/d/XHNCEjSadhCaJg
+     * Global database for backup link:  https://yadi.sk/d/XHNCEjSadhCaJg downloading and paste to $HOME or /home/\<username\> directory and
+     * use terminal
+      * cd $HOME
+      * sed -i backup22102020.sql -e 's/utf8mb4_unicode_ci/utf8mb4_general_ci/g'
+      * sed -i backup22102020.sql -e 's/utf8mb4_0900_ai_ci/utf8mb4_general_ci/g'
+     * mysql -u root -p
+     * enter your password
+     * > CREATE DATABASE searchengine CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci
+     * > exit;
+     * mysql -u root -p searchengine < backup22102020.sql
+     * Enter your root password from mysql and wait to finish
   * apertium: use terminal:
       * mkdir $HOME/sources
       * cd $HOME/sources
@@ -28,4 +45,3 @@
   * use terminal: python3 zzgotokeywordsplaintext.py
   * see directory testKeywords
   * use terminal: python3 interface0.0.1.py
-## readme not yet complete
