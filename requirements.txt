@@ -1,4 +1,4 @@
-pymorphy
+pymysql
 tqdm
 xlwt
 xlrd
